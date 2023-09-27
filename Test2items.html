@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,IE=9,chrome=1"><meta name="generator" content="MATLAB 2021a"><title>Untitled</title><style type="text/css">.rtcContent { padding: 30px; } .CodeBlock { background-color: #F7F7F7; margin: 10px 0 10px 0;}
+.S0 { border-left: 1px solid rgb(233, 233, 233); border-right: 1px solid rgb(233, 233, 233); border-top: 1px solid rgb(233, 233, 233); border-bottom: 0px none rgb(0, 0, 0); border-radius: 4px 4px 0px 0px; padding: 6px 45px 0px 13px; line-height: 17.234px; min-height: 18px; white-space: nowrap; color: rgb(0, 0, 0); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S1 { border-left: 1px solid rgb(233, 233, 233); border-right: 1px solid rgb(233, 233, 233); border-top: 0px none rgb(0, 0, 0); border-bottom: 0px none rgb(0, 0, 0); border-radius: 0px; padding: 0px 45px 0px 13px; line-height: 17.234px; min-height: 18px; white-space: nowrap; color: rgb(0, 0, 0); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S2 { border-left: 1px solid rgb(233, 233, 233); border-right: 1px solid rgb(233, 233, 233); border-top: 0px none rgb(0, 0, 0); border-bottom: 1px solid rgb(233, 233, 233); border-radius: 0px; padding: 0px 45px 4px 13px; line-height: 17.234px; min-height: 18px; white-space: nowrap; color: rgb(0, 0, 0); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S3 { color: rgb(64, 64, 64); padding: 10px 0px 6px 17px; background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box; font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px; overflow-x: hidden; line-height: 17.234px;  }
+/* Styling that is common to warnings and errors is in diagnosticOutput.css */.embeddedOutputsErrorElement {    min-height: 18px;    max-height: 250px;    overflow: auto;}
+.embeddedOutputsErrorElement.inlineElement {}
+.embeddedOutputsErrorElement.rightPaneElement {}
+/* Styling that is common to warnings and errors is in diagnosticOutput.css */.embeddedOutputsWarningElement{    min-height: 18px;    max-height: 250px;    overflow: auto;}
+.embeddedOutputsWarningElement.inlineElement {}
+.embeddedOutputsWarningElement.rightPaneElement {}
+/* Copyright 2015-2019 The MathWorks, Inc. *//* In this file, styles are not scoped to rtcContainer since they could be in the Dojo Tooltip */.diagnosticMessage-wrapper {    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;    font-size: 12px;}
+.diagnosticMessage-wrapper.diagnosticMessage-warningType {    color: rgb(255,100,0);}
+.diagnosticMessage-wrapper.diagnosticMessage-warningType a {    color: rgb(255,100,0);    text-decoration: underline;}
+.diagnosticMessage-wrapper.diagnosticMessage-errorType {    color: rgb(230,0,0);}
+.diagnosticMessage-wrapper.diagnosticMessage-errorType a {    color: rgb(230,0,0);    text-decoration: underline;}
+.diagnosticMessage-wrapper .diagnosticMessage-messagePart,.diagnosticMessage-wrapper .diagnosticMessage-causePart {    white-space: pre-wrap;}
+.diagnosticMessage-wrapper .diagnosticMessage-stackPart {    white-space: pre;}
+.embeddedOutputsTextElement,.embeddedOutputsVariableStringElement {    white-space: pre;    word-wrap:  initial;    min-height: 18px;    max-height: 250px;    overflow: auto;}
+.textElement,.rtcDataTipElement .textElement {    padding-top: 3px;}
+.embeddedOutputsTextElement.inlineElement,.embeddedOutputsVariableStringElement.inlineElement {}
+.inlineElement .textElement {}
+.embeddedOutputsTextElement.rightPaneElement,.embeddedOutputsVariableStringElement.rightPaneElement {    min-height: 16px;}
+.rightPaneElement .textElement {    padding-top: 2px;    padding-left: 9px;}
+.S4 { border-left: 1px solid rgb(233, 233, 233); border-right: 1px solid rgb(233, 233, 233); border-top: 1px solid rgb(233, 233, 233); border-bottom: 0px none rgb(0, 0, 0); border-radius: 0px; padding: 6px 45px 0px 13px; line-height: 17.234px; min-height: 18px; white-space: nowrap; color: rgb(0, 0, 0); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S5 { border-left: 1px solid rgb(233, 233, 233); border-right: 1px solid rgb(233, 233, 233); border-top: 0px none rgb(0, 0, 0); border-bottom: 1px solid rgb(233, 233, 233); border-radius: 0px 0px 4px 4px; padding: 0px 45px 4px 13px; line-height: 17.234px; min-height: 18px; white-space: nowrap; color: rgb(0, 0, 0); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }</style></head><body><div class = rtcContent><div class="CodeBlock"><div class="inlineWrapper"><div  class = 'S0'><span style="white-space: pre"><span style="color: rgb(2, 128, 9);">%% test </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >K = 2;      </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >sbar = </span></span><span>1</span><span style="white-space: pre"><span >; </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu_lb = </span></span><span>-1.7</span><span style="white-space: pre"><span > * ones(4,1); </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu_ub = </span></span><span>-1.2</span><span style="white-space: pre"><span > * ones(4,1);                                     </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span style="color: rgb(2, 128, 9);">% p  = [5/8, 1/8, 1/8, 1/8]; % 11 10 01 00</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >p11 = </span></span><span>0.75</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >p10ub = 1 - p11 + 1e-4;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >p10step = p10ub/20;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >p10 = </span></span><span>0.20007999999999998</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >p01ub = 1 - p11 - p10 + 1e-4;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >p01step = p01ub/20;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >p01 = </span></span><span>0</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >p00 = 1 - p11 - p10 - p01;</span></span></div></div><div class="inlineWrapper outputs"><div  class = 'S2'><span style="white-space: pre"><span >disp([</span><span style="color: rgb(170, 4, 249);">'p00 = '</span><span >, num2str(p00')]);</span></span></div><div  class = 'S3'><div class="inlineElement eoOutputWrapper embeddedOutputsTextElement" uid="AB729B31" data-scroll-top="null" data-scroll-left="null" data-width="1184" data-height="18" data-hashorizontaloverflow="false" data-testid="output_0" style="max-height: 261px; width: 1214px; opacity: 1; white-space: pre; font-style: normal; color: rgb(64, 64, 64); font-size: 12px;"><div class="textElement" style="white-space: pre; font-style: normal; color: rgb(64, 64, 64); font-size: 12px;">p00 = 0.04992</div></div></div></div><div class="inlineWrapper"><div  class = 'S4'><span style="white-space: pre"><span >p  = [p11, p10, p01, p00]; </span><span style="color: rgb(2, 128, 9);">% 11 10 01 00</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu11_1 =  </span></span><span>1.1</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu10_1 =  </span></span><span>0</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu11_2 =  </span></span><span>1.1</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu01_2 =  </span></span><span>0</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu1 = [mu11_1, mu10_1, NaN, NaN]; </span><span style="color: rgb(2, 128, 9);">% 11 10 01 00</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu2 = [mu11_2, NaN, mu01_2, NaN]; </span><span style="color: rgb(2, 128, 9);">% 11 10 01 00</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s1 = [1, 1, NaN, NaN]; </span><span style="color: rgb(2, 128, 9);">% 11 10 01 00</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s2 = [1, NaN, 1, NaN]; </span><span style="color: rgb(2, 128, 9);">% 11 10 01 00</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu11 = [mu11_1;mu11_2];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu10 = [mu10_1;NaN];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu01 = [NaN;mu01_2];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu00 = [NaN; NaN];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >mu = [mu11; mu10; mu01; mu00];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >missing_ind = isnan(mu);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >obs_ind = ~missing_ind;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s11_11 = </span></span><span>1</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s11_22 = </span></span><span>1</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s11_12lb = - sqrt(s11_11 * s11_22);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s11_12ub = sqrt(s11_11 * s11_22);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s11_12step = s11_12ub/20;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s11_12 = </span></span><span>1</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s10_11 = </span></span><span>1</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s01_22 = </span></span><span>1</span><span style="white-space: pre"><span >;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s11 = [s11_11, s11_12; </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >       s11_12, s11_22];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s10 = [s10_11, NaN;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >        NaN, NaN];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s01 = [NaN, NaN;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >        NaN, s01_22];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >s00 = [NaN, NaN;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >        NaN, NaN];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >IndMap = [1;5;2;6;3;7;4;8];</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span style="color: rgb(2, 128, 9);">% compute Js and Ds parts</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >Js = p(1) * sum(s11(:)) + p(2) * (sqrt(sbar) - sqrt(s10(1,1)))^2 + p(3) * (sqrt(sbar) - sqrt(s01(2,2)))^2;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >Ds = p(1) * (s11(1,1) + s11(2,2)) + p(2) * (sbar + s10(1,1)) + p(3) * (sbar + s01(2,2)) + 2 * p(4);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span style="color: rgb(2, 128, 9);">% 1/2 xTHx + fT x + b</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >HJ_full = blkdiag(p(1) * ones(2), p(2) * ones(2), p(3) * ones(2), p(4) * ones(2)) </span><span style="color: rgb(14, 0, 255);">...</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    - reshape(repmat(p,[2,1]), [], 1) * reshape(repmat(p,[2,1]), [], 1)';</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >HD_full = diag([p,p]) - blkdiag(p'*p, p'*p);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >HD_full = HD_full(IndMap, IndMap);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span style="color: rgb(2, 128, 9);">% find arguments for J = x' * HJ * x + 2 * fJ' * x + cJ</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >HJ = HJ_full(missing_ind, missing_ind);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >fJ = HJ_full(missing_ind, obs_ind) * mu(obs_ind);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >cJ = mu(obs_ind)' * HJ_full(obs_ind, obs_ind) * mu(obs_ind) + Js;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span style="color: rgb(2, 128, 9);">% find arguments for D(mu) = x' * HD * x + 2 * fD' * x + cD</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >HD = HD_full(missing_ind, missing_ind);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >fD = HD_full(missing_ind, obs_ind) * mu(obs_ind);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >cD = mu(obs_ind)' * HD_full(obs_ind, obs_ind) * mu(obs_ind) + Ds;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span style="color: rgb(2, 128, 9);">% </span></span></div></div><div class="inlineWrapper outputs"><div  class = 'S2'><span style="white-space: pre"><span >[Fmin, x] = Fpara3(HJ, fJ, cJ, HD, fD, cD, mu_lb, mu_ub);</span></span></div><div  class = 'S3'><div class="inlineElement eoOutputWrapper embeddedOutputsTextElement" uid="D58BD322" data-scroll-top="null" data-scroll-left="null" data-width="1184" data-height="45" data-hashorizontaloverflow="false" data-testid="output_1" style="max-height: 261px; width: 1214px; white-space: pre; font-style: normal; color: rgb(64, 64, 64); font-size: 12px;"><div class="textElement" style="white-space: pre; font-style: normal; color: rgb(64, 64, 64); font-size: 12px;">GlobalSearch stopped because it analyzed all the trial points.
+
+All 10 local solver runs converged with a positive local solver exit flag.</div></div></div></div><div class="inlineWrapper"><div  class = 'S4'><span style="white-space: pre"><span >alpha = K/(K-1) * (1 - 1/Fmin);</span></span></div></div><div class="inlineWrapper outputs"><div  class = 'S2'><span style="white-space: pre"><span >disp([</span><span style="color: rgb(170, 4, 249);">'alpha is: '</span><span >, num2str(alpha)]);</span></span></div><div  class = 'S3'><div class="inlineElement eoOutputWrapper embeddedOutputsTextElement" uid="EDC02A9D" data-scroll-top="null" data-scroll-left="null" data-width="1184" data-height="18" data-hashorizontaloverflow="false" data-testid="output_2" style="max-height: 261px; width: 1214px; white-space: pre; font-style: normal; color: rgb(64, 64, 64); font-size: 12px;"><div class="textElement" style="white-space: pre; font-style: normal; color: rgb(64, 64, 64); font-size: 12px;">alpha is: 0.75943</div></div></div></div><div class="inlineWrapper"><div  class = 'S4'><span style="white-space: pre"><span >mu(missing_ind) = x;</span></span></div></div><div class="inlineWrapper outputs"><div  class = 'S2'><span style="white-space: pre"><span >disp([</span><span style="color: rgb(170, 4, 249);">'mu is: '</span><span >, num2str(mu')]);</span></span></div><div  class = 'S3'><div class="inlineElement eoOutputWrapper embeddedOutputsTextElement" uid="C9E3A021" data-scroll-top="null" data-scroll-left="null" data-width="1184" data-height="18" data-hashorizontaloverflow="false" data-testid="output_3" style="max-height: 261px; width: 1214px; white-space: pre; font-style: normal; color: rgb(64, 64, 64); font-size: 12px;"><div class="textElement" style="white-space: pre; font-style: normal; color: rgb(64, 64, 64); font-size: 12px;">mu is: 1.1         1.1           0        -1.7     -1.4488           0        -1.2        -1.2</div></div></div></div></div><div class="CodeBlock"><div class="inlineWrapper"><div  class = 'S0'><span style="white-space: pre"><span style="color: rgb(14, 0, 255);">function </span><span >[Fmin, x] = Fpara3(HJ, fJ, cJ, HD, fD, cD, lb, ub)</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    x0 = lb;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    fun = @(x) (x' * HJ * x + 2 * fJ' * x + cJ) / (x' * HD * x + 2 * fD' * x + cD);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    gs = GlobalSearch;</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    problem = createOptimProblem(</span><span style="color: rgb(170, 4, 249);">'fmincon'</span><span >, </span><span style="color: rgb(170, 4, 249);">'x0'</span><span >, x0, </span><span style="color: rgb(14, 0, 255);">...</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >        </span><span style="color: rgb(170, 4, 249);">'objective'</span><span >, fun, </span><span style="color: rgb(170, 4, 249);">'lb'</span><span >, lb, </span><span style="color: rgb(170, 4, 249);">'ub'</span><span >, ub);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    x = run(gs, problem);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    </span></span></div></div><div class="inlineWrapper"><div  class = 'S1'><span style="white-space: pre"><span >    Fmin = fun(x);</span></span></div></div><div class="inlineWrapper"><div  class = 'S1'></div></div><div class="inlineWrapper"><div  class = 'S5'><span style="white-space: pre"><span style="color: rgb(14, 0, 255);">end</span></span></div></div></div>
+<br>
+<!-- 
+##### SOURCE BEGIN #####
+%% test 
+K = 2;      
+sbar = 1; 
+mu_lb = -1.7 * ones(4,1); 
+mu_ub = -1.2 * ones(4,1);                                     
+% p  = [5/8, 1/8, 1/8, 1/8]; % 11 10 01 00
+p11 = 0.75;
+
+p10ub = 1 - p11 + 1e-4;
+p10step = p10ub/20;
+p10 = 0.20007999999999998;
+
+p01ub = 1 - p11 - p10 + 1e-4;
+p01step = p01ub/20;
+p01 = 0;
+
+p00 = 1 - p11 - p10 - p01;
+disp(['p00 = ', num2str(p00')]);
+p  = [p11, p10, p01, p00]; % 11 10 01 00
+
+mu11_1 =  1.1;
+mu10_1 =  0;
+mu11_2 =  1.1;
+mu01_2 =  0;
+
+mu1 = [mu11_1, mu10_1, NaN, NaN]; % 11 10 01 00
+mu2 = [mu11_2, NaN, mu01_2, NaN]; % 11 10 01 00
+
+
+s1 = [1, 1, NaN, NaN]; % 11 10 01 00
+s2 = [1, NaN, 1, NaN]; % 11 10 01 00
+
+mu11 = [mu11_1;mu11_2];
+mu10 = [mu10_1;NaN];
+mu01 = [NaN;mu01_2];
+mu00 = [NaN; NaN];
+
+mu = [mu11; mu10; mu01; mu00];
+
+missing_ind = isnan(mu);
+obs_ind = ~missing_ind;
+
+
+s11_11 = 1;
+
+s11_22 = 1;
+
+s11_12lb = - sqrt(s11_11 * s11_22);
+s11_12ub = sqrt(s11_11 * s11_22);
+s11_12step = s11_12ub/20;
+
+s11_12 = 1;
+
+s10_11 = 1;
+s01_22 = 1;
+
+s11 = [s11_11, s11_12; 
+       s11_12, s11_22];
+s10 = [s10_11, NaN;
+        NaN, NaN];
+s01 = [NaN, NaN;
+        NaN, s01_22];
+s00 = [NaN, NaN;
+        NaN, NaN];
+
+
+IndMap = [1;5;2;6;3;7;4;8];
+
+
+% compute Js and Ds parts
+
+Js = p(1) * sum(s11(:)) + p(2) * (sqrt(sbar) - sqrt(s10(1,1)))^2 + p(3) * (sqrt(sbar) - sqrt(s01(2,2)))^2;
+Ds = p(1) * (s11(1,1) + s11(2,2)) + p(2) * (sbar + s10(1,1)) + p(3) * (sbar + s01(2,2)) + 2 * p(4);
+
+
+% 1/2 xTHx + fT x + b
+
+HJ_full = blkdiag(p(1) * ones(2), p(2) * ones(2), p(3) * ones(2), p(4) * ones(2)) ...
+    - reshape(repmat(p,[2,1]), [], 1) * reshape(repmat(p,[2,1]), [], 1)';
+
+HD_full = diag([p,p]) - blkdiag(p'*p, p'*p);
+HD_full = HD_full(IndMap, IndMap);
+
+
+% find arguments for J = x' * HJ * x + 2 * fJ' * x + cJ
+
+HJ = HJ_full(missing_ind, missing_ind);
+fJ = HJ_full(missing_ind, obs_ind) * mu(obs_ind);
+cJ = mu(obs_ind)' * HJ_full(obs_ind, obs_ind) * mu(obs_ind) + Js;
+
+
+% find arguments for D(mu) = x' * HD * x + 2 * fD' * x + cD
+
+HD = HD_full(missing_ind, missing_ind);
+fD = HD_full(missing_ind, obs_ind) * mu(obs_ind);
+cD = mu(obs_ind)' * HD_full(obs_ind, obs_ind) * mu(obs_ind) + Ds;
+
+% 
+[Fmin, x] = Fpara3(HJ, fJ, cJ, HD, fD, cD, mu_lb, mu_ub);
+alpha = K/(K-1) * (1 - 1/Fmin);
+disp(['alpha is: ', num2str(alpha)]);
+mu(missing_ind) = x;
+disp(['mu is: ', num2str(mu')]);
+%%
+function [Fmin, x] = Fpara3(HJ, fJ, cJ, HD, fD, cD, lb, ub)
+    x0 = lb;
+    
+    fun = @(x) (x' * HJ * x + 2 * fJ' * x + cJ) / (x' * HD * x + 2 * fD' * x + cD);
+    gs = GlobalSearch;
+    
+    problem = createOptimProblem('fmincon', 'x0', x0, ...
+        'objective', fun, 'lb', lb, 'ub', ub);
+    
+    x = run(gs, problem);
+    
+    Fmin = fun(x);
+
+end
+##### SOURCE END #####
+-->
+</div></body></html>
