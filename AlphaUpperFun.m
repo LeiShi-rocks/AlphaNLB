@@ -14,7 +14,7 @@ SigmaUBx(isnan(SigmaUBx)) = x((muind+1):end);
 SigmaCleverx(isnan(SigmaCleverx)) = x((muind+1):end);
 
 Jmu = sum(p .* sum(mux, 2).^2) - sum(p .* sum(mux, 2)).^2; 
-Dmu = sum(sum(p .* mux.^2)) - sum(sum(p .* mux, 2).^2); 
+Dmu = sum(sum(p .* mux.^2)) - sum(sum(p .* mux, 1).^2); 
 
 Js = sum(p .* sum(SigmaCleverx, 2).^2);
 Ds = sum(p .* sum(SigmaUBx.^2, 2));

@@ -1,0 +1,148 @@
+%% Real Data Analysis
+clear;clc;
+
+%% SAT data
+
+% Import data from text file
+opts = delimitedTextImportOptions("NumVariables", 7);
+opts.DataLines = [2, Inf];
+opts.Delimiter = ",";
+opts.VariableNames = ["rownames", "gender", "education", "age", "ACT", "SATV", "SATQ"];
+opts.VariableTypes = ["double", "double", "double", "double", "double", "double", "double"];
+opts.ExtraColumnsRule = "ignore";
+opts.EmptyLineRule = "read";
+sat = readtable("/Users/leishi/Documents/GitHub/AlphaNLB/sat.act.csv", opts);
+clear opts
+
+sat = sat{:,:};
+sat_scores = normalize(sat(:,5:7));
+
+disp(' ');
+disp('============= Analyzing SAT Data =============');
+% ========= Compute the alpha with listwise deletion ==========
+alpha_DEL_SAT = AlphaWithDeletion(sat_scores);
+
+% ========= Compute the nonparametric bounds for alpha ==========
+[alpha_lower_SAT, alpha_upper_SAT] = AlphaNB(sat_scores, -6.0, 2.0, 2.0);
+
+disp(' ');
+disp(['mean under deletion: ', num2str(mean(sat_scores, 'omitnan'))]);
+disp(['var under deletion: ', num2str(var(sat_scores, 'omitnan'))]);
+disp(['missing portions: ', num2str(sum(isnan(sat_scores))/size(sat_scores, 1))]);
+disp(['alpha with listwise deletion: ', num2str(alpha_DEL_SAT)]);
+disp(['nonparametric lower bounds: ', num2str(alpha_lower_SAT)]);
+disp(['nonparametric upper bounds: ', num2str(alpha_upper_SAT)]);
+disp('==============================================');
+disp(' ');
+
+
+
+
+%% French Gratitude Trigger Time
+
+opts = delimitedTextImportOptions("NumVariables", 186);
+opts.DataLines = [2, Inf];
+opts.Delimiter = ",";
+opts.VariableNames = ["UserId", "ConditionId", "ConditionName", "Condition", "TZ", "TimeStart", "TimeEnd", "TimeElapsed", "t1age", "t1Company", "t1own_edu", "t1own_edu_Index", "t1parental_edu", "t1parental_edu_Index", "t1PlaceOfWork", "t1PlaceOfWork_Index", "t1sex", "t1sex_Index", "t1BigFive1", "t1BigFive2", "t1BigFive3", "t1BigFive4", "t1BigFive5", "t1BigFive6", "t1BigFive7", "t1BigFive8", "t1BigFive9", "t1BigFive10", "t1BMPN1", "t1BMPN2", "t1BMPN3", "t1BMPN4", "t1BMPN5", "t1BMPN6", "t1BMPN7", "t1BMPN8", "t1BMPN9", "t1BMPN10", "t1BMPN11", "t1BMPN12", "t1BMPN13", "t1BMPN14", "t1BMPN15", "t1BMPN16", "t1BMPN17", "t1BMPN18", "t1CHIPS1", "t1CHIPS2", "t1CHIPS3", "t1CHIPS4", "t1CHIPS5", "t1CHIPS6", "t1CHIPS7", "t1CHIPS8", "t1CHIPS9", "t1CHIPS10", "t1CHIPS11", "t1CHIPS12", "t1CHIPS13", "t1CHIPS14", "t1CHIPS15", "t1CHIPS16", "t1CHIPS17", "t1CHIPS18", "t1CHIPS19", "t1CHIPS20", "t1CHIPS21", "t1CHIPS22", "t1CHIPS23", "t1CHIPS24", "t1CHIPS25", "t1CHIPS26", "t1CHIPS27", "t1CHIPS28", "t1CHIPS29", "t1CHIPS30", "t1CHIPS31", "t1CHIPS32", "t1CHIPS33", "t1Elevation1", "t1Elevation2", "t1Guilt", "t1Elevation4", "t1Elevation5", "t1Indebted", "t1Elevation7", "t1Elevation8", "t1Elevation9", "t1Elevation10", "t1Empowerment1", "t1Empowerment2", "t1Empowerment3", "t1Empowerment4", "t1Empowerment5", "t1Empowerment6", "t1Empowerment7", "t1Empowerment8", "t1Empowerment9", "t1Empowerment10", "t1Empowerment11", "t1Empowerment12", "t1GQ_state1", "t1GQ_state2", "t1GQ_state3", "t1GQ_state4", "t1GQ_state5", "t1GQ_state6", "t1GQ_trait1", "t1GQ_trait2", "t1GQ_trait3", "t1GQ_trait4", "t1GQ_trait5", "t1GQ_trait6", "t1Humility1", "t1Humility2", "t1Humility3", "t1Humility4", "t1Humility5", "t1Humility6", "t1Intended_effort1", "t1Intended_effort2", "t1JPS1", "t1JPS2", "t1JPS3", "t1JPS4", "t1JPS5", "t1JPS6", "t1JPS7", "t1JPS8", "t1JPS9", "t1NA1", "t1NA2", "t1NA3", "t1NA4", "t1NA5", "t1NA6", "t1NA7", "t1NA8", "t1NA9", "t1NA10", "t1OCB1", "t1OCB2", "t1OCB3", "t1OCB4", "t1OJS1", "t1OJS2", "t1OJS3", "t1SHS1", "t1SHS2", "t1SHS3", "t1SHS4", "t1SWL1", "t1SWL2", "t1SWL3", "t1SWL4", "t1SWL5", "t1Motiv_eff_control1", "t1Motiv_eff_work1", "t1Motiv_eff_work2", "t1Motiv_eff_work3", "t1Motiv_eff_work4", "t1Motiv_eff_control2", "t1Motiv_eff_control3", "t1Motiv_eff_control4", "t1Motiv_eff_health1", "t1Motiv_eff_health2", "t1Motiv_eff_health3", "t1Motiv_eff_health4", "t1Motiv_eff_kind1", "t1Motiv_eff_kind2", "t1Motiv_eff_kind3", "t1Motiv_eff_kind4", "t1Motiv_eff1", "t1Motiv_eff2", "t1Motiv_eff3", "t1Motiv_eff4", "t1Imotiv", "t1StateAffect", "t1StateSatis", "t1weekly_affect", "t1weekly_satis", "t1Trigger_grat_kind", "t1Trigger_control", "t1Trigger_grat_health", "t1Trigger_grat_work", "complete"];
+opts.VariableTypes = ["double", "double", "double", "categorical", "categorical", "datetime", "datetime", "double", "double", "categorical", "categorical", "double", "categorical", "double", "categorical", "double", "categorical", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "string", "string", "string", "string", "double"];
+opts.ExtraColumnsRule = "ignore";
+opts.EmptyLineRule = "read";
+opts = setvaropts(opts, ["t1Trigger_grat_kind", "t1Trigger_control", "t1Trigger_grat_health", "t1Trigger_grat_work"], "WhitespaceRule", "preserve");
+opts = setvaropts(opts, ["Condition", "TZ", "t1Company", "t1own_edu", "t1parental_edu", "t1PlaceOfWork", "t1sex", "t1Trigger_grat_kind", "t1Trigger_control", "t1Trigger_grat_health", "t1Trigger_grat_work"], "EmptyFieldRule", "auto");
+opts = setvaropts(opts, "TimeStart", "InputFormat", "MM/dd/yy HH:mm");
+opts = setvaropts(opts, "TimeEnd", "InputFormat", "MM/dd/yy HH:mm");
+opts = setvaropts(opts, ["UserId", "ConditionName", "TimeElapsed"], "TrimNonNumeric", true);
+opts = setvaropts(opts, ["UserId", "ConditionName", "TimeElapsed"], "ThousandsSeparator", ",");
+FrenchGratitudeTriggerTime1 = readtable("/Users/leishi/Documents/GitHub/AlphaNLB/French Gratitude Trigger Time 1.csv", opts);
+clear opts
+
+%% elevation data: 1-7
+v = {'t1Elevation1' 't1Elevation2' 't1Elevation4' 't1Elevation5' 't1Elevation7' 't1Elevation8'};
+Elevation = FrenchGratitudeTriggerTime1{:, v};
+
+disp(' ');
+disp('============= Analyzing ELEVATION Data =============');
+% ========= Compute the alpha with listwise deletion ==========
+alpha_DEL_ELEVATION = AlphaWithDeletion(Elevation);
+
+% ========= Compute the nonparametric bounds for alpha ==========
+[alpha_lower_ELEVATION, alpha_upper_ELEVATION] = AlphaNB(Elevation, 3.0, 5.0, 5.0);
+
+disp(' ');
+disp(['mean under deletion: ', num2str(mean(Elevation, 'omitnan'))]);
+disp(['var under deletion: ', num2str(var(Elevation, 'omitnan'))]);
+disp(['missing portions: ', num2str(sum(isnan(Elevation))/size(Elevation, 1))]);
+disp(['alpha with listwise deletion: ', num2str(alpha_DEL_ELEVATION)]);
+disp(['nonparametric lower bounds: ', num2str(alpha_lower_ELEVATION)]);
+disp(['nonparametric upper bounds: ', num2str(alpha_upper_ELEVATION)]);
+disp('=====================================================');
+disp(' ');
+
+%% negative affect data: 1-7
+v = {'t1NA1' 't1NA2' 't1NA3' 't1NA4' 't1NA5'};
+NegAffect = FrenchGratitudeTriggerTime1{:, v};
+
+disp(' ');
+disp('============= Analyzing Negative Affect Data =============');
+% ========= Compute the alpha with listwise deletion ==========
+alpha_DEL_NegAffect = AlphaWithDeletion(NegAffect);
+
+% ========= Compute the nonparametric bounds for alpha ==========
+[alpha_lower_NegAffect, alpha_upper_NegAffect] = AlphaNB(NegAffect, 1.0, 3.0, 3.0);
+
+disp(' ');
+disp(['mean under deletion: ', num2str(mean(NegAffect, 'omitnan'))]);
+disp(['var under deletion: ', num2str(var(NegAffect, 'omitnan'))]);
+disp(['missing portions: ', num2str(sum(isnan(NegAffect))/size(NegAffect, 1))]);
+disp(['alpha with listwise deletion: ', num2str(alpha_DEL_NegAffect)]);
+disp(['nonparametric lower bounds: ', num2str(alpha_lower_NegAffect)]);
+disp(['nonparametric upper bounds: ', num2str(alpha_upper_NegAffect)]);
+disp('==========================================================');
+disp(' ');
+
+%% gratitude data: 1-7
+v = {'t1GQ_state1' 't1GQ_state2' 't1GQ_state3' 't1GQ_state4' 't1GQ_state5' 't1GQ_state6'};
+GQ = FrenchGratitudeTriggerTime1{:, v};
+
+disp(' ');
+disp('============= Analyzing Gratitude Data =============');
+% ========= Compute the alpha with listwise deletion ==========
+alpha_DEL_GQ = AlphaWithDeletion(GQ);
+
+% ========= Compute the nonparametric bounds for alpha ==========
+[alpha_lower_GQ, alpha_upper_GQ] = AlphaNB(GQ, 4, 6, 3.0);
+
+disp(' ');
+disp(['mean under deletion: ', num2str(mean(GQ, 'omitnan'))]);
+disp(['var under deletion: ', num2str(var(GQ, 'omitnan'))]);
+disp(['missing portions: ', num2str(sum(isnan(GQ))/size(GQ, 1))]);
+disp(['alpha with listwise deletion: ', num2str(alpha_DEL_GQ)]);
+disp(['nonparametric lower bounds: ', num2str(alpha_lower_GQ)]);
+disp(['nonparametric upper bounds: ', num2str(alpha_upper_GQ)]);
+disp('====================================================');
+disp(' ');
+
+
+
+%% PCR data
+
+% Import data from text file
+opts = delimitedTextImportOptions("NumVariables", 26);
+opts.DataLines = [2, Inf];
+opts.Delimiter = ",";
+opts.VariableNames = ["VarName1", "ID", "CODEPER", "REL", "PCR24_01", "PCR24_02", "PCR24_03", "PCR24_04", "PCR24_05", "PCR24_06", "PCR24_07", "PCR24_08", "PCR24_09", "PCR24_10", "PCR24_11", "PCR24_12", "PCR24_13", "PCR24_14", "PCR24_15", "PCR24_16", "PCR24_17", "PCR24_18", "PCR24_19", "PCR24_20", "PCR24_21", "SITE"];
+opts.VariableTypes = ["double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double", "double"];
+opts.ExtraColumnsRule = "ignore";
+opts.EmptyLineRule = "read";
+PCR = readtable("/Users/leishi/Documents/GitHub/AlphaNLB/PCR.csv", opts);
+clear opts
+
+PCR = PCR{:,:};
+PCR_rates = PCR(:, 5:(end - 1));
+
+% ========= Compute the alpha with listwise deletion ==========
+alpha_DEL_PCR = AlphaWithDeletion(PCR_rates);
+
+% ========= Compute the nonparametric bounds for alpha ==========
+% [alpha_lower_PCR, alpha_upper_PCR] = AlphaNB(PCR_rates, 1, 5, 4.0);
+

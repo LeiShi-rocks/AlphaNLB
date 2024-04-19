@@ -7,7 +7,7 @@ load('/Users/leishi/Documents/GitHub/AlphaNLB/Record_alphaUB.mat')
 
 %% summarize simulation results
 K = 4;
-numIter = 30;
+numIter = 25;
 p_Missing_Candidate = [0.85, 0.9];
 c_avg_Candidate = [0.5, 0.7, 0.9];
 mu_abs_Candidate = [0.5, 1, 1.5];
@@ -355,7 +355,7 @@ plot(sbar_Candidate, avg_alphaLB(1, :, 3, 1, 2), '-x',...
     'MarkerSize',10);
 plot(sbar_Candidate, alphaStar(1) * ones(1,5), '--')
 legend({'mu bound = 0.5', 'mu bound = 1.0', 'mu bound = 1.5', strcat("alpha = ", num2str(alphaStar(1), 3))}, 'Location', 'northeast');
-ylim([0 1]);
+ylim([0.3 1]);
 % title('Correlation = 0.5');
 xlabel('Bound for variance', 'FontWeight', 'bold', 'FontSize', 14);
 ylabel('Lower bound for alpha', 'FontWeight', 'bold', 'FontSize', 14);
@@ -392,7 +392,7 @@ plot(sbar_Candidate, avg_alphaLB(1, :, 3, 2, 2), '-x',...
     'MarkerSize',10);
 plot(sbar_Candidate, alphaStar(2) * ones(1,5), '--')
 legend({'mu bound = 0.5', 'mu bound = 1.0', 'mu bound = 1.5', strcat("alpha = ", num2str(alphaStar(2), 3))}, 'Location', 'northeast');
-ylim([0 1]);
+ylim([0.3 1]);
 % title('Correlation = 0.7');
 xlabel('Bound for variance', 'FontWeight', 'bold', 'FontSize', 14);
 ylabel('Lower bound for alpha', 'FontWeight', 'bold', 'FontSize', 14);
@@ -426,7 +426,7 @@ plot(sbar_Candidate, avg_alphaLB(1, :, 3, 3, 2), '-x',...
 
 plot(sbar_Candidate, alphaStar(3) * ones(1,5), '--')
 legend('mu bound = 0.5', 'mu bound = 1.0', 'mu bound = 1.5', strcat("alpha = ", num2str(alphaStar(3), 3)), 'Location', 'northeast');
-ylim([0 1]);
+ylim([0.3 1]);
 % title('Correlation = 0.9');
 xlabel('Bound for variance', 'FontWeight', 'bold', 'FontSize', 14);
 ylabel('Lower bound for alpha', 'FontWeight', 'bold', 'FontSize', 14);

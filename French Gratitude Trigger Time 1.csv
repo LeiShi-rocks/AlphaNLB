@@ -1,0 +1,1056 @@
+UserId,ConditionId,ConditionName,Condition,TZ,TimeStart,TimeEnd,TimeElapsed,t1age,t1Company,t1own_edu,t1own_edu_Index,t1parental_edu,t1parental_edu_Index,t1PlaceOfWork,t1PlaceOfWork_Index,t1sex,t1sex_Index,t1BigFive1,t1BigFive2,t1BigFive3,t1BigFive4,t1BigFive5,t1BigFive6,t1BigFive7,t1BigFive8,t1BigFive9,t1BigFive10,t1BMPN1,t1BMPN2,t1BMPN3,t1BMPN4,t1BMPN5,t1BMPN6,t1BMPN7,t1BMPN8,t1BMPN9,t1BMPN10,t1BMPN11,t1BMPN12,t1BMPN13,t1BMPN14,t1BMPN15,t1BMPN16,t1BMPN17,t1BMPN18,t1CHIPS1,t1CHIPS2,t1CHIPS3,t1CHIPS4,t1CHIPS5,t1CHIPS6,t1CHIPS7,t1CHIPS8,t1CHIPS9,t1CHIPS10,t1CHIPS11,t1CHIPS12,t1CHIPS13,t1CHIPS14,t1CHIPS15,t1CHIPS16,t1CHIPS17,t1CHIPS18,t1CHIPS19,t1CHIPS20,t1CHIPS21,t1CHIPS22,t1CHIPS23,t1CHIPS24,t1CHIPS25,t1CHIPS26,t1CHIPS27,t1CHIPS28,t1CHIPS29,t1CHIPS30,t1CHIPS31,t1CHIPS32,t1CHIPS33,t1Elevation1,t1Elevation2,t1Guilt,t1Elevation4,t1Elevation5,t1Indebted,t1Elevation7,t1Elevation8,t1Elevation9,t1Elevation10,t1Empowerment1,t1Empowerment2,t1Empowerment3,t1Empowerment4,t1Empowerment5,t1Empowerment6,t1Empowerment7,t1Empowerment8,t1Empowerment9,t1Empowerment10,t1Empowerment11,t1Empowerment12,t1GQ_state1,t1GQ_state2,t1GQ_state3,t1GQ_state4,t1GQ_state5,t1GQ_state6,t1GQ_trait1,t1GQ_trait2,t1GQ_trait3,t1GQ_trait4,t1GQ_trait5,t1GQ_trait6,t1Humility1,t1Humility2,t1Humility3,t1Humility4,t1Humility5,t1Humility6,t1Intended_effort1,t1Intended_effort2,t1JPS1,t1JPS2,t1JPS3,t1JPS4,t1JPS5,t1JPS6,t1JPS7,t1JPS8,t1JPS9,t1NA1,t1NA2,t1NA3,t1NA4,t1NA5,t1NA6,t1NA7,t1NA8,t1NA9,t1NA10,t1OCB1,t1OCB2,t1OCB3,t1OCB4,t1OJS1,t1OJS2,t1OJS3,t1SHS1,t1SHS2,t1SHS3,t1SHS4,t1SWL1,t1SWL2,t1SWL3,t1SWL4,t1SWL5,t1Motiv_eff_control1,t1Motiv_eff_work1,t1Motiv_eff_work2,t1Motiv_eff_work3,t1Motiv_eff_work4,t1Motiv_eff_control2,t1Motiv_eff_control3,t1Motiv_eff_control4,t1Motiv_eff_health1,t1Motiv_eff_health2,t1Motiv_eff_health3,t1Motiv_eff_health4,t1Motiv_eff_kind1,t1Motiv_eff_kind2,t1Motiv_eff_kind3,t1Motiv_eff_kind4,t1Motiv_eff1,t1Motiv_eff2,t1Motiv_eff3,t1Motiv_eff4,t1Imotiv,t1StateAffect,t1StateSatis,t1weekly_affect,t1weekly_satis,t1Trigger_grat_kind,t1Trigger_control,t1Trigger_grat_health,t1Trigger_grat_work,complete
+"4,080",200,Condition 4,Kindness,"Paris, Madrid",2/3/14 8:29,4/16/14 10:34,"103,804",44,LOréal,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,6,5,7,6,5,4,6,1,6,2,5,5,5,3,5,3,4,5,4,4,4,4,5,2,4,2,3,3,0,0,0,2,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,7,2,1,6,6,3,5,6,6,7,7,7,7,6,6,6,6,5,6,6,6,6,6,6,7,5,5,6,5,4,6,2,5,,4,7,7,7,1,7,4,5,7,5,5,5,5,4,3,3,4,2,1,1,1,1,1,5,1,1,1,6,5,5,6,6,1,6,5,4,3,3,6,7,6,,,,,,,,,,,,,,,5,5,5,5,5,5,5,5,5,4,5,-2,3,"Mon aimé,
+
+Nos discussions récentes sur notre vision de lavenir ont été formidables et tu mas montré combien tu maimais et la solidité de notre couple. Par tes mots, tes attitudes, ta volonté de maider à prendre une décision sans décider à ma place me conforte dans lamour que je te porte et qui nous unit. Le souvenir de ce moment déchange me donne confiance pour lavenir et notre capacité à faire face à dautres situations.
+Merci.",,,,1
+"4,081",200,Condition 4,Kindness,"Paris, Madrid",2/3/14 14:19,2/24/14 15:01,"30,281",41,LOréal,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Homme,1,7,5,7,6,7,3,7,1,7,6,,,,,,,,,,,,,,,,,,,2,0,1,0,2,0,1,1,0,3,0,0,1,0,0,0,0,0,0,,0,1,2,0,0,0,0,0,0,0,0,0,3,,,,,,,,,,,6,6,7,7,5,7,7,7,6,6,5,7,,,,,,,5,4,6,2,2,,,,,,,,,,6,6,6,6,6,5,4,4,4,,,,,,,,,,,6,6,5,6,6,2,6,7,6,6,7,7,7,7,7,6,,,,,,,,,,,,,6,6,5,5,6,6,5,5,5.5,,,10,8,,,,,0
+"4,082",195,Condition 3,Control,"Paris, Madrid",2/3/14 14:47,3/21/14 17:14,"66,387",32,LOréal,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,6,5,3,5,5,5,5,4,4,3,4,3,4,2,4,5,4,2,4,4,3,4,4,3,3,3,3,4,2,2,2,0,0,2,0,2,3,2,0,0,0,2,0,0,2,0,2,2,0,2,0,3,2,0,0,0,0,0,0,0,2,5,3,1,4,4,4,5,6,4,4,7,4,5,3,7,4,5,4,6,6,5,3,4,4,7,5,7,7,5,3,6,6,6,,1,4,7,7,7,7,4,6,5,5,6,5,5,6,5,5,5,5,1,2,2,1,2,1,1,1,4,4,5,5,5,4,1,5,4,4,4,4,5,3,5,7,5,6,,,,,6,5,5,,,,,,,,,6,6,5,5,5.5,0,3,0,-1,,"- Recrutement de 2 collaborateurs en CDI + planning dintégration
+- 6 Entretiens collabroateurs
+- 5 entretiens de recrutement
+- 2 interventions en tournées commerciales poru rpésenter un projet. 
+- Inscriptions de collaborateurs au séminaire de formation pour le suivi du plan 2014
+- Quelques heures de travail sur les dossiers juridiques
+- un réunion de service
+- Une réunion projet
+- Organisation de la visite dun site pour 4 étudiants
+- Suivi de lavancée dune présentation RH avec mon apprenti
+- Gestion de mail",,,1
+"4,083",200,Condition 4,Kindness,"Paris, Madrid",2/3/14 15:14,3/18/14 7:46,"61,471",57,LOREAL,Université,2,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Femme,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,1,,,1,1,1,1,0,0,1,0,0,0,0,2,1,2,,1,1,1,1,1,1,1,1,1,0,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,6,6,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+"4,084",193,Condition 1,Health,"Paris, Madrid",2/3/14 16:04,4/15/14 16:47,"102,282",28,LOréal,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,1,1,7,6,7,7,7,1,7,6,5,5,5,5,5,5,5,5,1,5,5,5,5,5,4,2,4,4,2,2,3,0,1,1,0,2,0,0,0,0,3,1,0,2,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,,,,,,7,,,7,7,7,7,7,4,7,5,5,4,7,7,7,4,7,4,7,2,7,7,7,7,7,4,4,,1,2,7,7,3,7,5,5,5,4,4,6,6,6,5,4,4,5,1,1,1,1,1,1,1,1,1,7,7,7,7,5,1,7,7,4,7,6,6,7,6,6,3,,,,,,,,,6,6,4,4,,,,,6,6,4,4,5,10,10,10,10,,,,,0
+"4,085",194,Condition 2,Work,"Paris, Madrid",2/3/14 16:16,2/18/14 16:59,"21,642",29,loreal,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Homme,1,7,2,6,,7,2,7,2,2,1,,,,,,,,,,,,,,,,,,,2,2,2,0,0,4,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,2,,,,,,,,,,,6,7,6,7,7,7,7,6,7,7,7,7,,,,,,,4,3,5,3,2,,,,,,,,,,6,4,6,6,5,5,5,5,5,,,,,,,,,,,7,7,7,7,7,2,7,6,7,6,5,5,6,6,6,5,,5,5,6,6,,,,,,,,,,,,5,5,6,6,5.5,,,3,2,,,,,0
+"4,086",194,Condition 2,Work,"Paris, Madrid",2/3/14 17:12,2/27/14 18:16,"34,624",41,LOREAL,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,4,1,7,2,5,7,6,1,5,3,4,2,4,5,3,5,5,5,4,5,5,5,4,3,4,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1,3,3,1,5,3,3,3,7,7,7,4,7,5,5,5,7,6,5,4,3,3,5,5,7,5,4,3,3,3,3,,7,7,7,7,7,1,2,2,7,5,7,7,7,2,5,5,5,1,1,1,1,1,1,1,1,2,1,7,7,7,7,7,1,5,4,4,5,4,3,3,5,2,1,,6,6,6,6,,,,,,,,,,,,6,6,6,6,6,5,-5,5,-3,,,,,0
+"4,120",195,Condition 3,Control,"Paris, Madrid",2/4/14 21:42,4/18/14 10:11,"104,429",35,LOreal,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,2,1,7,2,5,7,5,1,7,5,4,5,4,5,4,5,3,5,2,5,4,5,4,2,4,4,4,4,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,6,1,1,3,7,7,7,7,7,7,6,6,7,6,5,6,4,4,6,4,4,7,4,3,4,3,1,,2,3,7,2,2,6,5,5,6,3,7,7,7,6,7,4,5,1,1,1,1,1,1,1,1,1,1,7,6,7,7,6,1,6,6,6,5,7,6,6,5,6,3,6,,,,,7,5,6,,,,,,,,,6,7,5,6,6,0,4,-1,4,,"- jai défini mes objectifs professionnels 2014
+- jai commencé à me positionner en manager avec ma future équipe
+- jai pris une nouvelle posture en lien avec mon futur poste
+- jai préparé lorganisation de lanniversaire de mon fils et des vacances au ski
+- jai envoyé des photos/nouvelles de la famille à mes proches",,,1
+"4,124",193,Condition 1,Health,"Paris, Madrid",2/5/14 15:39,3/4/14 16:10,"38,910",27,GMG - LOréal,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Homme,1,6,2,7,7,6,5,7,5,3,5,4,4,5,4,5,1,2,2,4,2,4,3,2,2,5,1,3,3,3,4,0,1,0,3,1,4,0,0,3,1,3,1,0,0,0,3,0,0,0,4,3,1,3,0,0,1,0,0,0,0,1,4,3,1,5,5,3,6,5,4,5,7,5,3,6,7,3,2,5,7,5,3,5,5,4,6,4,3,7,5,4,6,3,3,,7,5,6,7,7,7,7,6,6,3,5,5,5,6,3,5,3,5,1,2,3,3,3,3,2,4,5,7,6,6,6,5,1,6,6,5,6,5,3,5,5,7,3,,,,,,,,,2,2,2,2,,,,,2,2,2,2,2,2,2,-3,2,,,"Cher Guillaume,
+
+Depuis 2 ans, tu essais bien malgré moi de reprendre une activité sportive. 
+
+Tu mas convaincu de minscrire à un club de natation, mais surtout à reprendre le footing, la course à pied. La natation est terminée, mais le footing a bien pris, contre toute attente !
+
+Depuis, tu le sais, je cours une fois tous les 15 jours en moyenne. Ce qui me permet de me vider lesprit et de me dépenser physiquement.  Moi qui aime tant les bons repas, je peux en profiter encore davantage...
+
+Je participe dailleurs a plusieurs courses annuelles : les 20 kms de paris , et autres semi-marathon et jen retire une grande fierté 
+Je ten remercie, et au plaisir de courrir avec toi ce week-end !",,1
+"4,126",200,Condition 4,Kindness,"Paris, Madrid",2/5/14 18:58,2/27/14 19:00,"31,682",35,loreal,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études universitaires,4,Usine,1,Homme,1,7,3,7,7,7,5,7,2,6,2,5,5,3,5,1,3,3,4,4,5,4,3,4,4,5,5,4,5,0,4,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,1,0,2,0,1,3,1,0,0,0,0,0,0,0,0,3,6,6,4,6,4,7,7,7,7,7,7,5,6,7,7,5,6,7,7,5,6,7,7,6,7,7,7,7,6,5,7,6,5,,1,7,7,5,6,4,7,7,5,3,6,6,7,7,6,6,6,4,1,1,1,1,1,1,1,3,5,7,6,4,2,7,1,7,6,5,7,7,6,5,6,6,2,,,,,,,,,,,,,7,7,7,7,7,7,7,7,7,5,5,5,5,,,,,0
+"4,127",193,Condition 1,Health,"Paris, Madrid",2/6/14 10:16,2/25/14 10:31,"27,374",45,LORÉAL,Lycée,1,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,7,5,7,2,5,2,7,1,6,5,5,3,5,1,1,1,5,1,5,3,5,5,5,1,5,1,1,1,3,2,1,0,0,1,1,2,2,1,0,1,2,1,0,1,1,2,0,2,0,2,0,1,0,1,0,0,0,0,0,0,2,,,,,,,,,,,6,7,7,7,5,7,7,7,6,7,7,7,3,1,2,1,5,2,4,3,3,4,4,,7,7,7,6,4,7,4,5,7,6,2,6,6,5,5,5,5,3,1,2,1,2,1,1,1,1,1,6,6,7,6,6,1,6,6,6,5,6,5,5,5,5,6,,,,,,,,,7,6,7,7,,,,,7,6,7,7,6.75,6.54,6.34,0.13,0.26,,,,,0
+"4,128",194,Condition 2,Work,"Paris, Madrid",2/6/14 14:45,2/11/14 15:10,"7,225",48,LOréal,Université,2,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Femme,0,5,2,7,,7,7,5,3,5,3,3,2,3,3,3,3,3,4,2,5,3,2,3,2,3,4,2,3,3,3,3,3,0,0,0,3,1,0,2,2,1,1,0,2,0,3,0,1,0,3,0,3,2,1,0,0,0,2,0,0,0,6,4,2,4,5,4,6,6,7,4,7,7,7,7,7,7,7,7,7,7,5,7,3,2,2,2,5,4,5,2,5,5,2,,3,5,7,5,6,3,5,5,6,6,6,5,5,1,2,2,2,3,1,3,3,1,1,1,1,2,4,7,6,7,6,6,2,6,5,3,4,6,5,6,6,6,5,,7,6,6,6,,,,,,,,,,,,7,6,6,6,6.25,-3,-4,-4,-3,,,,"Chère Marie-Hélène,
+Merci de mavoir apporté ton aide, surtout davoir pris du temps pour mécouter et tintéresser à moi.
+Cela fait du bien.
+Tes conseils sont toujours avisés et tu pointes toujours du doigt ce que je pressens mais que je ne veux pas formuler. Je prends toujours prétexte du manque de temps, du ""trop de travail"" pour ne pas prendre le temps de me poser et de penser à moi.
+Alors, oui, jai décidé de faire ce que tu mas dit ; je vais prendre le temps de moccuper de moi, de ma carrière et de passer quelques coups de fil. Lentreprise me doit bien ça...
+Je te tiens au courant de la suite et je sais que tu vas me suivre de près et ne pas me lâcher.
+Merci pour ta disponibilité, ton empathie, ton soutien, ton attention sans faille.
+Amicalement.",1
+"4,129",200,Condition 4,Kindness,"Paris, Madrid",2/6/14 16:35,4/17/14 17:48,"100,872",49,LOréal,Troisième cycle,4,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Homme,1,6,3,7,7,6,6,7,5,2,6,4,3,4,1,3,5,2,2,4,3,2,5,3,2,3,1,3,2,3,0,1,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1,7,6,2,7,7,7,7,7,7,6,7,6,4,6,7,7,3,3,7,5,4,5,7,7,7,7,6,5,7,2,7,7,7,,3,7,7,6,7,1,2,7,4,6,6,5,5,1,1,1,2,3,1,3,2,2,1,1,1,2,6,7,6,6,6,2,2,5,4,5,2,2,7,7,6,6,5,,,,,,,,,,,,,7,7,7,7,7,7,7,7,7,2,2,-4,0,"Chères A&B,
+
+il ny a pas de mots assez grands pour vous témoigner la reconnaissance que je vous porte pour tout ce que vous avez fait pour Béné et moi, dabbord.
+Vous mavez accueilli et considéré comme Béné, en dépit des écarts de vision tenant à nos générations et éducations éloignées.
+Vous nous avez soutenus dans nos épreuves familiales et vous avez cru en nous, en notre avenir et capacité à nous développer personnellement.
+Vous avez accepté dêtre une famille de substitution pour nous et ensuite pour nos enfants.
+Votre accueil, vos attentions constantes ont été comme le tuteur dun arbre dans notre vie.
+Vous êtes admirables. Grace à vous nous avons eu du soutien, nous avons été confortés dans nos choix, vous nous avez aussi servi de reprère, de référence et dappui.
+Vous nous avez ouvert la prote et offert votre générosité au-delà de ce que jaurais pu imaginé possible des gens dune même famille, alors que nous navons aucun lien de parenté. 
+
+Ma gratitude envers vous est immense et ne cesse de se développer. Ce que nous exprimons quelques fois semble dérisoire au regard de ce que jéprouve à votre égard.
+
+Je vous remercie du fond du coeur et vous embrasse.
+Avec mon incommensurable et eternelle reconnaissance.",,,,1
+"4,133",200,Condition 4,Kindness,"Paris, Madrid",2/7/14 12:41,4/22/14 8:06,"106,285",,LOREAL,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,6,1,6,5,7,6,6,2,7,2,5,5,4,5,4,5,5,3,5,3,5,3,4,3,5,3,4,4,2,0,2,0,0,2,0,3,0,0,0,0,1,0,0,3,1,2,0,1,2,0,0,0,2,0,0,0,0,0,0,0,4,5,4,1,7,6,4,7,7,7,7,6,6,5,5,6,6,6,5,6,6,5,5,7,6,7,7,6,7,7,6,7,2,5,,7,7,7,6,6,1,2,4,5,4,7,7,7,7,5,6,6,1,1,1,1,1,1,1,1,1,1,3,3,4,5,6,1,6,7,6,7,7,6,6,6,7,6,,,,,,,,,,,,,6,7,7,7,6,7,7,7,6.75,7,7,-1,1,"Cher David, 
+je sais que je peux compter sur toi et que même lorsque je me sens nulle, et que jai limpression que la vie est vide de sens , tu trouves toujours les mots, les situations pour me permettre de voir autrement la réalité : le plus important, ce sont les gens que jaime et les moments passés ensemble, le reste est accessoire..
+merci de toujours maider à penser autrement , voir out of the box, prendre du recul pour y arriver ! 
+Amicalement",,,,1
+"4,134",194,Condition 2,Work,"Paris, Madrid",2/7/14 12:41,4/18/14 14:54,"100,932",49,LOréal,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Homme,1,6,5,6,5,6,3,3,1,5,2,3,2,3,2,3,4,3,4,4,3,3,4,4,3,4,4,3,4,2,0,3,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,6,4,2,5,5,6,5,6,6,4,6,6,6,6,7,6,6,6,6,6,6,6,4,4,4,5,5,6,5,3,5,4,5,,5,6,7,7,7,7,4,4,6,5,6,5,5,6,5,5,5,3,1,1,3,3,1,1,1,3,4,5,6,6,6,6,2,6,5,4,3,6,2,5,2,6,2,,6,5,6,5,,,,,,,,,,,,6,5,6,5,5.5,-3,-8,-5,-6,,,,,0
+"4,135",195,Condition 3,Control,"Paris, Madrid",2/7/14 13:16,2/14/14 13:56,"10,119",60,LOREAL,Lycée,1,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Femme,0,7,5,7,7,7,2,7,1,2,1,3,1,3,3,3,5,1,5,3,5,5,5,5,3,3,5,2,4,2,4,2,0,2,0,2,1,1,0,0,0,0,1,0,2,0,2,2,1,1,3,0,1,1,,1,0,0,0,,0,2,1,1,3,4,,1,1,1,1,,5,7,7,4,5,5,6,6,5,6,7,5,4,3,3,2,4,5,4,2,5,2,2,,2,7,4,6,6,3,5,4,7,7,7,1,2,1,1,2,1,1,2,2,2,2,1,1,1,7,1,7,7,7,7,5,1,5,4,4,3,3,5,5,5,5,3,5,,,,,7,6,6,,,,,,,,,5,7,6,6,6,-1,-3,-4,-5,,"7 DERNIERS JOURS / REDIGER UN ACCORD GPEC /CREER UN PROJET CREATION D ENTREPRIS PRIS LE LEAD DANS UNE REUNION SUR LES OCM 
+8 MINUTES  LIRE MES MAILS REVOIR UNE PRESENTATION RELIRE UNE CONVENTION ET FINALISER ORCHESTRER MON AGENDA POUR LA SEMAINE PROCHAINE",,,1
+"4,136",194,Condition 2,Work,"Paris, Madrid",2/7/14 13:37,2/7/14 14:01,23,46,LOréal Luxe France,N’a eu son baccalauréat,0,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,5,1,7,2,7,1,7,1,2,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,,1,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,,,,,,,,,,7,7,7,7,7,7,7,7,7,7,7,7,4,5,4,3,3,5,5,5,4,5,5,,6,6,7,7,6,7,6,5,6,6,6,6,6,6,5,5,5,1,1,1,1,1,1,1,1,1,1,7,7,7,7,7,1,7,6,5,6,1,7,7,7,7,7,,6,6,6,6,,,,,,,,,,,,6,6,6,6,6,10,10,8,8,,,,,0
+"4,137",195,Condition 3,Control,"Paris, Madrid",2/7/14 13:47,3/4/14 7:59,"35,651",33,LOréal,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,7,2,6,1,7,5,6,2,3,1,,,,,,,,,,,,,,,,,,,3,3,3,0,0,0,0,4,3,3,0,0,0,2,0,3,3,0,0,0,2,0,0,0,3,2,2,0,0,2,0,0,1,,,,,,,,,,,7,7,7,5,7,7,5,4,7,7,5,4,,,,,,,5,3,7,3,6,,,,,,,,,,5,5,6,5,5,5,3,4,3,,,,,,,,,,,7,7,7,7,3,5,3,5,5,6,7,5,6,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,6,7,,,,,0
+"4,138",193,Condition 1,Health,"Paris, Madrid",2/7/14 14:50,4/23/14 8:53,"107,642",43,LOreal,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Femme,0,7,3,6,1,7,2,6,1,6,1,4,4,4,5,2,3,4,5,4,3,4,5,4,3,4,3,4,5,0,1,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,6,3,4,6,6,5,6,6,6,6,6,7,7,7,6,7,7,7,6,6,6,6,6,6,7,5,5,7,6,6,7,1,3,,5,5,4,4,5,6,5,5,6,1,5,6,6,6,5,4,3,3,1,1,1,1,1,1,1,1,1,6,6,6,6,6,1,6,6,6,6,7,6,6,6,6,5,,,,,,,,,6,7,6,6,,,,,6,7,6,6,6.25,6,6,5,5,,,"Mes chers enfants,
+
+Il y a quelques années vous mavez demandé darrêter de fumer, que vous mavez dit que vous aviez peur que je puisse tomber malade, mourrir du cancer, que vous aviez besoin de moi. Vous navez demandé dentrendre votre peur et de faire la promesse darrêter de fumer. Jai promis mais jai mis longtemps à tenir cette promesse. Nous sommes partis en vacances au bout du monde lété dernier et jai alors arrêté de fumer, un jour, deux jours, ...chaque fois que je flanchais, je vous disais combien lenvie de fumer était forte alors vous me consoliez, vous me disiez que cétait bien ce que jétais en train de faire, quil fallait être courageuse. Hier, cela fera 6 mois exactement, lenvie revient parfois mais je nai pas refumé. Lorsque je vous rappelle que jai arrété de fumer, vous me  demandez toujours, suscpicieux, tu es sûre, même pas une...et puis, vous me dites, nous te féliciterons lorsque cela fera un an.
+Grâce à vous, jai une vie plus saine, le souffle long et sans doute, ma vie sera t-elle plus longue aussi...
+
+Merci mes amours !",,1
+"4,139",200,Condition 4,Kindness,"Paris, Madrid",2/7/14 15:00,2/7/14 15:22,21,30,LOréal,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,7,5,7,7,7,5,7,1,3,1,,,,,,,,,,,,,,,,,,,0,0,3,1,0,0,0,0,2,2,0,0,1,0,0,1,2,0,0,0,0,1,0,0,2,2,0,0,0,3,0,0,1,,,,,,,,,,,7,7,7,7,7,7,6,6,7,7,7,6,,,,,,,7,4,7,3,,,,,,,,,,,7,,7,7,7,7,6,6,6,,,,,,,,,,,7,7,7,7,7,1,7,5,5,2,2,6,6,6,7,6,,,,,,,,,,,,,7,7,4,4,7,7,4,4,5.5,,,9,9,,,,,0
+"4,143",194,Condition 2,Work,"Paris, Madrid",2/7/14 17:45,3/24/14 18:13,"64,827",51,LOREAL,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Femme,0,5,4,7,7,2,5,6,1,2,4,5,5,5,5,2,1,2,4,3,5,3,5,4,2,3,3,4,5,2,0,0,2,1,0,1,1,1,0,0,1,1,2,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,1,2,1,1,2,2,2,5,2,2,2,7,7,7,7,7,7,7,6,7,6,6,5,5,3,7,2,3,6,3,3,6,6,1,,3,4,6,6,6,3,3,4,5,7,6,3,3,1,1,1,1,4,1,1,1,1,1,1,1,1,1,6,7,7,3,7,1,6,6,6,3,3,5,5,6,6,5,,7,7,6,5,,,,,,,,,,,,7,7,6,5,6.25,2,5,1,2,,,,"Cher Nicolas
+
+Mieux vaut tard que jamais,
+
+En effet, avec le recul je maperçois que vous avez eu une grande importance dans mon développement professionnel et que sans vous je ne serai pas arrivée là où jen suis.
+Si les débuts ont été froids, vous mavez aidé dans la construction de mon parcours.
+Votre rigueur, votre professionnalisme a été un exemple pour moi.
+Vous a vez fait preuve de pédagogie et surtout lorsque vous mavez fait confiance ça a été une vraie fierté pour moi.
+De plus, face à laccueil difficile de léquipe vous avez affichez avec autorité  votre soutien.
+
+Les années ont passé, et je peux vous dire que tous mes chefs nont pas eu cette qualité.
+
+Alors un grand merci et à une prochaine fois peut-être.",1
+"4,146",195,Condition 3,Control,"Paris, Madrid",2/9/14 18:57,2/9/14 19:31,33,33,LOREAL,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Homme,1,7,5,6,4,6,5,7,1,7,4,4,5,5,4,3,5,3,2,3,5,3,5,5,5,4,4,3,5,1,2,2,0,1,1,0,2,2,1,1,0,1,2,0,0,0,0,0,0,0,1,2,0,1,1,0,0,0,1,0,0,2,4,6,1,5,6,4,4,4,5,5,7,7,6,7,7,7,7,7,7,7,7,7,5,3,5,2,5,5,6,5,6,7,7,,3,4,6,3,4,4,6,6,6,6,7,6,5,3,2,5,4,2,1,1,1,2,1,1,1,1,1,6,6,7,6,6,1,7,6,7,6,5,6,6,7,7,6,6,,,,,7,7,,,,,,,,,,6,7,7,,6.666666667,5,6,5,5,,,,,0
+"4,147",193,Condition 1,Health,CET,2/9/14 20:02,3/23/14 19:09,"60,427",26,LOreal,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,6,5,6,4,7,6,6,5,6,2,4,2,3,4,4,4,2,3,3,2,3,4,4,2,4,3,4,5,2,3,3,4,1,1,0,3,0,0,0,3,2,0,0,0,0,0,1,1,0,2,0,0,3,3,1,2,0,0,0,0,0,5,,1,6,5,1,1,4,7,5,6,5,5,4,6,3,5,3,6,3,5,4,7,6,6,6,6,7,7,6,7,4,6,,4,7,7,6,6,7,4,4,5,5,5,5,6,3,5,5,2,1,1,2,1,1,1,1,2,2,1,7,6,6,7,5,3,6,6,4,5,5,5,6,6,7,6,,,,,,,,,4,4,3,3,,,,,4,4,3,3,3.5,0,4,2,3,,,"Chere April - merci pour ton encouragement pendant la recuperation de la mobilite de mes mains. Tu as fait de la therapie des main plus quune tache, les sessions sont devenues en vrais sessions de sante et bien etre. Plus de recuperation tu mas montre comment les bonnes habiudes dexercise regulier, en moins de 30 minutes pourrait vraiment faire un changement. Jai recupere energie, bonneur et forme. Ta personalite chalureuse, encouragementm drole et acueillante est bien apprecie. Aujourdhui je ne continue pas a suivre tout ce que tu mas appris, mais jessai de le faire et sans les sessions avec toi cest sure que je rien ferais!
+Merci encore une fois, jespere que tout va bien avec toi et ton mari apres votre marriage il y a 2 ans.
+Susana",,1
+"4,149",194,Condition 2,Work,"Paris, Madrid",2/10/14 6:49,3/31/14 7:28,"70,598",57,LOREAL SA,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,5,7,7,6,6,7,1,5,3,4,4,4,4,3,2,4,4,4,5,4,3,3,1,3,2,3,2,3,0,0,1,0,0,0,3,1,0,0,1,1,2,0,2,2,0,0,2,0,2,0,0,2,1,0,0,1,0,0,0,0,7,4,3,6,6,4,6,4,7,5,7,7,5,3,7,7,5,1,7,7,2,1,6,4,6,2,5,6,3,2,4,5,2,,7,7,4,6,7,6,4,4,6,6,6,5,,1,2,3,3,5,4,4,3,4,1,1,1,4,4,6,7,7,6,5,1,2,5,5,4,6,,,,,,,4,5,6,5,,,,,,,,,,,,4,5,6,5,5,-2,-2,2,2,,,,"Chère Madeleine,
+
+Je pense souvent à toi lors des moments de déprime professionnelle de plus en plus fréquents, toi qui a toujours été là pour écouter mes questions, interrogations sur mon malaise au travail alors que je suis dans la dernière partie de mon parcours professionnel et jai limpression de régresser.
+Alors que tu es en retraire depuis lonftemps, tu continues à être active dans la société et je peux partager avec toi mes sentiments, mon ressentiment vis à vis dune façon de travailler et de manque de respect  qui heurte certaines de mes valeurs(de tes valeurs) alors que la communication institutionnelle prone le contraire; que lingérance dans la vie privée et le formatage minsupporte; que je suis ignorée malgré ma proposition à participer à des groupes de travail pour partager mon expérience....et bien dautres choses encore  que nous avons eu loccasion de partager.
+
+Ta vison des cdifférences, ton engagement envers les gens me conforte dans le fait que je ne suis pas complètement ""as been""tout en continuant à sadapter au monde qui change y compris la façon de travailler.
+
+Merci de partager avec moi les perceptions dautres personnes qui vivent autout de toi et qui me conforte dans le fait que tout nest pas inutile et que je dois rester fidèle aux valeurs qui mont fait progresser.
+
+Je sais qur je peux trouver auprès de toi des oreilles attentives queque soit le sujet.
+Merci.
+
+Amitiés.
+Catherine",1
+"4,151",195,Condition 3,Control,"Paris, Madrid",2/10/14 8:58,4/22/14 10:22,"102,323",32,DANONE,Troisième cycle,4,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Usine,1,Homme,1,7,1,7,1,5,6,7,1,7,2,4,5,5,5,5,5,4,5,3,5,4,5,4,3,4,4,2,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,4,1,5,1,4,2,1,4,6,7,7,6,6,6,6,6,6,6,6,6,6,5,3,5,4,7,6,5,2,7,1,2,,3,2,7,7,6,6,4,4,6,2,4,7,6,2,3,5,3,1,1,1,1,1,1,1,1,1,4,6,5,5,6,6,1,6,7,6,7,7,5,6,6,5,6,7,,,,,7,6,6,,,,,,,,,7,7,6,6,6.5,6,6,4,7,,"Préparation puis rendez-vous avec les partenaires sociaux
+Interview et formalisation dun nouveau schéma dorganisation dun service
+Réunion de travail sur les besoins en effectif dun service
+Présentation et mise à jour des priorités du service en 2014
+Présentation des nouvelles règles RH liées aux évaluations à un service en interne
+Réunion de travail et formalisation de lévolution des missions dun membre de léquipe et répartition au sein de léquipe",,,1
+"4,152",193,Condition 1,Health,"Paris, Madrid",2/10/14 16:34,4/25/14 10:10,"106,175",48,Danone SAEME,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Homme,1,7,5,7,5,6,2,7,2,7,2,4,4,4,4,2,4,5,4,4,3,4,5,4,4,4,3,4,3,2,1,2,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1,2,1,0,0,1,0,0,0,6,5,4,6,6,7,6,7,7,6,7,7,6,7,7,7,6,6,7,7,6,6,6,5,7,5,4,7,5,5,7,1,3,,4,6,6,7,7,6,6,6,5,5,6,7,6,5,4,5,4,4,1,1,1,2,3,4,4,3,7,5,6,6,6,6,1,6,6,5,5,7,6,7,7,7,6,,,,,,,,,6,6,5,4,,,,,6,6,5,4,5.25,6,7,4,6,,,"Chère femme Tu essaies souvent de me modérer dans mes réactions comme dans mes nourritures et je sais que tu dis/fais cela pour mon bien pour méviter les excès Mais comme tu le sais, cest impulsif chez moi et cela me fait du bien, cela me soulage. Quand je fais le parallèle santé/réactions, je me doute que cest un bénéfice très très court et que sur le moyen/long terme non seulement cest une utopie mùais cest même quasi destructeur. Je sais que tu fais/dis cela pour mon bien et que mon autisme doit tagacer voire te faire souffrir mais je narrive aps à me contrôler dans cette double boulimie. Pourtant, même si sur le coup tu crois que cela ne sert à rien, au fond de moi cela me fait réfléchir, cela mappaise (même un peu) et ""çca me fait quand même du bien"" Alors stp, continue, continue à maider à maccorcher à plus de raison, ne me laisse pas seul avec mon besoin de me défouler, aide moi à mappaiser, me raisonner. Merci Bisous",,1
+"4,153",200,Condition 4,Kindness,"Paris, Madrid",2/11/14 9:19,2/18/14 11:41,"10,222",51,LOréal,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Homme,1,6,4,7,,5,6,7,1,7,7,5,,5,3,3,5,4,5,4,5,4,5,5,3,,,4,2,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,,,,,,,,,,,6,7,7,6,6,6,6,6,6,7,6,6,4,3,4,3,5,3,3,2,4,3,4,,3,5,7,7,6,7,5,4,4,4,4,4,4,4,3,3,3,1,1,4,3,,1,1,1,1,,6,6,4,5,7,1,7,6,5,5,7,4,6,6,6,2,,,,,,,,,,,,,6,6,5,5,6,6,5,5,5.5,1,1,-3,-5,,,,,0
+"4,154",200,Condition 4,Kindness,"Paris, Madrid",2/11/14 10:27,2/11/14 10:45,17,27,L OREAL,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,6,1,7,5,7,5,7,1,6,3,5,5,1,3,2,2,5,4,3,1,4,2,4,2,5,4,5,1,2,3,3,4,1,0,0,4,0,0,0,0,1,0,0,1,1,1,1,3,0,3,1,1,0,0,0,0,0,0,0,0,1,6,3,2,7,7,7,7,7,7,7,6,7,7,6,7,7,7,5,7,6,6,5,5,6,6,6,6,7,5,4,6,4,3,,5,6,4,4,6,2,3,6,5,5,5,6,6,6,5,5,5,1,1,1,3,1,1,1,1,,4,5,6,6,6,6,2,6,6,5,6,7,6,6,6,5,6,,,,,,,,,,,,,6,7,7,7,6,7,7,7,6.75,3,5,1,0,,,,,0
+"4,156",194,Condition 2,Work,"Paris, Madrid",2/11/14 18:07,4/23/14 10:43,"101,796",44,CENTREAL,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Autres,2,Femme,0,7,5,7,5,5,1,7,2,4,4,3,5,3,4,2,2,3,4,2,5,4,5,4,4,4,2,4,4,4,0,0,0,0,0,0,2,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,5,4,1,5,3,5,7,2,5,4,7,7,6,5,7,7,6,6,7,6,6,6,4,3,5,3,1,7,3,3,3,4,7,,7,7,7,7,5,7,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,7,7,7,6,2,6,7,7,7,1,6,5,6,6,3,,5,6,6,6,,,,,,,,,,,,5,6,6,6,5.75,0,0,1,0,,,,,0
+"4,158",193,Condition 1,Health,"Paris, Madrid",2/12/14 15:50,2/28/14 16:11,"23,060",27,LOréal,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Siège social,0,Homme,1,7,5,6,4,7,3,7,2,7,6,5,5,5,1,5,4,3,4,3,5,3,5,4,1,5,4,5,5,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,5,6,1,3,6,6,4,6,7,7,5,7,3,5,6,7,5,3,6,5,4,3,5,2,3,4,6,6,6,5,4,3,3,,5,6,6,4,6,6,2,7,6,5,5,6,6,7,5,4,5,2,6,7,1,1,1,1,1,1,3,6,4,5,3,6,2,5,7,7,7,7,6,5,7,6,6,,,,,,,,,7,7,7,7,,,,,7,7,7,7,7,2,8,10,9,,,"Ma chère,
+
+Depuis que lon sest connu, léquilibre dans ma vie a atteint un très beau niveau. A tous les niveaux, je retrouve mon bonheur et tout ce qui est important à mes yeux. Grâce à ce que tu as pu me dire au quotidien, les alertes + ou - volontaires, jai pris conscience des choses importantes à tes yeux et donc aux yeux de beaucoup dautres et de moi. 
+grâce à toi, la pratique régulière du sport tout en consciliant notre vie sociale est important et inscrit dans notre quotidien. Mon travail, tu le sais, prend une place importante dans ma vie mais tu as également su me dire quil fallait relativiser et que nul nétait irremplaçable.
+Grâce à toi, ma vie est équilibrée et je suis heureux !
+
+Avec beaucoup de très bons sentiments....",,1
+"4,159",194,Condition 2,Work,"Paris, Madrid",2/13/14 16:25,3/10/14 13:07,"35,802",35,LOréal,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,3,3,6,5,5,7,7,1,5,5,4,2,4,2,4,3,3,3,4,5,4,3,4,2,4,2,4,5,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,4,4,4,4,4,4,4,4,6,6,6,6,5,6,6,6,6,6,7,7,4,4,4,4,4,2,4,4,6,4,4,,4,6,4,5,5,3,5,5,6,6,6,6,6,6,5,5,5,4,1,1,2,1,4,4,4,4,1,5,5,5,4,6,1,6,6,4,6,7,6,6,6,6,5,,5,6,6,6,,,,,,,,,,,,5,6,6,6,5.75,1,1,-1,-1,,,,,0
+"4,160",193,Condition 1,Health,"Paris, Madrid",2/14/14 8:31,3/17/14 7:47,"44,595",42,LOREAL,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,2,7,5,7,3,7,1,3,1,5,5,5,5,5,4,5,3,5,4,4,4,4,2,5,4,4,4,3,1,4,0,2,0,1,2,3,2,0,4,2,3,0,1,0,0,3,1,0,2,2,1,4,3,0,0,0,4,0,0,3,1,1,1,2,2,1,3,4,4,4,7,7,6,6,7,7,5,6,7,7,5,6,7,7,7,6,7,6,5,4,7,6,6,,1,5,7,7,7,7,5,6,7,1,7,7,7,7,7,7,7,1,1,1,1,1,1,1,1,1,1,7,7,7,7,6,2,6,6,5,5,7,6,6,6,6,3,,,,,,,,,6,7,6,6,,,,,6,7,6,6,6.25,8,6,0,3,,,"Cher Yann, 
+je te remercie de mencourager à faire du sport. Cest non seulement bon pour ma ligne mais surtout cela me permet devacuer le stress de la semaine. Meme si je ne prends pas de plaisir à aller à la salle de sport je sais que cest bon pour ma santé...
+je suis consciente que tu me donnes ces conseils uniquement pour mon bien
+merci
+Amicalement
+Clarisse",,1
+"4,161",195,Condition 3,Control,"Paris, Madrid",2/14/14 9:16,2/14/14 9:44,28,40,Loréal luxe,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,7,4,7,1,7,4,7,1,7,1,5,5,5,2,5,4,4,4,3,5,4,2,4,5,5,4,4,5,0,0,1,2,0,0,0,0,2,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,7,6,5,4,6,6,5,4,6,6,4,4,7,5,7,5,7,7,5,5,7,1,7,,4,7,7,7,7,1,4,4,6,6,6,7,6,7,6,6,6,2,1,2,1,1,1,1,1,1,4,7,7,4,6,6,2,6,7,7,7,7,6,6,7,6,5,7,,,,,7,6,6,,,,,,,,,7,7,6,6,6.5,10,10,10,10,,0,,,0
+"4,162",200,Condition 4,Kindness,"Paris, Madrid",2/14/14 10:15,3/14/14 14:10,"40,554",50,MAISON DU CAFE,N’a eu son baccalauréat,0,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,2,7,3,7,3,7,1,5,1,4,5,4,4,2,4,4,3,4,4,4,3,2,2,4,4,3,4,4,3,4,0,0,2,1,3,2,2,0,0,0,0,0,0,2,0,0,1,0,1,0,1,4,0,3,1,1,0,0,0,0,7,1,1,7,7,7,5,5,7,5,5,7,6,5,5,6,6,5,6,7,5,6,7,4,6,7,6,7,5,3,6,7,7,,5,5,6,6,6,2,5,5,6,6,6,7,7,5,4,4,4,5,1,2,4,3,1,1,1,3,6,6,4,6,4,5,2,6,7,6,7,7,5,6,6,6,2,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,3,-3,-1,-1,"Chère Fabienne,
+
+Ta présence et ton implication envers ma fille sont extraordinaires. Depuis le début de sa maladie tu as été là tel un ange qui veillait sur elle. Tu es toujours là pour lui remonter le moral et aussi toujours là pour me redonner confiance en lavenir. Grace à toi je sais que tout ira mieux demain. Je suis tellement heureuse que lon tait rencontrée le jour le plus horrible de ma vie... Merci de continuer à être notre ange gardien. Comme promis on ira tous au restaurant quand Marina sortira de la clinique. Merci encore de ta présence.",,,,1
+"4,163",194,Condition 2,Work,"Paris, Madrid",2/14/14 15:40,4/25/14 16:04,"100,823",42,LOréal,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Usine,1,Homme,1,7,2,7,2,6,5,7,1,6,3,5,5,5,4,3,2,3,2,3,2,4,2,2,1,2,3,2,2,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,6,6,1,6,3,1,3,1,7,6,4,7,4,6,3,6,6,6,4,5,4,6,6,5,7,5,5,7,6,5,7,5,4,,7,7,6,6,4,6,4,2,5,2,5,7,7,1,2,5,3,4,4,5,1,1,1,1,1,2,1,5,7,6,6,6,5,5,7,1,7,7,6,6,6,6,6,,7,6,6,6,,,,,,,,,,,,7,6,6,6,6.25,0,5,-6,3,,,,"Cher Père (prêtre), 
+Je vous écris pour vous exprimer toute la reconnaissance et la gratitude que jéprouve envers vous. 
+rappelez vous notre entrevue en 1991 où je manquais terriblement de confiance en moi à tel point que les profs de terminale ne me donnaient même pas le Bac. 
+Vous mavez alors secoué en me disant que vous aviez de votre vie raremement rencontré qq daussi intélligent que moi, non seulement dans ma capacité de raisonnement mais également dans ma relation à lautre. 
+cela a eu un effet très bénéfique surmon capital confiance ! Cela ma permis de me donner les ressources nécessaires pour obtenir le BAC, oui mais avec mention Bien ! Ceci ma permis de ""renégocier"" mon entrée en prépar qui jusque là métait fermée. Ces mots que vous mavez dits auront été mes mais quotidiens durant ma prépa. Et Grâce à vous, quelqe part, jai pu intégrer major de ma prépa et 6 ème de France !! Alor qu mes profs ne me donnaient pas le BAC . 
+Merci Cher Père davoir cru en moi, Merci davoir révélé qui je peux être ! je ne loublierai pas, vous mavez permis doser, de r^éver, de croire et davoir une vraie ambition !
+A très bientôt",1
+"4,166",193,Condition 1,Health,"Paris, Madrid",2/16/14 9:11,2/16/14 9:22,10,40,loreal,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études universitaires,4,Autres,2,Femme,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,3,0,0,3,2,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,3,4,4,5,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+"4,168",200,Condition 4,Kindness,"Paris, Madrid",2/17/14 13:33,4/4/14 15:58,"66,384",23,Maison du Café France,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,6,5,7,3,6,2,7,1,7,1,4,5,4,4,3,1,4,4,3,5,4,5,5,5,4,5,4,5,3,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,5,1,5,6,5,7,7,7,7,6,6,5,3,7,6,5,3,7,5,5,4,7,6,6,5,5,7,6,5,7,6,5,,2,7,7,7,6,1,6,6,6,7,6,6,6,6,5,4,4,2,1,1,1,1,1,1,1,1,5,5,5,5,5,6,1,6,6,4,5,6,6,6,6,5,2,,,,,,,,,,,,,6,7,6,5,6,7,6,5,6,4,5,6,6,"Cher Alexandre, 
+
+Grâce à toi, jai pris confiance en moi. 
+Tu mas soutenu lors de ma recherche de travail, quand jai douté de moi. 
+Tu mas toujours montré laspect positif de chaque chose même quand la situation semblait difficile.
+Tu mas conseillé dans ma recherche, sur lattitude à avoir, létat desprit à adopter. 
+
+Maintenant que jai un travail et que je me sens à laise dans lunivers ou je suis, tu restes toujours à mes côtés. 
+Ton soutien constant me permet doser, de changer, de traverser les moments de stress.
+
+Amicalement",,,,1
+"4,169",194,Condition 2,Work,"Paris, Madrid",2/17/14 13:39,3/5/14 13:54,"23,055",38,DEMB,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Homme,1,7,6,5,5,5,2,7,2,6,6,4,3,4,3,2,2,3,3,4,,4,3,2,2,3,2,4,2,3,3,3,0,1,0,1,3,0,0,0,2,1,0,0,1,0,3,0,2,0,3,2,1,0,0,0,0,0,0,0,0,2,4,1,4,6,3,5,6,7,6,3,5,6,7,5,6,5,7,3,6,7,3,3,4,5,4,5,4,4,6,4,5,4,5,,5,5,6,3,6,7,5,5,5,4,4,6,6,3,1,4,2,4,4,5,3,2,3,3,1,4,4,6,4,5,4,5,2,4,5,6,3,3,6,5,5,6,5,,6,6,5,4,,,,,,,,,,,,6,6,5,4,5.25,-2,2,0,3,,,,,0
+"4,170",195,Condition 3,Control,"Paris, Madrid",2/17/14 13:46,3/18/14 12:29,"41,682",32,Maison du café,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Siège social,0,Homme,1,2,5,6,6,6,6,6,5,6,2,3,4,4,5,2,5,3,3,3,3,3,4,4,4,3,3,4,3,3,3,3,3,1,3,0,2,1,0,0,4,3,1,0,3,1,3,3,1,2,3,3,0,1,0,2,0,0,0,0,0,3,1,5,1,1,1,3,6,6,5,5,5,5,6,5,6,7,5,5,6,5,6,5,4,4,6,5,5,7,5,4,6,5,2,,6,7,6,6,6,6,5,5,5,6,7,6,6,6,6,6,6,2,1,3,1,1,1,1,1,2,4,7,6,6,7,5,1,6,5,5,4,2,3,3,5,2,5,6,,,,,7,4,6,,,,,,,,,6,7,4,6,5.75,3,3,-1,1,,"Au cours de cette semaine je suis allé à mon école pour ma formation en alternance, du coup mes actions sont plus limitées: jai été attentif à ce qui était dit en cours. Jai rédigé mon projet.",,,1
+"4,171",195,Condition 3,Control,"Paris, Madrid",2/20/14 17:56,3/7/14 15:40,"21,464",58,maison du café DEMB 1753,N’a eu son baccalauréat,0,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Homme,1,4,1,4,2,5,4,7,1,6,4,4,5,4,5,3,2,3,3,3,5,3,5,3,4,5,4,5,5,0,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1,1,1,1,6,1,1,6,4,7,6,5,4,5,4,4,5,5,5,4,1,1,2,1,2,4,1,1,4,7,3,,7,7,7,5,7,7,5,5,5,4,5,7,7,6,6,5,4,1,5,3,1,1,1,1,1,1,1,5,6,4,3,5,1,4,6,6,4,4,6,6,6,6,6,6,,,,,5,5,5,,,,,,,,,6,5,5,5,5.25,3,4,2,2,,"Vie privée  jai passé le W.E avec mes petites filles
+Vie pro: Bonne mise en place operation magasins
+jai contesté mon augmentation de salaire
+jai accompagné un salarié en rdv de licenciement",,,1
+"4,172",193,Condition 1,Health,"Paris, Madrid",2/17/14 13:55,4/7/14 11:46,"70,431",50,MAISON DU CAFE FRANCE,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,2,4,6,7,2,6,6,1,1,5,3,2,3,4,1,2,3,2,3,5,4,5,3,1,3,3,3,2,3,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,4,1,1,4,7,7,7,6,7,6,5,4,6,6,6,4,3,1,5,3,6,7,1,1,1,2,6,,7,4,7,7,5,7,3,3,6,6,7,6,6,6,4,4,4,3,1,2,3,3,2,1,1,3,1,6,6,6,6,6,1,6,3,3,2,5,2,5,2,7,1,,,,,,,,,6,6,6,6,,,,,6,6,6,6,6,-1,-6,4,-1,,,,,0
+"4,173",194,Condition 2,Work,"Paris, Madrid",2/17/14 14:01,3/3/14 14:35,"20,194",29,MAISON DU CAFE,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Homme,1,4,4,7,4,4,3,5,1,4,4,3,3,3,3,3,5,4,5,3,5,4,5,3,4,3,3,3,3,4,0,0,0,0,0,0,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4,4,1,4,4,4,5,5,4,5,7,7,7,5,7,7,6,4,7,7,5,4,4,4,4,4,4,4,4,3,5,3,3,,1,2,4,2,2,7,3,4,6,5,5,5,5,4,4,4,4,2,1,2,2,2,1,1,1,1,1,5,5,5,5,6,2,6,5,5,4,4,5,6,5,6,6,,6,6,6,6,,,,,,,,,,,,6,6,6,6,6,2,2,2,1,,,,,0
+"4,174",193,Condition 1,Health,"Paris, Madrid",2/17/14 14:04,3/14/14 9:42,"35,738",47,Maison du Café France,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Homme,1,3,3,7,3,7,6,6,1,6,3,4,4,4,3,4,2,4,4,3,5,4,5,3,1,3,1,3,1,4,1,3,4,0,1,0,4,0,0,0,3,4,0,1,3,1,1,0,3,3,3,0,3,3,3,2,0,2,0,3,4,3,5,4,2,4,5,6,5,5,6,3,7,7,7,5,6,7,6,3,5,7,5,3,5,5,5,4,5,5,5,3,4,4,4,,3,5,4,3,5,4,6,6,6,5,6,6,6,6,6,6,6,4,3,2,2,3,1,1,1,1,1,6,6,6,7,5,2,5,6,6,6,6,6,5,6,6,5,,,,,,,,,7,6,4,4,,,,,7,6,4,4,5.25,-2,3,-2,-2,,,"Ma Chérie et mes chers enfants,
+
+Ces quelques mots vous sont destinés. Il est important pour moi de vous remercier du fond du cœur pour votre soutien et la motivation que vous avez su instiller en moi. Sans votre regard bienveillant et votre amour, il m’aurait été impossible de troquer ma cigarette contre une paire de chaussures de running. Cela fait maintenant treize ans que j’ai arrêté de fumer et que lorsque mon corps me le permet, je compense ce plaisir perdu par le bien être d’une saine fatigue.
+Je me suis investi dans le sport comme dans mon travail avec le souci du résultat et la volonté de me prouver que j’ai de la valeur. Aujourd’hui, le running est devenu trop exigeant pour que je puisse continuer à le pratiquer sans aller de blessure en blessure. Le cyclisme me permet de varier tout en ayant encore une activité régulière. Il est juste beaucoup plus difficile de trouver le temps d’une bonne sortie en vélo dans le rythme imposé par le travail et la vie familiale. La course à pied avait l’avantage de pouvoir se pratiquer sur une durée relativement courte (1h) avec un effet important sur le corps. Pour obtenir le même résultat en vélo, il faut prévoir 3h sans compter les préparatifs.
+Malgré ces contingences, le sport est une préoccupation dont je ne peux pas me passer alors que ce n’était pas le cas lorsque j’étais fumeur. De cela encore je vous remercie.
+Je vous embrasse",,1
+"4,176",200,Condition 4,Kindness,"Paris, Madrid",2/17/14 14:12,2/24/14 14:33,"10,100",47,DEMB 1753 France,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,3,3,7,4,3,6,4,1,6,4,5,3,4,4,4,4,3,4,4,5,3,3,4,2,3,2,2,2,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,3,4,4,4,3,4,5,5,5,5,5,6,5,4,5,5,3,5,4,3,5,5,5,4,4,6,5,5,4,7,5,2,,6,4,4,4,3,4,4,5,6,5,5,6,6,2,4,4,4,5,2,2,1,1,1,1,1,2,2,6,5,5,5,3,4,4,6,5,5,6,6,6,5,6,5,,,,,,,,,,,,,4,5,5,4,4,5,5,4,4.5,-2,2,-5,3,,,,,0
+"4,177",193,Condition 1,Health,"Paris, Madrid",2/17/14 14:12,3/3/14 15:07,"20,214",54,DEMB France,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Homme,1,6,2,7,4,6,5,7,2,4,3,4,4,5,4,4,4,4,4,3,4,4,4,4,4,5,4,4,4,3,1,1,1,0,0,0,2,1,0,1,0,0,1,0,0,1,0,0,1,0,1,2,1,1,0,0,0,0,0,1,3,1,5,5,4,6,5,4,6,6,5,6,6,7,5,4,6,7,4,6,7,6,5,4,4,4,4,3,5,4,5,3,4,4,5,,5,6,4,5,4,4,5,5,5,5,5,4,5,5,4,4,5,1,2,3,1,2,1,1,1,1,2,5,5,4,4,6,2,7,6,7,6,6,6,7,7,7,6,,,,,,,,,5,,4,4,,,,,5,,4,4,4.333333333,5,7,6,7,,,,,0
+"4,179",200,Condition 4,Kindness,"Paris, Madrid",2/17/14 14:38,3/13/14 15:58,"34,639",40,MAISON DU CAFE,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Siège social,0,Femme,0,3,1,7,5,7,6,6,3,4,5,3,4,4,4,3,1,3,2,3,3,3,4,3,1,4,3,3,2,2,4,2,,,1,1,2,1,1,1,1,1,0,,,,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,1,7,,,7,7,7,6,7,7,7,6,6,6,4,6,6,5,4,7,6,5,2,6,7,7,7,6,7,7,7,7,1,4,,7,7,7,7,5,7,4,4,6,6,6,6,6,6,3,4,4,2,1,1,1,1,2,3,1,1,7,7,6,4,5,6,1,6,5,6,5,6,5,5,5,6,3,,,,,,,,,,,,,6,7,6,6,6,7,6,6,6.25,3,4,6,9,,,,,0
+"4,180",194,Condition 2,Work,"Paris, Madrid",2/17/14 14:57,3/7/14 15:31,"25,953",36,MAISON DU CAFE PROFESSIONAL FRANCE,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,5,5,7,4,6,3,6,1,7,5,4,5,4,5,4,5,3,5,3,5,3,5,5,2,5,5,5,5,2,2,0,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,1,6,6,4,4,5,5,6,7,7,7,7,7,7,7,6,7,7,7,7,4,2,4,4,4,4,6,4,4,4,4,,4,5,7,5,7,7,4,6,6,6,6,6,6,6,5,5,5,1,1,1,1,1,1,1,1,1,3,7,7,7,7,7,1,7,5,5,5,6,2,6,6,1,5,,7,7,7,7,,,,,,,,,,,,7,7,7,7,7,4,5,0,8,,,,"Chère Française des jeux,
+
+Grace à vous, jai gagné au loto ce qui ma permis de prendre une année sabbatique. Jai pu voyager et rencontrer des personnes différentes et mouvrir sur le monde.
+
+Cette experience a eu un effet très positive sur ma vie personnelle qui a donc eu une répercussion positive sur ma vie professionnelle.
+
+Après 11 ans dans la même société, cela ma reboosté et je suis revenue plus motivée que jamais ! 
+
+Bien à vous
+
+Karine",1
+"4,181",195,Condition 3,Control,"Paris, Madrid",2/17/14 15:00,2/17/14 16:07,67,28,DEMB,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Homme,1,4,6,7,5,5,4,6,2,6,6,2,2,2,3,3,3,3,3,3,5,3,5,3,2,4,3,3,4,1,1,0,0,0,0,0,1,2,2,0,0,0,0,3,3,3,3,3,2,4,2,2,1,1,0,3,0,0,0,0,0,0,4,4,4,4,4,4,4,4,4,4,5,7,6,6,5,5,5,6,5,5,5,6,3,3,3,3,5,5,4,2,3,4,4,,4,5,4,4,4,4,4,4,5,3,5,6,6,6,6,6,6,5,4,4,4,5,2,2,4,4,4,6,6,6,6,5,2,5,4,5,4,4,3,2,3,3,3,6,,,,,5,5,6,,,,,,,,,6,5,5,6,5.5,-1,-1,3,0,,,,,0
+"4,182",193,Condition 1,Health,"Paris, Madrid",2/17/14 15:06,2/17/14 15:26,20,31,MAISON DU CAFE PROFESSIONAL,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,7,5,1,3,7,1,7,2,6,1,5,5,5,5,4,5,4,5,4,5,4,5,4,5,4,3,5,4,4,4,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,1,1,6,1,1,1,1,1,,7,7,7,7,7,7,7,7,7,7,7,7,4,2,6,,3,5,4,4,4,3,1,,2,7,7,7,5,1,4,4,6,6,6,7,7,7,7,7,7,1,1,1,1,1,1,1,1,3,,7,7,7,7,7,1,7,7,7,7,1,7,6,6,7,6,,,,,,,,,5,5,6,7,,,,,5,5,6,7,5.75,8,8,7,7,,,"Chère maman,
+
+Merci de mavoir poussé à consulter un médécin en raison de ma douleur à lépaule. Cela faisait plusieurs semaines que la douleur perdurait mais que je prenais cette douleur à la légère.
+
+Amicalement,",,1
+"4,183",195,Condition 3,Control,"Paris, Madrid",2/17/14 15:08,2/17/14 16:38,90,45,MAISON DU CAFE,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,2,7,5,6,2,7,1,5,2,4,5,5,5,4,5,4,5,3,5,4,5,4,5,4,4,3,5,2,1,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,2,,,,,,,,,,,6,6,7,4,6,6,7,4,6,6,7,4,2,2,3,2,4,6,3,2,3,3,3,,4,6,6,6,4,4,5,5,6,6,6,7,7,7,5,5,5,2,1,1,1,1,1,1,1,1,1,6,5,5,5,6,2,6,5,6,6,7,5,5,5,5,3,6,,,,,6,6,6,,,,,,,,,6,6,6,6,6,6,4,6,6,,,,,0
+"4,184",200,Condition 4,Kindness,"Paris, Madrid",2/17/14 15:09,2/28/14 21:51,"16,241",41,DEMB,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,5,6,6,6,5,2,6,1,3,3,3,3,3,5,5,5,4,2,3,2,4,2,4,1,3,5,3,3,1,0,0,3,0,3,0,3,1,1,0,0,2,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,7,5,4,6,7,2,6,5,7,6,5,6,6,5,6,6,5,5,6,6,5,5,5,5,5,4,2,7,6,4,7,3,3,,3,3,7,5,5,7,3,5,6,7,7,5,5,5,7,5,6,3,1,1,2,1,2,1,1,1,2,6,6,6,6,6,2,5,5,5,4,3,5,6,6,6,5,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,4,2,3,4,"Bonjour Nadine,
+
+Merci pour votre gentillesse, votre disponibilité et votre aide depuis la naissance de Choupinette puis de nos jumelles . Mon mari et moi vous sommes très reconnaissants pour le bien être de nos 3 petites filles mais aussi pour le bien être de leurs parents ! Vous avez toujours été présente et dune aide précieuse pour vous occuper delles, nous aider pour gérer les maladies et situations difficiles compte tenu de nos contraintes professionnelles.
+Cela ma permis daborder plus sereinement ma reprise du travail, de pouvoir me réinvestir au sein de mon travail tout en sachant que tout se passerait bien pour ma petite famille. Rien ne vous y obligeait et pourtant ...
+Un grand merci 
+Amicalement",,,,1
+"4,187",194,Condition 2,Work,"Paris, Madrid",2/17/14 16:03,2/25/14 17:21,"11,597",28,Master Blenders Maison du café,Troisième cycle,4,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Homme,1,5,5,6,3,6,3,5,1,6,4,3,1,3,5,1,5,5,2,5,5,4,5,4,5,5,4,4,5,3,4,3,4,1,0,0,2,0,0,0,1,0,0,2,1,3,2,0,1,0,3,1,0,0,0,2,0,0,3,0,0,3,1,1,1,1,1,1,1,1,1,1,6,7,6,6,6,6,6,5,6,6,5,2,3,1,1,1,1,5,2,1,3,1,1,,2,,3,3,3,2,1,1,6,5,7,6,6,5,5,6,5,4,1,4,5,4,1,1,1,4,1,6,2,1,5,6,2,2,5,3,3,5,3,2,3,6,1,,3,5,5,5,,,,,,,,,,,,3,5,5,5,4.5,0,-4,2,3,,,,,0
+"4,189",200,Condition 4,Kindness,"Paris, Madrid",2/17/14 16:06,3/12/14 16:32,"33,145",40,maison du cafe,Troisième cycle,4,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Femme,0,7,1,7,6,6,4,7,1,2,1,4,3,3,5,4,2,4,5,2,2,3,2,1,2,3,4,3,5,4,3,4,4,1,3,0,3,1,0,0,2,3,2,0,1,2,0,0,2,2,4,3,2,4,1,0,0,0,0,3,0,3,,,,,,,,,,,5,6,6,4,5,5,6,5,6,6,3,4,7,6,7,5,7,7,4,2,4,3,6,,7,7,3,,7,1,5,5,5,5,5,6,5,4,2,4,1,,,,,,,,,,,7,7,7,7,5,2,5,6,7,6,7,5,6,6,6,7,,,,,,,,,,,,,5,6,5,5,5,6,5,5,5.25,1,6,-2,3,,,,,0
+"4,190",194,Condition 2,Work,"Paris, Madrid",2/17/14 16:08,2/17/14 16:58,50,32,Maison du Café Professional France,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,4,2,7,7,6,7,7,2,6,3,4,2,3,2,3,2,4,3,4,5,3,5,4,2,3,3,3,4,3,3,3,0,2,1,1,2,1,0,2,2,2,1,0,0,0,0,0,2,0,1,1,0,1,0,1,1,0,0,1,1,0,5,3,5,4,5,2,2,6,6,3,6,5,5,4,6,5,4,4,6,4,5,4,6,3,6,4,7,6,5,4,6,4,3,,5,6,6,3,5,5,5,5,5,5,6,6,6,6,6,7,6,6,4,5,2,3,1,1,1,4,2,4,4,4,3,5,2,6,5,4,5,5,5,7,6,6,5,,5,5,5,5,,,,,,,,,,,,5,5,5,5,5,3,4,-5,-1,,,,"Cher XXX,
+Je te remercie de ta confiance.
+En effet, tu mas embauché sur un poste dont jai toujours rêvé mais pour lequel je navais pas toute lexpérience requise. Tu mas épaulé sur certains dossiers et surtout appris à mieux gérer mon temps et mon organisation.
+De plus, tu me fais réflechir sur moi-même, même si ce nest pas évident, pour avancer encore et toujours.
+Amicalement
+XXX",1
+"4,194",195,Condition 3,Control,"Paris, Madrid",2/17/14 17:12,3/17/14 19:41,"40,468",51,demb,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Homme,1,6,6,6,3,6,4,5,2,3,3,3,2,3,3,3,2,3,3,3,5,3,4,3,1,3,2,3,2,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,1,0,4,4,2,6,4,3,4,4,3,4,5,5,4,4,5,5,4,4,5,6,5,4,6,5,6,3,6,4,5,4,6,5,5,,2,4,4,3,5,2,6,6,5,5,5,4,4,3,5,5,5,6,4,4,2,3,1,1,1,3,1,4,4,4,4,5,1,6,6,6,7,7,5,5,5,5,4,6,,,,,5,6,6,,,,,,,,,6,5,6,6,5.75,-1,1,2,1,,"jai fait de nombreuses poses dans la journée pour prendre le temps de  téléphoner aux clients 
+et ainsi anticiper les échéances à venir et me permettre de planifier mon activité jusquà fin avril
+il est de plus en plus important que ce travail soit fait si je veux obtenir des résultats positifs  dans mon
+activité",,,1
+"4,202",193,Condition 1,Health,"Paris, Madrid",2/17/14 20:36,3/25/14 6:03,"50,966",38,LOREAL,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Femme,0,7,2,7,1,7,5,7,1,5,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,1,7,6,4,6,3,6,7,7,7,7,7,7,7,7,7,7,6,7,7,6,4,7,5,6,7,6,6,7,1,1,,7,3,7,7,7,7,4,6,7,5,7,6,5,5,6,6,5,1,1,1,1,1,1,1,1,1,1,6,6,6,5,7,1,7,7,6,7,7,6,7,7,6,6,,,,,,,,,6,6,6,6,,,,,6,6,6,6,6,9,8,9,10,,,,,0
+"4,203",200,Condition 4,Kindness,"Paris, Madrid",2/17/14 20:51,2/23/14 14:15,"8,244",32,DEMB,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,4,7,5,7,3,6,2,4,6,1,1,1,1,1,3,3,3,4,3,4,5,1,1,2,2,1,1,1,0,3,4,0,0,1,3,1,0,0,0,3,1,0,1,0,1,0,0,1,2,4,0,0,0,0,4,0,0,0,0,4,7,3,6,2,7,7,2,2,7,1,7,4,7,2,7,2,6,6,7,7,7,3,4,2,1,7,5,3,4,6,6,7,2,,4,3,5,3,7,4,4,5,6,6,4,6,5,4,4,4,4,5,5,7,4,5,4,1,1,6,7,6,6,5,5,7,2,6,4,4,2,2,5,3,5,6,3,,,,,,,,,,,,,5,5,4,4,5,5,4,4,4.5,-3,-4,3,-3,,,,,0
+"4,217",194,Condition 2,Work,"Paris, Madrid",2/18/14 7:17,2/26/14 8:11,"11,573",49,D.E.Master Blenders 1753 (Maison du Café France SNC),Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Homme,1,6,1,7,5,6,7,7,2,6,2,4,4,4,2,3,2,4,4,4,2,3,4,4,2,5,4,2,2,2,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,7,7,3,6,6,6,6,6,7,6,6,5,6,6,5,6,6,6,5,6,5,6,5,6,7,5,3,5,2,4,,6,5,6,6,6,6,6,6,6,7,7,7,6,6,5,6,5,1,1,3,3,2,1,1,1,2,1,7,6,6,6,6,2,6,5,4,5,6,6,6,6,7,5,,6,7,5,5,,,,,,,,,,,,6,7,5,5,5.75,-3,2,-3,5,,,,"Cher Christophe,
+Je técris cette lettre pour te dire que les formations et moments passés avec toi ont influencé positivement ma preception de mon travail et surtout de mes compétences.
+Jai beaucoup appirs avec toi sur lorganisation, lanticipation.
+Jai réalisé également que javais des aptitudes au management et à la négo.
+Nos discussions et le fait de tobserver mont bien aidé.
+Jai pris confiance en moi et jai pu conforter mes impressions.
+Pour tout ça, je te remercie, car je me sens maintenant bien dans lexercice de mes fonctions.
+Amicalement,
+Denis",1
+"4,219",195,Condition 3,Control,"Paris, Madrid",2/18/14 7:57,3/20/14 17:49,"43,791",33,MAISON DU CAFE,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Femme,0,4,4,7,5,6,5,6,1,6,4,4,5,4,5,4,3,4,4,4,4,4,4,4,3,4,3,2,4,3,1,0,0,0,2,0,3,1,0,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,1,2,2,2,5,,2,4,4,4,4,6,6,6,6,6,6,6,6,6,6,5,6,5,6,6,6,5,7,,,,,,,6,5,4,4,4,4,5,6,6,6,6,5,5,4,4,5,5,3,2,1,1,1,1,1,1,1,2,7,7,7,7,6,2,6,5,5,5,,5,4,5,5,4,6,,,,,6,5,5,,,,,,,,,6,6,5,5,5.5,3,2,0,0,,"Actions de mise en avant de marchandises, pose de plv.
+Réimplantations, actions rayon, négociation gamme de produit, négociation dopération commerciale, prise de RDV. 
+Appels téléphoniques (collègues/clients), route, découchage.",,,1
+"4,220",195,Condition 3,Control,"Paris, Madrid",2/18/14 10:11,2/18/14 12:23,131,48,MAISON DU CAFE FRANCE SNC,N’a eu son baccalauréat,0,,,Siège social,0,Femme,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,7,7,7,7,7,7,7,7,,,,,,,,,,,,,,,,,,,,,7,7,7,,7,7,7,7,7,,,,,,,,,,,7,7,7,7,7,1,7,4,4,,3,,,,,,7,,,,,1,,6,,,,,,,,,7,1,,6,4.666666667,0,5,9,9,,,,,0
+"4,221",194,Condition 2,Work,"Paris, Madrid",2/18/14 10:30,4/3/14 15:09,"63,639",55,maison du café,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Homme,1,4,4,6,5,4,4,6,2,6,2,3,3,3,4,2,4,4,5,4,5,3,3,3,3,4,2,4,3,0,0,0,2,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,4,2,3,3,5,5,5,5,5,5,5,6,7,5,5,5,6,6,6,5,6,4,4,4,4,4,4,4,4,4,3,3,,5,4,4,5,5,3,4,5,6,6,6,5,5,5,4,5,5,4,1,1,1,1,1,1,1,1,2,5,5,5,5,6,2,6,6,5,4,4,5,6,6,6,5,,6,6,6,5,,,,,,,,,,,,6,6,6,5,5.75,7,7,6,7,,,,"Mon cher ami,   ,
+
+Quelques mots pour te dire toute ma gratitude lmorsque tu m as aidé à surmonter l epreuve personnelle que jai subi et qui m a affecté .
+Jai apprécié ton support pryschologique et la façon dont tu m as aidé .
+ceci m a permis dans mon travail d avoir parfois la meme approche avec mes collègues ou collaborateurs pour les aider dans des moments diffciile de leur carrière",1
+"4,222",193,Condition 1,Health,"Paris, Madrid",2/18/14 10:45,2/25/14 17:03,"10,458",39,MAISON DU CAFE,Troisième cycle,4,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Homme,1,7,2,7,7,5,2,7,1,6,5,4,5,4,5,4,5,5,5,1,3,3,5,5,5,4,3,5,5,4,1,2,0,0,0,0,2,0,0,0,3,0,0,0,0,0,1,2,1,0,3,0,0,2,0,0,0,0,0,0,0,0,5,1,3,7,2,6,1,6,7,4,7,7,7,6,7,7,6,5,7,7,7,6,5,3,3,2,6,6,6,3,6,4,7,,7,7,7,7,3,7,6,7,6,7,6,6,6,6,1,1,1,2,1,3,2,2,2,1,1,2,6,6,6,6,6,6,1,7,6,7,5,7,5,5,6,6,5,,,,,,,,,5,5,5,5,,,,,5,5,5,5,5,5,6,3,1,,,"Chère Madame GUERIN,
+
+Lors de vos scéances de Psycho-thérapie, vous mavez appris à écouter mon corps et mes besoins, à me faire comprendre ce qui est essentiel dans la vie. Vous avez constamment insister sur le fait que javais une action sur mes ""maux"", quen mettant de la distance avec les ""parasites"" qui mentourent, je devenais acteur de ma vie et de mes décisions.
+
+Cest ce que je fais au quotidien, et je ne culpabilise plus quand je décide quelque chose. Jai changé de travail depuis 2 ans et jai retrouvé lenvie et le plaisir. Je maffirme plus et on me reconnait dans mon travail et dans ma vie, peu importe ce que pense les autres.
+
+Je vous suis reconnaissant de mavoir ouvert les yeux, afin dêtre le seul décideur de ma propre vie.
+
+Bien cordialement,
+
+FREDERIC",,1
+"4,223",200,Condition 4,Kindness,"Paris, Madrid",2/18/14 13:10,2/18/14 14:06,56,26,LOréal,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,3,2,7,7,7,7,5,1,3,6,3,2,4,2,4,2,4,4,4,3,4,2,4,3,4,3,4,2,4,3,2,4,1,1,1,4,1,0,0,3,3,1,3,3,0,3,1,3,3,4,1,2,3,0,0,4,0,0,0,0,1,5,4,4,4,4,4,4,5,5,5,7,7,7,7,7,6,6,6,7,6,6,6,5,5,6,5,5,6,6,5,6,5,4,,3,5,7,6,6,7,4,4,5,5,5,7,7,7,7,7,7,5,4,5,4,3,4,4,2,5,3,5,5,5,5,6,2,6,5,6,3,3,6,6,6,6,3,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,2,4,3,3,,,,,0
+"4,225",195,Condition 3,Control,"Paris, Madrid",2/18/14 14:20,2/28/14 14:36,"14,415",29,maison du cafe,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,6,5,7,3,6,6,6,2,7,5,5,5,5,5,4,4,4,5,4,5,4,5,5,1,4,2,3,4,2,0,0,2,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,2,1,0,0,0,0,2,0,0,5,7,1,6,6,1,6,5,1,6,6,6,7,7,6,7,7,7,6,6,7,7,4,4,4,4,4,4,5,4,2,5,4,,2,3,4,4,3,4,5,5,6,6,6,5,5,4,4,4,4,5,1,1,1,1,1,1,1,1,1,7,7,7,7,5,3,5,6,6,6,6,5,6,5,6,5,6,,,,,5,5,6,,,,,,,,,6,5,5,6,5.5,7,7,4,7,,"Jai déménagé, puis rangé mon appartement.
+Jai présenté les chiffres devant toute lentreprise.
+Jai remplacé ma chef devant ses congés.
+Jai fait la fête ce week-end.",,,1
+"4,226",193,Condition 1,Health,"Paris, Madrid",2/18/14 16:39,2/28/14 14:49,"14,290",30,LOREAL,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Homme,1,7,2,6,5,6,2,7,2,6,4,4,5,4,5,4,4,4,4,4,5,4,5,5,3,4,2,4,3,3,0,4,1,0,1,0,1,1,1,0,2,1,0,1,1,0,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,2,6,6,1,6,6,4,6,5,7,7,7,6,6,6,6,6,6,6,6,6,6,6,5,5,7,5,5,6,5,5,6,5,4,,2,6,7,7,6,5,6,6,6,6,6,6,6,6,4,4,4,1,1,1,1,1,1,1,1,1,2,6,5,5,5,6,1,7,6,5,6,2,6,5,6,6,5,,,,,,,,,6,6,6,6,,,,,6,6,6,6,6,4,4,3,4,,,Merci pour laide apportée dans le cadre du projet de la maison. Sans vous je naurais pas pu aller au bout et donc finalement prendre mon envol. Je vous en serai éternellement reconnaissant car cela représente pour moi le début dune belle vie. Une vie qui sera passionnante et passionnée.,,1
+"4,227",194,Condition 2,Work,Romance Standard Time,2/18/14 21:58,3/25/14 10:54,"49,736",36,DEMB FRANCE,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,7,2,7,1,6,4,7,2,7,2,4,3,4,5,3,5,4,3,4,5,4,5,4,4,3,2,2,4,0,1,0,0,0,1,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,3,1,4,4,4,4,2,7,4,5,7,7,6,6,7,7,5,7,7,6,5,7,6,6,5,5,5,7,4,7,4,2,,1,5,7,1,4,7,5,5,6,5,6,6,6,1,5,5,4,1,1,1,1,1,1,1,1,1,3,6,4,6,6,5,2,5,6,7,6,6,7,6,6,7,6,,7,7,7,7,,,,,,,,,,,,7,7,7,7,7,4,7,3,6,,,,,0
+"4,228",193,Condition 1,Health,"Paris, Madrid",2/19/14 9:06,2/20/14 11:13,"1,566",45,DEMB,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Homme,1,7,4,6,7,6,2,6,3,3,2,3,2,3,4,3,2,4,2,4,2,4,4,4,2,3,2,2,2,1,1,3,1,1,2,1,3,1,0,1,2,1,1,1,1,1,2,1,2,4,2,1,1,1,1,1,0,0,1,2,2,1,4,4,6,5,4,6,5,6,6,4,5,6,4,5,5,6,4,5,5,5,4,5,4,4,4,4,5,5,4,4,5,5,5,,4,4,5,3,5,4,4,6,5,5,5,6,6,6,6,6,6,4,4,3,3,3,4,4,4,5,4,6,5,5,5,5,3,5,4,4,4,4,3,5,3,5,3,,,,,,,,,6,6,6,6,,,,,6,6,6,6,6,-1,-3,3,4,,,"Mon amour,
+
+Pardonne-moi
+Merci
+Je taime
+Mais délivre-moi",,1
+"4,229",195,Condition 3,Control,"Paris, Madrid",2/19/14 10:35,4/8/14 8:25,"68,990",52,MAISON DU CAFE FRANCE,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,2,7,5,7,6,7,1,6,2,4,4,4,3,3,2,5,5,5,5,5,5,5,2,3,3,3,5,2,3,2,2,2,1,2,4,2,2,0,2,1,3,0,0,1,1,0,3,0,3,3,3,3,0,2,0,0,0,0,0,3,4,3,1,5,4,3,6,,,,7,7,7,6,6,7,6,6,7,6,6,6,1,1,,4,4,7,6,4,6,4,4,,7,7,7,7,7,1,2,4,6,7,7,6,5,5,3,4,2,1,1,1,1,1,1,1,1,1,1,6,6,4,6,6,1,6,5,5,6,5,5,3,6,6,3,7,,,,,7,6,7,,,,,,,,,7,7,6,7,6.75,0,5,0,1,,Jai fait mon travail consciencieusement et fait en sorte que pendant mon absence prochaine en congés mes collègues soit en mesure de continuer mon travail afin quà mon retour je puisse moi-même en faire autant,,,1
+"4,230",200,Condition 4,Kindness,"Paris, Madrid",2/19/14 11:08,4/4/14 16:28,"63,679",25,Maison du Café France,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Homme,1,6,2,6,2,6,5,6,2,6,5,4,4,4,5,4,2,4,3,3,4,4,3,4,4,4,3,4,3,1,1,2,1,1,2,1,2,2,2,0,0,1,0,1,0,0,1,0,0,0,1,2,1,0,1,0,0,0,0,0,0,2,5,3,3,5,5,4,5,5,6,5,6,6,6,6,6,6,6,5,6,5,6,5,6,3,6,4,5,6,5,3,5,3,4,,3,6,6,3,6,6,4,5,6,6,6,6,6,5,5,6,5,3,1,1,1,1,1,1,1,1,2,5,5,6,5,5,2,6,6,6,6,6,6,5,6,6,5,,,,,,,,,,,,,6,7,6,6,6,7,6,6,6.25,6,7,6,6,,,,,0
+"4,231",194,Condition 2,Work,"Paris, Madrid",2/19/14 14:13,3/19/14 7:44,"39,930",27,Maison du Café,Troisième cycle,4,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Usine,1,Femme,0,4,2,7,5,7,5,7,1,5,5,4,5,4,5,3,2,4,5,,5,4,5,4,5,4,2,4,5,0,0,1,1,0,1,0,1,2,2,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,5,1,1,1,5,1,5,3,7,6,6,7,6,6,7,7,5,6,6,6,6,5,6,6,6,6,6,7,5,5,6,4,4,,7,7,7,7,6,7,4,5,6,5,6,7,7,7,6,6,6,1,1,1,1,1,1,1,1,1,1,6,6,6,7,6,2,6,6,6,5,6,5,6,6,6,5,,7,7,6,6,,,,,,,,,,,,7,7,6,6,6.5,5,4,6,4,,,,,0
+"4,232",193,Condition 1,Health,"Paris, Madrid",2/19/14 14:18,2/26/14 15:20,"10,142",28,DEMB,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,5,2,4,3,6,4,5,3,4,3,5,4,5,1,3,5,3,3,3,4,3,4,3,2,2,2,2,3,2,2,1,3,0,1,1,2,2,1,2,2,2,0,0,0,0,0,0,2,0,2,2,0,2,0,0,3,0,0,0,0,2,,,,,,5,,,6,5,5,5,5,4,4,5,5,4,5,5,3,3,4,4,6,3,5,7,4,3,5,3,5,,6,4,7,6,6,7,4,4,4,4,4,5,5,5,5,4,4,4,3,3,4,1,2,2,1,3,2,5,6,5,5,4,4,5,6,6,6,6,5,5,6,6,3,,,,,,,,,6,5,4,4,,,,,6,5,4,4,4.75,0,-1,-5,-5,,,,,0
+"4,234",194,Condition 2,Work,"Paris, Madrid",2/19/14 15:38,3/26/14 11:45,"50,166",48,Maison du café france,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,4,1,6,1,7,7,5,7,7,2,4,5,4,4,4,4,4,3,4,4,4,5,4,2,3,3,3,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,,,,,,,,,,5,6,6,5,5,6,5,5,5,5,5,5,4,5,5,5,5,6,,,,,,,3,3,2,3,4,6,4,5,6,3,6,7,7,6,6,6,6,2,1,1,1,1,1,1,1,1,1,6,6,6,6,6,2,6,7,6,6,7,4,6,6,4,4,,6,6,6,6,,,,,,,,,,,,6,6,6,6,6,7,7,7,7,,,,,0
+"4,235",195,Condition 3,Control,"Paris, Madrid",2/19/14 16:47,2/19/14 17:07,19,29,Maison Du Café France,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Homme,1,5,2,7,5,5,3,6,1,7,6,4,5,4,5,4,5,5,5,4,5,4,5,3,5,4,5,4,5,3,0,3,0,0,1,0,2,4,4,3,1,0,0,0,0,1,0,0,0,0,3,1,1,0,0,3,2,0,0,0,0,2,1,3,1,6,4,2,5,4,3,6,7,6,6,5,7,6,6,5,7,6,5,5,5,3,4,2,5,7,4,4,6,1,5,,4,6,6,4,6,3,1,1,6,6,6,5,5,5,5,4,4,1,1,1,1,1,1,1,1,1,1,6,6,6,7,6,1,6,6,6,7,7,6,6,6,6,7,6,,,,,6,6,6,,,,,,,,,6,6,6,6,6,6,6,6,6,,#NAME?,,,1
+"4,237",194,Condition 2,Work,"Paris, Madrid",2/21/14 12:07,3/2/14 19:59,"13,432",42,maison du café,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Homme,1,5,2,6,3,5,6,6,3,7,5,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,,,,,,,,,,,4,6,6,3,3,6,6,5,3,6,6,5,,,,,,,4,2,2,2,2,,,,,,,,,,5,4,5,5,5,3,3,3,2,,,,,,,,,,,6,6,6,6,5,2,5,5,5,5,6,6,6,6,6,5,,4,5,5,5,,,,,,,,,,,,4,5,5,5,4.75,,,3,3,,,,,0
+"4,238",194,Condition 2,Work,"Paris, Madrid",2/20/14 7:06,4/8/14 6:18,"67,631",24,Maison du Café,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Usine,1,Femme,0,6,3,5,5,7,5,6,2,5,2,4,3,4,3,4,3,3,2,2,2,2,4,4,3,3,2,3,2,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,4,4,4,2,5,5,5,5,5,3,5,5,6,3,6,5,7,3,3,3,3,2,5,2,3,2,3,4,3,,6,6,6,6,7,7,4,3,5,5,4,5,5,5,4,2,1,1,1,3,1,1,1,1,1,1,2,7,7,6,6,5,3,5,5,6,5,6,6,7,6,5,6,,6,5,4,4,,,,,,,,,,,,6,5,4,4,4.75,7,9,6,8,,,,,0
+"4,239",193,Condition 1,Health,"Paris, Madrid",2/20/14 7:27,3/11/14 7:57,"27,389",31,maison du café,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Usine,1,Femme,0,3,2,6,3,5,7,6,5,6,4,4,4,5,5,4,5,2,5,3,5,3,4,4,4,1,3,3,2,3,2,3,3,1,3,0,2,0,0,0,0,3,0,0,0,2,0,0,2,0,2,0,0,1,2,0,0,0,0,0,0,0,,,,,,,,,,,3,6,5,5,2,5,5,3,6,5,5,5,4,4,4,2,5,7,5,3,3,4,5,,4,6,7,7,7,7,7,7,6,1,5,5,4,2,5,5,4,1,1,6,2,2,1,1,1,2,1,5,6,6,6,2,5,5,5,3,4,5,3,5,3,6,2,,,,,,,,,5,6,6,6,,,,,5,6,6,6,5.75,-1,-3,-4,-1,,,,,0
+"4,241",195,Condition 3,Control,"Paris, Madrid",2/20/14 11:30,3/24/14 12:27,"46,137",25,maison du café,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Usine,1,Femme,0,3,3,6,2,7,5,5,2,4,4,5,3,4,3,3,4,4,5,3,4,4,2,5,3,3,1,5,4,0,3,3,0,0,0,0,3,1,0,0,0,0,3,0,0,0,3,0,1,0,2,0,0,0,0,0,4,0,0,1,1,1,4,5,1,6,4,1,6,7,6,5,7,,,5,7,,7,6,7,7,7,7,5,2,5,,6,3,7,6,6,2,5,,4,,4,3,5,4,5,5,5,7,6,7,7,6,4,6,5,5,2,1,1,1,1,1,,2,1,4,6,6,6,7,1,6,5,5,6,5,6,5,5,4,5,6,,,,,7,6,6,,,,,,,,,6,7,6,6,6.25,5,1,0,1,,manger travailler dormir faire la cuisine,,,1
+"4,242",200,Condition 4,Kindness,"Paris, Madrid",2/20/14 13:09,3/24/14 7:41,"45,751",23,maison du café,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Femme,0,7,3,7,1,7,4,6,1,5,5,4,4,4,4,3,1,5,4,2,5,5,5,5,5,3,2,5,5,0,0,3,0,0,0,0,2,2,2,0,0,0,0,0,0,0,1,0,1,0,2,0,0,2,2,2,0,0,0,0,0,2,1,4,1,6,6,2,6,6,4,6,6,6,7,6,7,6,6,4,7,5,5,4,3,3,3,2,5,3,4,3,4,2,3,,4,3,7,3,6,6,5,6,6,5,7,6,6,6,7,4,5,1,4,2,1,1,2,3,1,3,2,3,4,5,5,7,1,6,6,6,6,5,6,5,6,5,5,,,,,,,,,,,,,5,6,6,6,5,6,6,6,5.75,7,9,7,10,,,,,0
+"4,243",200,Condition 4,Kindness,"Paris, Madrid",2/20/14 13:16,3/6/14 16:57,"20,380",32,master blenders 1753,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Usine,1,Femme,0,7,5,7,7,6,1,7,1,1,1,5,5,5,3,3,1,3,5,3,5,4,5,5,1,4,4,3,1,3,0,3,3,0,0,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,4,0,3,0,0,0,4,5,1,4,4,7,4,1,7,4,7,6,6,4,7,6,7,6,7,6,7,6,4,4,7,5,4,7,6,4,5,1,4,,4,7,3,4,5,4,5,6,5,5,1,7,7,5,2,4,4,3,3,1,1,1,1,1,1,1,3,6,5,5,6,6,1,5,5,4,7,1,6,5,5,6,2,,,,,,,,,,,,,5,5,5,4,5,5,5,4,4.75,0,3,0,3,"Cher Monsieur Waast,
+
+Je tenais par cette lettre, à vous témoigner toute ma reconnaissance suite à mon passage dans votre entreprise.
+En effet, dune part, vous avez accepté de mintégrer dans votre entreprise pour un stage qui ma beaucoup apporté au niveau humain.
+jai du mimposer en tant que jeune femme dans un milieu masculin parfois un peu hostile à mes recommandations mais accepté grâce à votre appui et à vos conseils pour mimposer de la manière la plus adéquacte.
+jai souvenir de vos passages dans le labo, pour me prodiguer vos conseils comme à lancienne école où chaque jour une notion de morale était donnée aux élèves.
+Je souligne ce point car cela ma permis de réfléchir à certains points et à avoir mon propre jugement.
+Dautre part, vous mavez confié la responsabilité de conduire une machine, alors quaucune femme ne le faisait.
+Cette tâche physique et technique a été un des moyens dêtre accepté par les opérateurs.
+Pour finir, je noublirai jamais ce samedi ou dimanche midi ou vous êtes arrivés dans le labo avec tout ce qui était nécessaire pour improviser une crêpe partie.. Venant de votre part, et vu le respect que javais pour vous, cette attention particulière envers une de vos employées ma vraiment touché.
+
+je vous remercie encore pour vos encouragements. Cette expérience professionnelle ma permis de continuer mes études sur une voie que je navais pas envisagé et ma permis douvrir mon champs des possibles.
+
+Cordialement",,,,1
+"4,246",194,Condition 2,Work,"Paris, Madrid",2/20/14 14:42,2/20/14 15:05,23,40,DEMB,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Femme,0,7,4,6,3,7,3,5,3,5,3,3,5,3,5,3,5,4,3,2,5,3,1,4,3,3,4,3,4,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6,3,1,6,5,4,6,6,6,5,6,6,6,5,5,5,6,5,6,6,5,5,4,2,3,3,3,3,3,1,5,5,3,,3,6,6,5,5,5,3,3,6,5,6,5,5,5,2,2,2,1,1,1,1,1,1,2,1,2,2,6,5,5,4,6,1,7,6,5,6,7,5,5,5,6,5,,5,5,4,4,,,,,,,,,,,,5,5,4,4,4.5,5,3,5,3,,,,,0
+"4,251",193,Condition 1,Health,"Paris, Madrid",2/21/14 6:55,2/21/14 7:34,38,35,maison du café coffee systems france,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,3,2,6,1,6,2,6,1,6,2,4,2,4,3,4,1,4,1,4,4,4,2,3,3,5,2,4,2,1,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,7,5,1,6,6,6,6,6,6,6,6,6,6,5,7,6,5,6,7,6,5,5,7,6,6,6,6,6,7,6,6,6,5,,5,7,3,3,6,5,6,6,5,5,5,5,6,5,6,5,6,1,1,1,3,3,1,1,1,1,4,6,6,6,6,6,2,6,5,5,7,6,6,6,6,6,6,,,,,,,,,6,7,6,6,,,,,6,7,6,6,6.25,3,4,3,4,,,"Cher Dalai Lama,
+
+votre implication, votre dévouement, votre force morale, et spirituelle est un exemple pour moi.
+Chaque jour jessaie de me rappeller que mes actions ont un impact sur les autres.
+Je vous suis reconnaissante de mapporter un modèle de conduite a ténir afin dêtre meilleure chaque jour, et ne pas mapitoyer sur mon sort et apprecier ce que la vie nous donne, en restant toujours maitre de son destin.
+
+Amicalement",,1
+"4,252",200,Condition 4,Kindness,"Paris, Madrid",2/21/14 11:28,2/28/14 12:35,"10,146",32,DEMB France,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,5,5,7,5,3,3,5,1,5,5,4,5,4,5,3,5,3,5,3,5,3,5,4,1,3,2,3,1,4,0,2,0,0,1,0,4,1,0,0,0,0,0,0,2,0,0,0,4,0,3,0,0,1,0,0,0,0,0,0,0,4,,,,,,,,,,,6,5,6,5,6,6,5,5,6,5,5,5,4,2,4,2,3,3,4,2,4,4,3,,7,6,6,7,7,7,2,2,5,5,6,6,6,2,4,4,5,4,4,5,4,2,1,1,1,2,1,6,4,4,4,3,2,5,4,4,4,5,5,3,3,5,3,,,,,,,,,,,,,4,5,5,4,4,5,5,4,4.5,-8,-3,-7,-3,,,,,0
+"4,253",195,Condition 3,Control,"Paris, Madrid",2/21/14 12:48,3/28/14 14:38,"50,510",44,MAISON DU CAFE FRANCE,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Usine,1,Femme,0,7,2,6,2,7,2,7,1,7,2,5,5,5,5,5,5,5,5,3,5,5,5,5,3,5,3,3,2,2,0,0,0,0,0,0,2,3,3,0,0,2,1,0,0,0,0,0,2,0,2,3,3,1,0,0,0,0,0,,0,3,3,6,1,5,5,1,6,6,5,6,6,7,5,5,7,7,5,4,7,7,5,4,7,5,7,4,5,6,7,7,7,5,4,,3,7,7,4,7,7,7,7,5,3,4,6,6,2,1,2,1,2,1,1,1,1,1,1,1,1,1,5,5,5,5,6,1,6,5,7,7,7,6,6,6,6,5,6,,,,,7,6,6,,,,,,,,,6,7,6,6,6.25,6,6,5,6,,"METTRE A JOUR MON TRAVAIL
+VISITER MES PARENTS
+FAIRE DU SPORT
+ME REPOSER",,,1
+"4,254",193,Condition 1,Health,"Paris, Madrid",2/21/14 14:38,4/7/14 16:00,"64,882",42,D.E MASTER BLENDERS 1753 MAISON DU CAFE PROFESSIONAL,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Homme,1,6,2,7,1,6,5,6,1,7,2,5,5,5,5,4,5,4,3,5,5,4,5,3,4,5,5,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,1,4,7,7,7,7,7,7,7,7,7,6,5,7,5,6,6,6,6,6,5,3,7,6,7,7,6,3,7,5,6,,3,3,6,6,7,6,5,6,5,4,5,4,5,6,4,5,5,1,1,2,1,1,1,1,1,1,2,5,7,7,7,6,1,6,5,5,3,5,6,6,6,6,6,,,,,,,,,7,7,7,7,,,,,7,7,7,7,7,7,8,6,6,,,"Mon cher entraîneur,
+
+Toi qui ma dit un jour quun manager qui ne court pas au moins 1heure par semaine, aura une vie compliquée avec sa santé.
+Je me suis toujours éfforcé de mappliquer cette hygiène de vie.
+
+Merci beaucoup.",,1
+"4,255",195,Condition 3,Control,"Paris, Madrid",2/21/14 14:47,3/17/14 13:09,"34,461",42,demb maison du café,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Homme,1,4,4,7,2,7,1,7,1,3,2,3,3,3,3,3,5,4,5,3,5,5,5,5,5,5,5,3,3,3,2,0,0,0,1,1,1,1,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,1,4,1,1,1,1,4,7,7,7,7,7,7,7,7,7,7,7,7,4,4,4,4,4,4,3,3,4,3,3,,4,4,6,7,1,7,4,4,6,6,6,5,5,4,4,4,4,1,1,1,1,4,1,1,1,1,1,6,6,6,3,7,1,7,4,4,5,3,3,3,3,6,2,7,,,,,7,7,7,,,,,,,,,7,7,7,7,7,5,0,6,0,,"définition de la stratégie maintenance avec réduction du budget
+management de proximité par rapport au NAO
+groupe de travail 5S maintenance
+validation entretiens individuels
+plan de prévention fournisseurs",,,1
+"4,256",200,Condition 4,Kindness,"Paris, Madrid",2/21/14 16:33,3/21/14 16:04,"40,291",49,Master Blender France,Université,2,Lun de mes parents ou les deux ont suivi des études universitaires,4,Autres,2,Homme,1,4,2,7,1,5,7,7,1,7,3,4,5,4,5,4,2,4,4,4,5,4,5,4,3,3,4,3,3,0,0,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,5,5,3,4,4,5,5,5,4,5,6,7,7,5,5,7,6,5,5,6,6,4,5,3,6,3,6,7,4,4,6,3,4,,5,5,7,7,6,7,5,5,5,5,4,5,5,4,4,2,3,1,1,1,1,1,1,1,1,1,2,5,4,4,5,6,3,5,6,6,7,2,5,5,6,6,3,,,,,,,,,,,,,5,6,6,5,5,6,6,5,5.5,4,4,6,5,,,,,0
+"4,258",194,Condition 2,Work,"Paris, Madrid",2/22/14 14:46,3/11/14 4:24,"23,858",40,demb,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Homme,1,3,5,7,6,7,3,6,1,5,2,4,2,5,3,5,1,5,5,1,3,4,5,5,4,4,5,2,2,4,1,4,0,0,0,0,3,3,4,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,3,0,0,0,0,0,2,4,2,1,5,3,6,1,6,7,4,5,7,5,6,4,7,3,3,5,7,2,3,3,1,3,1,5,6,5,2,6,6,1,,7,7,7,7,7,6,4,6,7,7,7,7,7,4,6,7,6,5,5,6,1,2,1,1,1,1,3,7,5,7,7,4,3,6,6,5,4,4,5,6,6,5,5,,7,7,5,7,,,,,,,,,,,,7,7,5,7,6.5,-3,2,-4,3,,,,"chere cé.... ma femme,
+
+ Depuis la naissance de nos enfants et la décison que nous avons pris pour que tu cesses ton activité pour éléver nos enfants, jai pu postuler pour ce poste de CE.
+
+De ce faite, jai pu progresser au niveau salariale et égalemetn decourir un autre metier qui était le mien. Je pense maintenant avoir cerner dans les grandes lignes mon poste et aspire à dautres évolutions.
+
+Cest pour cela que jessaie de trouver autre chose a lheure actuelle.
+
+Je tembrasse",1
+"4,259",193,Condition 1,Health,"Paris, Madrid",2/22/14 17:11,3/29/14 15:40,"50,309",49,DEMB Maison du café,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Femme,0,4,2,6,5,6,6,7,1,3,1,5,5,5,5,5,,5,5,,5,5,5,5,5,5,5,3,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,6,7,6,5,6,6,5,4,6,6,5,4,6,6,6,5,5,6,5,3,5,3,3,,4,4,6,7,5,7,6,6,6,6,6,6,6,6,5,4,4,3,1,4,1,1,1,1,1,1,2,6,6,6,6,6,2,7,7,7,7,7,6,6,5,6,5,,,,,,,,,6,6,6,6,,,,,6,6,6,6,6,5,5,3,5,,,,,0
+"4,260",193,Condition 1,Health,"Paris, Madrid",2/22/14 23:26,4/10/14 19:32,"67,445",26,DE MASTER BLENDERS,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Usine,1,Homme,1,5,6,5,7,5,5,3,3,3,4,5,5,5,1,5,2,5,4,5,4,4,1,4,4,5,3,4,5,0,3,3,0,1,0,0,3,1,0,0,0,2,0,0,3,1,1,0,2,1,3,0,1,1,0,0,0,0,0,0,0,1,1,4,5,4,4,5,5,4,6,6,6,7,5,6,6,6,6,5,6,6,6,5,5,5,3,5,5,4,5,4,5,6,6,,4,5,7,7,7,6,4,4,6,6,6,7,6,6,5,5,5,1,1,1,1,1,1,2,1,1,4,5,5,6,5,6,2,6,4,3,3,3,5,5,6,5,5,,,,,,,,,5,6,4,4,,,,,5,6,4,4,4.75,6,6,6,6,,,,,0
+"4,275",200,Condition 4,Kindness,"Paris, Madrid",2/24/14 16:45,4/10/14 18:00,"64,874",49,DE MASTER BLENDERS 1753,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Homme,1,2,2,7,2,5,5,6,1,3,6,4,5,5,5,5,3,3,3,4,4,4,5,4,5,4,5,2,5,2,2,3,0,0,1,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,1,1,6,6,1,5,2,6,6,7,7,7,6,7,7,7,6,7,7,6,6,4,4,4,3,6,6,3,3,5,4,7,,6,6,7,7,6,7,4,4,6,1,6,7,7,6,7,7,7,5,1,1,1,1,1,1,1,3,1,6,6,5,6,7,1,7,5,6,7,7,4,6,6,5,2,,,,,,,,,,,,,6,5,5,6,6,5,5,6,5.5,7,4,9,10,mon jojo je te remercie de tout ce que tu fait pour moi et mes enfants.... je t en suis tres reconnaissant et ne te rendrai jamais assez meme si toi tu dit que je te le rend largement... notre amitié est grave a vie. bisous ma poule,,,,1
+"4,281",194,Condition 2,Work,Est,2/24/14 17:58,3/10/14 20:22,"20,304",36,April Canada,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,7,2,6,5,6,4,7,2,5,4,4,4,5,1,3,2,4,2,2,3,3,1,2,1,2,2,3,2,3,0,0,0,0,2,0,2,1,0,0,0,1,0,0,0,1,0,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,7,2,4,6,6,6,7,7,7,4,7,4,2,4,7,4,4,4,7,5,2,3,7,7,7,7,7,7,7,7,7,7,4,,7,7,7,7,7,7,5,5,4,4,4,2,7,1,5,4,5,5,2,3,2,3,1,2,1,3,5,6,7,6,7,4,4,4,7,5,4,6,7,6,6,7,7,,5,7,6,4,,,,,,,,,,,,5,7,6,4,5.5,-5.37,2.33,-6.28,0,,,,"Chère Leslie,
+
+                     Merci davoir cru en moi. Merci davoir démontrer un éthique professionnelle hors pair. Davoir été capable de dealer avec le côté buisness et humain de façon équitable et professionnelle. Merci de mavoir montré comment être une excellente employé. de toujours respecter la confidentialité et le respect des employés, Surtout merci davoir toujours été dun professionalisme sans faille. Je suis devenu lemployé que je suis car tu ma appris a être une employé intégre.
+
+Coridalement",1
+"4,283",193,Condition 1,Health,Est,2/24/14 18:17,4/7/14 13:23,"60,185",32,april,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Autres,2,Femme,0,5,5,5,,4,4,5,2,2,2,3,3,3,4,3,4,3,3,3,2,3,4,3,2,2,3,2,3,3,3,2,3,1,0,1,2,2,2,1,4,4,2,0,1,1,0,1,2,2,2,2,2,2,2,2,0,0,2,1,1,2,,,,,,,,,,,7,7,7,5,7,7,6,4,7,5,3,4,5,3,5,3,5,5,4,3,5,3,3,,4,6,5,5,6,6,6,6,5,4,7,6,6,4,5,4,5,,,,,,,,,,,6,6,4,4,3,4,3,5,4,4,5,1,2,2,2,1,,,,,,,,,7,5,7,7,,,,,7,5,7,7,6.5,3,0,-9,-9,,,,,0
+"4,285",200,Condition 4,Kindness,"Paris, Madrid",2/24/14 18:30,4/11/14 9:09,"65,678",33,APRIL MON ASSURANCE,N’a eu son baccalauréat,0,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Homme,1,6,7,1,7,7,3,7,4,3,1,4,1,5,5,4,5,3,1,3,5,5,1,5,5,3,5,1,1,3,4,4,2,2,2,1,3,3,2,1,4,4,3,1,3,0,4,4,4,0,4,4,0,3,3,4,0,0,0,1,1,0,7,4,1,7,7,7,7,7,7,7,1,7,7,1,1,7,7,7,1,7,7,1,3,3,5,2,6,6,3,2,6,1,7,,5,5,3,4,4,3,6,6,3,7,7,7,7,1,1,1,1,6,6,7,4,5,1,2,4,5,4,7,7,7,7,1,7,1,4,1,7,7,5,3,2,3,1,,,,,,,,,,,,,1,7,4,4,1,7,4,4,4,7,-1,-5,-4,"Ma chérie tu es tellement important à mes yeux, heureusement que tu es là pour moi au quotidien, car je nai que tou qui me donne satisfaction. Tu le sais, mes sentiements restent inchangés, tu me manques beaucoup la journée.
+
+Je mennuis sans toi, je te dois mon bonheurn et ma joie de vivre. On dit quil y a 3 domaines importants dans la vie : la sante, lamour, et le travail. Actuellement, je nai que les deux premiers. 
+
+Je tembrasse fort mon amour.",,,,1
+"4,290",194,Condition 2,Work,"Paris, Madrid",2/24/14 18:45,4/3/14 11:34,"54,288",41,april mon assurance,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,7,6,7,5,7,2,7,6,6,1,4,5,5,1,4,4,2,3,4,4,4,2,4,1,4,1,4,3,1,0,2,1,0,0,1,2,1,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,2,6,5,2,5,6,1,6,2,7,7,6,7,7,6,6,6,6,6,7,6,5,6,5,5,7,6,6,7,5,5,6,5,4,,5,7,7,7,6,1,6,6,6,6,6,6,6,4,5,6,5,3,1,3,1,1,1,1,1,1,1,6,7,6,6,6,2,6,6,6,6,7,6,5,6,7,6,,6,6,6,5,,,,,,,,,,,,6,6,6,5,5.75,-6,6,5,5,,,,"Cher Christophe,
+
+Je tenais à te dire  que ton Soutien pendant toutes les années où nous avons travailler ensembles ,a toujours été pour moi une source de bien être.
+
+Nous avons partager ,les bons et les mauvais moments ,mais ce qui a scellé notre amité ,cest cette capacité à prendre du recul et lhumour.
+
+Nous avons toujours été dans léchange constructif ,sans peur du jugement.
+Je pouvais te dire ,que jen avais marre ,sans que cela soit pris comme une marque de faiblesse et inversement car nous nétions ni en compétition ,ni dans le paraitre.
+
+Nous avons échanger ,grandit ensembles.Jai toujours eu confiance en toi et je crois pouvoir dire que cest réciproque.
+
+
+Il est toujours important de rappeler des choses éssentielles ,cest pourquoi je tenais à sadresser ces quelques mots.
+
+Bien amicalement",1
+"4,291",195,Condition 3,Control,"Paris, Madrid",2/24/14 18:49,3/3/14 20:58,"10,208",50,April Moto,N’a eu son baccalauréat,0,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Homme,1,7,6,5,5,7,4,7,4,5,1,4,5,4,5,3,5,4,4,4,5,4,5,4,5,4,2,4,5,2,0,4,0,,0,0,1,3,3,0,0,0,0,1,1,0,1,2,1,0,1,0,0,2,0,4,0,0,0,0,0,0,4,2,1,5,5,1,6,1,1,5,5,7,7,6,5,7,6,5,6,6,6,5,5,2,6,2,2,6,6,2,7,2,1,,2,6,6,5,5,6,6,6,6,6,6,6,6,1,3,6,2,1,1,1,1,1,1,1,1,1,1,6,4,3,3,6,1,6,5,5,5,6,5,6,5,5,5,5,,,,,6,5,5,,,,,,,,,5,6,5,5,5.25,7,5,7,5,,"Jai participé à la convention dun constructeur moto partenaire de mon entreprise pour développer davantage mon réseau dapporteurs daffaires, outre les produits que jai pour mission de leur vendre, jai mis en avant un nouveau produit que mon entité propose et veut particulièrement développer en ce moment.
+Jai visité des apporteurs daffaire sur le lieu de travail rencontés suite à cette convention.
+Jai comme à lhabitude répondu aux sollications téléphoniquesjournalières nombreuses de mes apporteurs daffaires en cherchant toujours à leur trouver une solution en liaison avec mon siège.
+Jai visité mes clients habituels pour maintenir la pression afin quils passent des contrats
+Jai formé des nouveaux apporteurs daffaire sur lutilisation de nos process et des modalités dutilisation de notre intranet.
+Pour répondre à la demande de mon supérieur hiérarchique, jai recherché des informations concernant un dossier posant problème, il avait en effet besoin de ""remontées terrain"" pouvant confirmer ses propres informations.",,,1
+"4,295",200,Condition 4,Kindness,Eastern Standard Time,2/24/14 19:36,3/17/14 16:34,"30,057",42,April,Lycée,1,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Femme,0,6,3,2,7,7,3,6,6,3,2,5,2,4,2,4,4,3,5,1,5,5,5,4,5,4,3,5,5,3,1,1,1,3,2,2,4,4,3,0,0,1,0,3,0,1,2,1,2,0,4,0,3,3,0,0,0,0,0,0,0,0,6,5,1,6,7,7,7,6,7,7,7,7,7,7,7,7,5,7,7,7,6,7,6,5,6,4,3,7,5,5,6,5,2,,3,6,4,3,6,4,7,7,6,6,7,7,7,7,1,1,1,2,5,5,5,2,1,1,1,1,6,6,5,7,7,6,2,3,5,4,5,6,2,2,2,5,2,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,-3.95,-4.98,3.24,3.75,"Mon bel Amour, 
+
+Depuis que tu es entré dans ma vie, tu me fais sentir bien, tu prends le temps de me montrer que je suis importante et que je peux avoir de limportance dans la vie de quelquun.
+
+Tu me fais sentir belle, tu me fais sentir intelligente, jai limpression, grace à toi que je suis quelquun de bien.  Tu as réussi à me permettre de rehausser mon estime de moi.
+
+Cette gentillesse et cette bonté dont tu as fait preuve à mon endroit a des répercutions dans ma vie parce que tu me donnes envie dêtre une meilleure personne, de me dépasser et dêtre encore plus gentille et bonne avec les gens qui mentourent. 
+
+À chaque jour je suis reconnaissante que tu soies dans ma vie.
+
+Amoureusement",,,,1
+"4,301",194,Condition 2,Work,"Paris, Madrid",2/24/14 20:32,3/17/14 21:06,"30,273",40,APRIL,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Femme,0,6,2,6,2,6,2,6,1,5,2,4,5,4,3,4,2,4,4,3,5,5,5,4,3,5,4,3,3,2,2,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,5,5,1,5,6,2,6,5,6,6,6,7,6,5,6,6,6,5,6,5,6,5,6,5,7,5,5,7,6,4,7,6,5,,5,5,7,6,6,5,3,4,6,4,7,7,7,5,5,6,5,1,1,1,1,1,1,1,1,1,1,6,5,2,4,6,1,6,6,6,5,7,6,6,6,7,6,,6,6,5,5,,,,,,,,,,,,6,6,5,5,5.5,8,8,8,8,,,,"Chère Marie-Claire,
+Jespère que tu vas bien. Je voulais te donner quelques nouvelles. 
+Jai depuis quelques semaines changé de missions. Je pense dailleurs souvent à toi au travail.  Je repense à ces toutes premières années dexpérience professionnelle passées à tes côtés. Toi qui ma appris tant de choses, sur les gens, lattitude quil fallait adopter face à des situations critiques. Je ne sais pas si cest lâge mais toute cette maturité dont tu faisais preuve (et que javais tant de mal à mettre en oeuvre) est maintenant presque naturelle. Je suis plus posée, moins impulsive et lanalyse de la situation dans un premier temps mévite des situations bien délicates. Je voulais profiter de ce courrier pour te remercier pour tes précieux conseils. 
+Jespère te revoir très vite pour un déjeuner,
+Amicalement,",1
+"4,304",195,Condition 3,Control,"Paris, Madrid",2/24/14 20:50,4/11/14 15:05,"65,894",41,APRIL MON ASSURANCE,N’a eu son baccalauréat,0,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,7,4,7,1,7,4,7,1,7,1,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,5,5,3,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,1,7,7,6,7,7,6,7,7,7,7,6,7,7,7,6,7,6,7,6,6,6,7,6,7,7,6,6,7,7,7,,7,7,7,7,7,7,6,7,7,7,7,7,7,7,7,7,7,1,1,1,1,1,1,1,1,1,1,7,7,6,7,7,1,7,6,6,7,7,6,7,7,7,6,7,,,,,7,7,7,,,,,,,,,7,7,7,7,7,8,8,7,7,,"JAI FORME MON EQUIPE SUR DE NOUVEAUX PRODUITS QUE JE NE MAITRISAIS PAS ENCORE TOTALEMENT, MAIS JAI SU MADAPTER AUX OUTILS QUE JAVAIS EN MA POSSESSION ET LEUR TRANSMETTRE LES INFORMATIONS NECESSAIRES POUR QUILS PUISSENT LE COMMERCIALISER AU MIEUX. JAI ETE A LEUR ECOUTE ET JAI SU REPONDRE A LEURS QUESTIONS. JE LES AI POUSSES A REFLECHIR POUR TROUVER LEURS PROPRES REPONSES AFIN QUILS SE LAPPROPRIENT AU MIEUX ET ADHERENT ENCORE MIEUX A CES NOUVEAUTES.",,,1
+"4,308",193,Condition 1,Health,"Paris, Madrid",2/24/14 21:42,4/3/14 20:02,"54,620",35,APRIL,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Homme,1,5,3,7,4,7,6,4,1,7,2,4,3,4,2,3,3,4,4,,,5,1,4,,4,5,4,,1,1,3,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,2,,,,,,,,,,,6,7,6,,4,7,6,6,6,7,6,5,5,5,6,5,2,4,4,3,5,5,3,,5,2,2,2,2,5,4,5,5,5,5,6,4,5,6,6,6,,,,,,,,,,,6,6,6,6,6,1,6,5,5,5,4,5,5,5,5,5,,,,,,,,,6,4,4,,,,,,6,4,4,,4.666666667,6,6,6,0,,,,,0
+"4,313",193,Condition 1,Health,"Paris, Madrid",2/24/14 22:36,2/24/14 23:31,55,34,April Marine,Troisième cycle,4,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Femme,0,7,5,6,5,7,3,6,5,3,3,4,2,4,3,4,1,2,1,4,3,3,3,3,2,4,2,4,2,3,1,0,3,3,0,2,4,0,0,3,0,3,0,3,3,1,0,0,3,0,3,0,2,0,0,2,2,0,0,0,0,0,5,3,5,3,5,5,5,5,5,4,7,6,6,7,7,7,7,7,7,6,6,7,6,6,7,6,6,6,6,6,7,7,7,,5,6,6,5,5,6,4,4,5,3,4,5,5,5,5,6,5,6,5,6,6,6,3,3,3,6,3,6,6,6,6,6,1,6,6,5,5,5,5,6,6,6,5,,,,,,,,,4,5,4,3,,,,,4,5,4,3,4,-3,-5,0,-2,,,"Cher Julien,
+
+Ce soir tu mas à nouveau rappeler combien il est important que je prenne du recul vis à vis de mon travail et que je prenne mes vacances car elles sont nécessaires pour moi, que je mange et dorme.
+Tu attires sans cesse mon attention et malerte pour ne pas que je fasse un burn out. Tu me dis que je dois prendre soin de moi et de nos filles. Je te remercie pour ces mots qui me rappelle quon na quune vie et que je dois en profiter aussi.
+Je vais tenter de réduire mon investissement en temps ou mieux loptimiser afin de reprendre une vie plus normale.
+
+Merci et prends soin de toi aussi.
+
+Amicalement.
+Laure",,1
+"4,320",200,Condition 4,Kindness,Est,2/25/14 0:20,3/4/14 12:01,"10,780",62,April Canada,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,5,1,7,,6,7,7,3,7,1,4,4,4,3,3,4,5,4,4,5,4,5,4,2,5,5,4,5,0,0,0,,,0,0,0,,,,0,,0,0,0,,1,0,1,,0,0,0,,0,2,0,,0,0,0,,1,1,1,7,,7,7,,7,7,7,7,7,,7,7,3,,7,7,6,,7,5,7,4,7,6,7,5,6,4,7,,1,7,7,4,6,6,1,1,7,7,7,6,6,4,2,5,2,4,1,1,1,1,1,1,,1,2,7,7,7,7,7,1,7,7,7,7,4,6,6,6,6,6,,,,,,,,,,,,,4,4,4,4,4,4,4,4,4,6.15,6.28,-0.19,5.44,,,,,0
+"4,359",194,Condition 2,Work,"Paris, Madrid",2/25/14 6:46,4/1/14 10:09,"50,603",31,APRIL SANTE PREVOYANCE,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Siège social,0,Femme,0,7,2,7,5,6,2,7,2,3,3,4,2,3,5,4,3,3,4,3,4,3,4,3,2,3,3,4,3,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1,5,6,2,4,4,4,5,5,5,5,7,7,7,6,7,6,6,6,7,6,6,6,5,5,6,5,6,6,5,4,6,3,3,,4,4,4,5,5,4,5,5,6,4,5,5,4,5,4,6,5,4,1,2,2,1,1,1,1,1,1,6,6,7,7,7,1,7,5,5,4,3,5,6,6,7,3,,6,5,5,6,,,,,,,,,,,,6,5,5,6,5.5,3,3,1,3,,,,"Cher X, 
+Après ces 8 années passées en ta compagnie, je tenais simplement revenir sur qq moments bien particuliers, et surtout texprimer toute la reconnaissance que jai pour toi, tant sur le plan porfessionnel que personnel.
+En effet, tu mas beaucoup appris, voire tout appris! :)
+Je ne dirai pas que tu es mon mentor, car ca ne se fait pas en entreprise, mais je le pense en revanche sincèrement.
+
+Merci davoir investi sur moi, davoir eu confiance en moi,  merci davoir passé de ton temps précieux pour mapprendre, mexpliquer, me challenger. Tout cela a été très bénéfique pour moi. Jai le sentiment de mêtre accomplie, et de continuer à maccomplir.
+Je garde un excellent souvenir de notre collaboration.",1
+"4,362",195,Condition 3,Control,"Paris, Madrid",2/25/14 7:05,4/14/14 11:37,"69,392",33,APRIL SANTE PREVOYANCE,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Siège social,0,Femme,0,3,1,7,6,7,7,7,2,5,6,1,1,4,5,3,5,3,3,3,4,3,2,3,5,3,2,3,3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,,0,1,1,1,1,1,1,1,1,1,1,7,7,7,4,7,7,5,4,7,6,7,4,1,1,7,1,1,7,7,1,7,2,1,,7,7,7,7,7,7,5,5,7,7,7,7,7,7,6,6,6,4,5,5,4,4,1,1,1,1,1,6,6,5,7,6,1,7,4,3,3,3,5,7,6,6,6,7,,,,,7,5,4,,,,,,,,,7,7,5,4,5.75,0,-5,-1,-6,,#NAME?,,,1
+"4,363",193,Condition 1,Health,"Paris, Madrid",2/25/14 7:23,3/4/14 11:36,"10,333",26,APRIL MARINE,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,5,2,7,5,6,6,7,3,6,5,4,4,4,4,4,3,5,2,5,2,4,4,3,1,3,2,2,3,2,4,1,1,3,2,2,3,3,2,1,1,3,1,2,2,1,1,3,3,1,3,1,2,1,2,1,1,0,0,0,0,1,,,,,,,,,,,5,7,7,5,5,6,6,6,6,6,3,5,2,2,3,2,5,5,5,5,5,3,5,,3,5,2,3,5,2,1,2,6,5,4,6,6,4,4,3,3,4,2,3,1,1,1,3,2,4,2,6,6,4,5,6,3,6,6,6,4,3,5,6,5,6,5,,,,,,,,,6,5,4,5,,,,,6,5,4,5,5,6,9,2,8,,,,,0
+"4,368",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 7:51,4/4/14 13:31,"55,060",47,april moto,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,3,1,7,2,7,6,3,1,6,5,3,3,3,2,3,2,4,4,3,3,4,5,2,5,3,2,2,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,5,2,6,6,4,5,6,6,6,6,6,6,,5,5,6,6,5,6,7,4,5,5,6,4,4,5,3,3,5,6,7,,4,5,4,5,5,5,5,5,6,6,5,6,6,7,5,6,5,5,3,5,4,4,1,1,1,1,1,4,3,4,5,5,2,5,4,5,5,5,5,6,6,5,6,,,,,,,,,,,,,4,6,4,4,4,6,4,4,4.5,2,4,0,5,"Nancy,
+
+Je voulais vous remercier de mavoir donner loccasion de me dépasser et ainsi de me prouver à moi-même que lorquon veut obtenir quelque chose, on lobtient.
+Vous maviez demandez de vous trouver un appartement en France alors que vous étiez encore à létranger.
+Nous avons du nous faire confiance totalement, car nous nétions que des ""connaissances"". 
+jai dû faire abstraction des apprioris de mon entourage. 
+Jai dû convaincre les propriétaires de vous louer un appartement en France et ainsi quitter les USA. 
+Maintenant, jai la chance de vous connaitre encore plus. Nous avons traversé des périodes difficiles toutes les deux et bien que nous soyons de cultures et de religions différentes, nous savons que nous pouvons compter lune sur lautre sans être juger.
+
+Very Best
+
+Sylvie",,,,1
+"4,371",194,Condition 2,Work,"Paris, Madrid",2/25/14 8:00,4/1/14 13:19,"50,718",32,APRIL MOTO,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Homme,1,6,2,7,6,7,6,7,1,5,4,3,2,3,4,3,3,4,3,5,4,4,4,4,3,5,3,2,3,2,0,2,0,0,0,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,3,2,3,2,0,0,0,0,0,0,0,2,5,4,3,5,5,4,5,5,5,4,7,7,6,4,7,7,7,5,7,7,7,4,4,2,4,3,5,6,5,1,7,2,2,,4,4,4,4,4,4,4,4,5,7,7,7,7,4,4,4,4,4,4,5,5,4,3,4,4,4,4,3,5,3,4,6,2,5,5,5,5,6,6,5,6,6,5,,6,6,5,5,,,,,,,,,,,,6,6,5,5,5.5,0,-1,0,-2,,,,,0
+"4,372",195,Condition 3,Control,"Paris, Madrid",2/25/14 8:02,3/14/14 9:05,"24,543",29,april moto,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Femme,0,6,1,6,3,6,5,7,2,4,4,4,5,4,5,3,5,4,5,4,5,4,4,4,2,4,4,4,5,2,2,3,0,0,0,0,0,2,3,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,4,4,1,4,4,5,7,6,6,6,7,7,7,4,7,6,7,4,7,6,7,4,6,4,5,5,6,7,6,4,6,5,5,,6,5,5,6,7,1,6,6,6,6,6,6,6,6,4,4,4,2,2,1,1,1,1,1,1,1,5,6,6,5,5,7,1,7,6,5,6,3,6,6,6,3,6,6,,,,,6,6,5,,,,,,,,,6,6,6,5,5.75,6,7,6,7,,"jai fais des ouvertures sinistre, et determiné la responsabilité de nos assurés.
+jai traité les dossiers, en établissant les règlements pour les assuré ou garage ou ils ont fait réparer leur véhicule.
+
+jai annoncé à des assuré que leur règlement partait et le fait de les entendre satifait, ma reconforté dans mon travail.",,,1
+"4,373",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 8:05,4/3/14 8:45,"53,319",31,April Moto,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,5,7,5,6,5,7,1,7,6,5,5,5,5,5,4,5,4,4,5,4,4,5,4,5,5,5,5,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,2,,,,,,,,,,,7,7,7,7,6,7,7,6,7,7,7,6,7,7,7,7,7,7,6,5,7,6,6,,7,7,4,7,7,4,2,6,6,6,6,6,6,6,6,6,6,4,4,4,1,1,1,1,1,1,1,7,7,7,7,7,1,7,6,4,6,6,6,6,6,6,6,,,,,,,,,,,,,7,7,7,7,7,7,7,7,7,7,8,6,6,,,,,0
+"4,374",193,Condition 1,Health,"Paris, Madrid",2/25/14 8:07,3/24/14 15:30,"39,322",29,APRIL Marine,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,6,3,5,3,7,4,6,2,3,4,5,3,5,5,4,4,4,5,4,5,3,4,3,3,3,3,4,5,3,3,3,0,0,0,0,2,2,2,0,0,1,1,0,0,0,0,1,1,1,2,1,0,0,0,0,0,0,0,0,0,2,1,4,1,4,4,5,5,5,5,5,6,6,5,5,6,6,5,5,6,6,4,4,4,3,5,3,4,5,4,5,5,5,3,,5,5,6,6,4,4,7,7,6,6,7,6,6,7,3,2,3,4,1,1,1,1,1,1,1,3,1,4,5,5,5,6,1,6,6,4,6,6,5,6,6,6,5,,,,,,,,,6,6,3,4,,,,,6,6,3,4,4.75,3,7,-3,-3,,,"Chèr Mickaël,  je suis reconnaissante envers toi, car tu me motive pour faire du sport et prendre soin de moi. Tu fais en sorte de me laisser des temps libre et donc toccuper de Téo pour que parte courir.
+Tu mapportes des idées pour cuisiner équilibré.
+
+
+Chère Marie,
+Je suis reconnaissante envers toi, car tu mapprends beaucoup de chose sur lalimentation BIO. On échange beaucoup sur nos vie, et léducation de nos enfants.",,1
+"4,375",194,Condition 2,Work,"Paris, Madrid",2/25/14 8:10,4/11/14 14:34,"65,184",35,April santé prévoyance,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,5,1,7,2,5,7,6,1,7,7,4,4,3,4,4,5,4,4,2,5,3,5,2,5,4,5,3,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,1,1,1,1,2,1,5,5,6,4,6,3,6,4,3,5,4,4,5,5,6,5,6,6,5,6,7,3,3,,5,5,7,7,6,7,6,6,5,4,4,4,4,4,1,1,1,1,1,1,1,1,1,1,1,1,1,6,3,2,2,5,2,6,6,4,6,7,5,6,5,5,2,,6,5,5,4,,,,,,,,,,,,6,5,5,4,5,8,5,7,3,,,,"Chère Christine,
+Depuis 2008 que nous travaillons ensemble, je souhaiterai te remercier car tu es une chef exemplaire.
+Ton style de management est tout à fait différent de ce que jai connu dans mes emplois précédent.
+Tu as de grandes qualités humaines, tu sais reconnaître le travail de tes collaborateurs, et les remercier de leur travail et efforts quand cest nécessaire. Tout cela contribue à me sentir bien à mon poste actuel. Tu sais instaurer un climat de confiance et laisser de lautonomie à ton équipe, ce qui est très appréciable.
+Merci pour tout cela.
+Amicalement.
+Pierrette",1
+"4,376",195,Condition 3,Control,"Paris, Madrid",2/25/14 8:12,2/25/14 8:22,10,23,APRIL MOTO,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Homme,1,7,5,6,7,6,2,6,1,2,7,,,,,,,,,,,,,,,,,,,3,1,1,0,0,0,0,3,2,0,0,1,0,3,3,3,0,1,1,3,0,0,0,3,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,1,7,2,4,,,,,,,,,,6,7,7,5,5,5,2,2,1,,,,,,,,,,,,,,,,,,5,5,6,5,6,7,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,6,7,,,,,0
+"4,377",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 8:13,4/3/14 8:36,"53,303",28,APRIL ENTREPRISE IMMOBILIER,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Homme,1,5,1,2,2,7,3,7,3,7,2,4,5,4,5,3,5,4,5,3,5,4,5,4,5,4,5,4,5,3,0,3,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,6,4,2,6,6,2,5,2,6,7,5,7,7,7,6,7,7,7,5,7,7,7,5,5,6,5,5,6,4,3,5,5,5,,2,6,7,3,7,6,5,5,6,3,6,5,5,1,1,1,2,2,2,1,1,1,1,2,1,1,2,7,7,6,6,6,3,5,6,5,6,6,5,6,6,5,3,,,,,,,,,,,,,6,7,7,6,6,7,7,6,6.5,8,8,8,8,"salut,
+
+Je te remercie pour le billet davion que tu mas offert afin de pouvoir venir avec le reste des amis a ton mariage. (colombie). Se geste ma touché et montré que tu pensais à moi sachant que jétais bloqué financièrment.
+
+Encor un grand Merci",,,,1
+"4,378",193,Condition 1,Health,"Paris, Madrid",2/25/14 8:20,4/15/14 13:36,"70,875",24,April,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,1,7,7,2,6,6,1,2,5,5,3,5,2,1,1,4,2,5,1,3,4,4,1,5,1,5,3,4,4,4,1,0,0,0,3,4,4,1,0,2,1,0,2,1,0,0,2,1,3,3,0,1,0,3,0,0,0,0,0,3,7,4,2,1,7,5,7,7,7,4,7,5,7,7,7,6,7,7,7,6,7,7,2,2,2,2,6,2,2,1,1,6,4,,3,6,6,7,7,7,6,7,6,7,7,4,5,5,5,5,6,5,2,2,2,2,3,5,3,5,3,7,7,7,7,6,2,6,4,3,3,2,2,3,2,6,3,,,,,,,,,5,7,4,4,,,,,5,7,4,4,5,-3.24,-3.17,-2.59,-2.27,,,"Chère Mélina, 
+
+Tu as toujours été honnête envers moi et exprimer ton point de vue avec franchise, même dans les situations délicates. tu ma permis douvrir les yeux sur pleins de choses qui nallaient pas dans ma vie et de me faire refléchir sur les décisions que javais pu prendre, bonnes ou mauvaises. Tu es ma soeur et je sais que tu ne seras malveillante envers moi et cest pour cela que lon peut se parler de tout. Je te serais éternellement reconnaissante dêtre toujours là pour moi, malgré la distance qui désormais nous sépare, je sais que je peux compter sur toi et toi sur moi. 
+
+Amicalement, 
+
+Marine Jourdan.",,1
+"4,379",194,Condition 2,Work,"Paris, Madrid",2/25/14 8:23,4/10/14 11:11,"63,528",48,april moto,Lycée,1,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Femme,0,7,2,1,5,7,4,7,1,3,2,5,4,5,4,3,1,5,5,3,5,5,5,5,5,5,5,5,5,4,2,4,0,0,0,0,4,1,1,0,0,0,0,0,0,0,2,1,3,0,2,1,1,2,1,1,1,0,0,0,0,0,7,4,1,7,7,4,7,1,7,7,7,7,5,5,7,7,4,4,7,7,6,5,7,5,7,5,7,7,6,2,7,1,6,,4,7,4,3,6,3,6,6,7,5,7,7,7,6,7,7,7,1,1,1,1,1,1,1,1,1,7,4,6,4,4,7,1,7,6,4,7,6,2,2,3,6,1,,7,2,7,7,,,,,,,,,,,,7,2,7,7,5.75,10,4,10,6,,,,"A mon amie Emeline, 
+
+Chère Emeline, 
+
+Tu es ma meilleure amie, celle qui a toujours su me remonter le moral, me faire voir comme la vie peut être belle, et me faire voir comme les gens peuvent être différents de moi. 
+Tu as su à maintes reprises me remettre mes idées en place, tout en reconnaissant mes capacités et mes qualités. 
+Mes défauts, oui jen ai, comme tout le monde, je ne suis ni meilleure, ni moins bien quune ou un autre. 
+
+Je me suis battue contre ma maladie.je me suis battue pour retrouer MA place au travail. 
+Mon patron ma amménagé mon poste de travail pour une reprise en douceur, il a tout fait pour que je retrouve ma place... mais hooo ça dérange certains collègues tout ça ... 
+Maménager mon poste de travail, après une maladie ou jaurais pu mourrir, maladie qui ma laisser affaiblie, et moi qui souhaite avant tout reprendre gout à la vie ... 
+Ca agace les autres. 
+De quel droit on mocttroie des ""privilèges"" queux non pas ... 
+
+Comment ces gens mont détruit par la jalousie, la méchancheté, la connerie ... 
+Jen ai souffert à un point ou jai voulu arrêter de me battre, ou jai eu des idées suicidaires, ou jai eu un ras le bol de me battre pour la vie, 
+Alors que la vie avait encore voulue de moi après cette maladie, je voulais la quitter, à cause du mal quon me faisait au travail... 
+Partir, plonger et menfoncer dans ce fleuve profond qui me tendait les bras, 
+juste à cause du mal que me faisait des collègues au travail, alors quon est tous au travail pour bosser et gagner un salaire. 
+
+Fort heureusement, jai eu des écoutes, des sauveurs à mon travail et parmis mes amis, 
+et jai eu TOI, mon amie. 
+Toi qui ma remontée le moral chaque jour 
+Toi qui ma obligé à me battre 
+Toi qui ma dit à quelle point jétais importante pour ma famille, mes amis, mon travail.. 
+Toi mon Amie qui ma appris à ne plus tenir compte de lavis de ces gens mauvais qui vivent autour de moi, 
+Toi mon amie qui a su me faire me faire prendre conscience quau mileu de ces personnes néfastes, dautres personnes maimaient et au moins mappréciaient. 
+Toi mon amie qui ma obligé à me raccrocher à ces pesonnes, à mon travail, 
+Toi qui a su me faire ignorer cette méchanceté. 
+
+Tu mas ouverts les yeux à la vie et aux autres, 
+prendre le meilleure des gens, ne pas juger les autres, 
+et surtout ignorer la méchanceté qui sera toujours autour de nous. 
+
+Jai pu enfin rétablir la vérité à mon travail, 
+jai pu enfin retrouver mon poste et un travail que jaime, 
+je peux enfin mépanouir grace à ce combat. 
+
+Le milieu du travail peut être terrible, 
+mais il est tellement nécessaire à notre vie. 
+
+Jai eu enfin des écoutes de mes supérieurs, des collègues, des responsables, 
+On ma redonné la chance de prouver que javais de grandes capacités et une conscience professionnelle 
+
+Jaime mon travail et jaime ma boite. 
+Jai appris grace à toi, à penser à moi avant tout, 
+à ne pas moublier surtout 
+Ne plus faire passer les autres avant moi. 
+Aujourdhui, cest Moi et les Autres ensuite. 
+Nécessaire à mon équilibre mental et professionnel. 
+
+La vie ne ma pas épargnée, 
+je sais que jai des qualités et que je peux donner le meilleure moi même, 
+Et jai envie de vivre, dévoluer dans une paix intérieure et extérieure. 
+
+La vie est belle, 
+croquons là, 
+et soyons solidaire entre nous.. 
+
+Voilà ce que tu as fait de moi, 
+tu mas sauvée la vie mon amie, 
+grace à tes bons conseils, 
+grace à tes heures découtes à mes malheurs, 
+grace à ta patience à me rouvrir à la vie
+
+Merci mon Amie",1
+"4,380",195,Condition 3,Control,"Paris, Madrid",2/25/14 8:29,3/27/14 10:36,"43,326",30,APRIL Marine,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Homme,1,4,5,6,2,6,7,5,2,7,6,5,5,5,5,4,2,3,2,3,5,4,5,3,1,4,1,3,4,4,1,2,0,0,0,0,3,2,0,0,2,0,2,0,0,0,0,0,2,0,3,0,0,2,0,0,0,0,0,0,0,0,3,4,2,4,3,3,4,4,4,3,5,6,5,5,7,6,4,4,6,6,5,5,5,3,7,4,6,6,5,2,7,4,2,,5,6,6,4,5,7,4,3,5,4,6,5,6,5,4,3,4,3,4,5,4,3,1,1,1,1,1,5,6,7,6,5,3,4,5,5,5,6,6,5,5,6,3,4,,,,,5,5,6,,,,,,,,,4,5,5,6,5,-3,-3,-5,1,,,,,0
+"4,381",195,Condition 3,Control,"Paris, Madrid",2/25/14 8:30,4/11/14 9:39,"64,869",26,APRIL SANTE PREVOYANCE,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,6,6,4,2,6,4,6,1,7,2,5,4,4,5,4,3,3,5,2,4,4,4,4,5,4,4,3,3,2,2,4,0,0,1,0,2,1,0,0,1,1,1,2,1,0,0,1,0,2,2,0,1,2,1,2,3,0,0,0,0,0,2,3,1,4,3,1,5,1,5,6,4,6,6,4,5,6,6,4,5,6,6,5,5,2,6,3,3,6,3,1,7,2,1,,6,6,4,6,6,2,5,5,6,3,5,7,7,5,5,6,5,1,1,1,1,1,1,1,1,1,1,6,7,6,5,5,2,5,6,4,5,6,5,5,6,5,,5,,,,,5,6,6,,,,,,,,,5,5,6,6,5.5,6,5,5,5,,"au travail jai eu une grosse réunion qui a;lieu tous les trimestres avec de nombreux directeurs et qui nécessite plusieurs jours de préparation, jai aidé des collègues en leur apportant mon expertise.
+dans ma vie privée jai fait faire ma carte grise (après 4 tentatives ratées car à chaque fois un document nétait pas conforme) et les plaques dimmatriculation, jai été à lanniversaire surprise dun ami (30 ans) et de mon beau frère et ma soeur, jai vu ma gynécologue dans le cadre dune aide à la procréation (jai donc eu à faire au long de toute la semaine des injections hormonales) et jai fait une prise de sang.
+jai réservé des vacances avec mon mari pour le mois de juin.
+jai commandé un nouveau frigo",,,1
+"4,382",193,Condition 1,Health,"Paris, Madrid",2/25/14 8:33,3/31/14 9:55,"49,041",28,april,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,2,1,2,7,1,7,1,3,2,4,5,4,5,4,4,4,5,4,5,4,5,5,5,5,5,4,5,1,3,3,0,2,0,0,2,3,2,0,1,0,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,2,2,2,2,2,2,5,6,6,6,7,5,7,7,4,5,6,7,4,6,6,7,4,5,4,5,4,6,5,2,2,6,1,3,,3,5,7,6,3,2,4,3,5,5,5,6,6,6,5,5,5,1,2,1,1,1,1,1,1,1,1,6,5,6,6,6,1,7,7,6,6,7,7,6,7,7,7,,,,,,,,,5,4,4,4,,,,,5,4,4,4,4.25,5,10,8,9,,,,,0
+"4,385",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 8:53,2/25/14 9:35,42,27,APRIL MOTO,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Homme,1,5,1,4,3,5,3,7,1,4,2,4,5,4,,,5,4,3,,,4,5,4,,4,5,3,4,3,2,1,0,0,0,0,1,2,2,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,3,5,1,6,,2,6,3,3,,6,7,6,,7,7,6,,6,7,6,,4,4,4,4,5,4,6,4,7,1,3,,6,5,4,4,4,4,6,6,6,5,5,6,6,6,6,5,5,2,1,1,1,,1,1,1,1,,6,6,6,6,6,1,6,7,4,6,6,6,6,7,6,7,,,,,,,,,,,,,7,6,5,6,7,6,5,6,6,8,9,6,8,,,,,0
+"4,386",194,Condition 2,Work,"Paris, Madrid",2/25/14 9:00,3/4/14 9:24,"10,103",39,APRIL SANTE PREVOYANCE,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,2,2,7,5,6,7,6,1,3,4,3,2,3,3,3,2,4,5,3,5,4,5,4,4,4,5,4,2,2,0,0,0,0,1,0,2,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,1,3,4,6,6,3,6,6,6,6,6,4,6,6,6,5,6,6,5,4,5,4,4,4,4,6,4,4,5,4,4,,3,5,7,4,5,6,5,5,6,6,6,6,6,4,2,2,2,1,1,1,1,1,1,1,1,1,1,5,5,5,5,6,2,6,6,6,6,6,6,6,6,6,6,,6,6,5,5,,,,,,,,,,,,6,6,5,5,5.5,4,4,0,0,,,,"Cher JLB
+Je tiens à técrire cette lettre pour te signifier toute ma gratitude et ma reconnaissance à mavoir fait confiance et mavoir accompagnée dans mes premières années dexpérience professionnelles. 
+Je me rends compte de la chance que jai eue dêtre formée et davoir pu bénéficier de ton savoir et de ton expérience. 
+Les missions que tu mas confiées ont représenté un véritable challenge que jai su relever avec professionnalisme grâce à ton aide et à la confiance que tu mas accordée. 
+Je te remercie pour tout,
+Amitiés.",1
+"4,389",193,Condition 1,Health,Europe de l’Ouest,2/25/14 9:05,2/25/14 9:36,31,26,april moto,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,6,7,6,7,3,7,1,4,3,3,4,3,3,3,3,5,5,4,5,3,5,2,4,5,2,3,2,3,0,2,0,0,0,0,3,2,2,0,0,2,0,3,0,0,0,0,0,0,3,0,0,1,0,0,3,0,0,0,0,2,1,1,1,2,1,1,6,5,2,3,4,7,6,7,7,7,3,2,7,7,2,2,2,1,6,1,5,6,3,1,5,3,7,,4,5,6,6,5,3,1,1,7,6,7,7,7,7,4,4,4,4,5,5,3,4,2,1,1,4,1,6,7,6,7,5,1,5,4,4,4,6,5,3,3,2,2,,,,,,,,,5,5,4,4,,,,,5,5,4,4,4.5,-2,-2,-4,-4,,,,,0
+"4,390",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 9:32,4/14/14 18:35,"69,663",35,APRIL,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,7,2,7,5,7,3,7,1,3,1,5,3,4,4,4,5,5,4,5,5,5,5,4,4,4,3,3,3,1,3,3,1,2,3,3,2,1,0,0,0,2,2,0,2,3,1,2,0,2,0,1,0,1,2,0,2,0,0,0,0,2,7,5,2,7,7,7,7,7,7,6,7,7,7,6,7,7,6,6,7,6,6,6,6,5,6,6,6,7,6,6,6,2,6,,6,7,6,4,6,2,6,7,7,5,7,7,7,7,6,6,6,5,3,4,1,1,2,3,1,2,5,6,7,6,6,6,1,7,6,6,6,7,5,5,5,6,3,,,,,,,,,,,,,7,7,7,7,7,7,7,7,7,5,3,6,6,"Cher Jean Louis,
+Il y a 8 ans et demi, alors que jétais sûrement bien jeune et un peu ""naive"", vous mavez donné ce quil y a de plus important : votre confiance.
+Vous avez vu en moins bien plus que je ne pensais valoir...
+Vous mavez toujours regarder avec des yeux remplis de confiance et de fierté, et je peux vous dire, quaujourdhui encore, jen ressens les effets :)
+Vous avez détecté mes talents et mavez permis de prouver toute la valeur que je pouvais avoir, notamment en management. Vous mavez surtout permis daffirmer mes convictions et mes valeurs : exemplarité, amour du travail bien fait, confiance, audace
+Jai une loyauté et une fidélité sans faille pour vous aujourdhui et chaque jour qui passe, je mefforce de transmettre ""votre flambeau"" : faire confiance à dautres, et ainsi les aider à grandir et à découvrir leur potentiel !
+Quel bonheur de voir des chenilles se transfomer en papillon.... des vilains petits canards entrés dans un processus de résilience...
+Du fond du coeur, merci.",,,,1
+"4,391",194,Condition 2,Work,"Paris, Madrid",2/25/14 9:36,4/14/14 9:06,"69,090",32,APRIL,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,6,1,7,4,7,7,7,4,7,2,4,5,5,5,4,2,5,5,5,3,5,5,5,2,5,4,2,2,1,0,3,0,0,1,0,2,2,1,1,0,1,1,0,0,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,7,4,1,7,7,7,7,7,7,7,7,7,7,7,5,7,7,6,6,7,7,7,7,5,7,5,5,7,6,5,7,1,3,,4,7,7,7,7,7,5,5,6,6,6,7,7,1,7,7,5,1,1,1,1,1,1,1,1,1,5,7,7,7,7,7,1,6,6,4,4,7,6,6,7,7,5,,5,4,6,7,,,,,,,,,,,,5,4,6,7,5.5,5,7,2,5,,,,"Chère X,
+
+Je souhaitais te remercier pour lensemble de notre collaboration. Grâce à toi et à la confiance que tu mas donnée, jai pu grandir tant sur le plan personnel que professionel. Je te suis reconaissante de tout ce que tu as pu mapporter et je noublierais jamais ce que tu as fait pour moi. Je transmettrai à mon tour comme tu mas si bien transmis. Dans notre parcours, on rencontre peu de personne comme toi. Jai été plus que chanceuse de faire partie de tes collaborateurs. Notre collaboration est devenue une belle amitié et je ten remercie.
+
+Bien à toi.",1
+"4,392",195,Condition 3,Control,"Paris, Madrid",2/25/14 9:36,2/25/14 11:48,132,26,april mon assurance,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,5,2,7,5,7,5,7,4,5,4,3,3,4,4,3,2,3,5,3,5,4,5,4,3,5,4,3,5,1,2,0,0,0,0,0,2,2,2,0,0,0,0,0,3,0,0,1,1,0,2,0,0,2,0,0,0,0,0,0,0,3,2,2,1,4,4,1,2,2,4,6,7,7,6,6,7,7,5,5,7,6,5,4,4,4,4,3,5,5,4,3,3,3,5,,3,7,4,5,5,7,6,6,4,4,4,2,2,2,5,5,4,1,1,1,1,1,1,1,1,3,1,6,5,5,6,5,2,6,6,4,4,4,6,5,6,5,6,6,,,,,5,5,5,,,,,,,,,6,5,5,5,5.25,5,5,0,-2,,"au cours de cette semaine, je me suis occupée de toutes les dernières formalitées nécessaire à lacquisition de mon futur bien, ma maison. 
+jai fait du sport : un entrainement de course à pied, une course organisé de 11km, un entraiement de natation
+jai vendu des contrats dassurance, notament 3 assurance habitation en une journée, alors que jétais à 0 pour le mois, avant; 
+Jai pris soin de moi en allant voire un specialiste de lépilation définitive au laser, afin de commencer bientôt les séances, et jai contacté une specialiste de la nutrition pour des renseignements pour de futurs séances également;",,,1
+"4,393",193,Condition 1,Health,"Paris, Madrid",2/25/14 9:38,4/7/14 12:45,"59,227",53,APRIL IMMOBILIER,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,7,6,7,6,6,1,7,6,2,6,4,5,5,5,1,4,2,5,1,5,3,5,3,3,3,5,3,1,0,0,0,0,0,2,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,0,2,1,1,0,0,0,0,0,0,0,2,2,1,7,4,4,7,1,4,7,1,7,4,4,1,7,1,7,1,7,1,4,7,4,7,3,3,7,7,5,7,3,4,,7,7,7,7,7,7,1,5,5,5,5,5,5,5,3,3,3,1,1,1,1,1,1,1,1,1,3,2,2,2,3,1,2,2,6,7,7,7,6,6,6,6,2,,,,,,,,,7,7,7,7,,,,,7,7,7,7,7,1,1,3,3,,,"Chère Isa,
+
+Les discussions que nous avons depuis plusieurs années mont ouvert des pistes de progession tant au niveau de la mise en application de gestes simples du quotidien qui améliore mon état de santé mais surtout dans lacceptation de soi, la bienveillance avec laquelle je suis amenée à considérer ma personne en étant tolérant avec les autres mais sans excès de complaisance. Tu mas donné par tes conseils de lecture, un regard neuf sur moi-même qui retentit sur lappréciation que jai sur le monde alentour. Se contenter de tous les petits moments de bonheur quotidiens voilà la clé du bonheur. 
+Le seul frein reste dans lactivité professionnelle dont lintérêt a décliné dannée en année.
+
+Quoi quil en soit, je suis lucide sur toutes les facettes positives de ma vie personnelle : un mari et des enfants que je chéris, un environnement familial au sens large très riche et dexcellente qualité, des amis fidèles et en harmonie avec mes choix de vie (les amis toxiques ont été évincés au fil des années), une ouverture pour une multitude de centres dintérêt (histoire, généalogie, littérature, nature, art culinaire, réflexion spirituelle etc...). Je te remercie chaque jour pour nos échanges riches et motivant. Prendre en main sa destinée cest ça le secret. Je mesure ma chance davoir une santé solide (que je cultive) et je compte bien avoir une longévité exemplaire en bonne santé (les principes de lîle dOKINAWA me sont familiés et font partie intégrante de ma vie).
+
+Je te remercie pour ta personnalité : énergique et bienveillante. Tu fais partie des personnes qui ne mont jamais décues.
+
+Je tembrasse affectueusement.",,1
+"4,394",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 9:41,4/4/14 11:47,"54,846",29,april marine,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,4,4,7,1,5,7,7,1,6,5,5,5,5,5,3,5,3,4,3,5,3,5,3,4,4,3,3,4,2,0,4,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,2,4,4,4,4,4,4,4,4,4,4,6,7,6,4,4,6,6,4,6,6,6,4,3,3,3,3,3,3,2,2,2,3,1,,5,5,7,7,5,7,5,5,5,5,7,6,6,6,6,4,3,,,,,,,,,,,4,6,6,2,6,2,6,6,6,6,7,5,6,6,6,5,,,,,,,,,,,,,5,4,5,5,5,4,5,5,4.75,5,8,4,4,,,,,0
+"4,395",194,Condition 2,Work,"Paris, Madrid",2/25/14 9:59,4/10/14 10:36,"63,396",38,APRIL MOTO,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,4,7,7,7,7,7,2,7,1,,4,5,2,4,1,4,3,2,5,4,4,2,1,4,2,,4,2,2,2,0,2,0,2,0,2,2,3,4,4,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,2,6,6,6,6,6,6,6,6,6,6,5,5,5,1,6,6,6,2,6,6,3,1,5,5,7,6,6,7,6,1,7,3,2,,5,6,7,7,6,6,5,5,5,6,6,6,6,6,3,2,2,6,2,2,2,1,4,4,1,2,2,6,7,6,5,5,2,6,7,6,6,7,7,6,6,7,3,,6,6,6,6,,,,,,,,,,,,6,6,6,6,6,0,8,-5,-1,,,,,0
+"4,399",195,Condition 3,Control,"Paris, Madrid",2/25/14 11:02,4/7/14 14:50,"59,268",33,APRIL MOTO,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,3,6,7,2,3,5,2,6,7,3,2,3,1,3,2,3,2,2,4,2,5,1,1,2,2,3,1,4,2,3,0,3,0,3,4,3,3,0,0,0,4,3,4,0,4,4,4,4,4,0,0,3,3,3,0,0,0,0,0,1,1,1,1,1,1,1,4,1,1,1,6,6,4,7,3,7,3,7,6,7,3,7,3,1,1,3,5,3,5,3,1,5,2,,7,7,7,7,4,4,5,5,5,4,4,5,3,6,1,1,1,6,7,7,4,4,1,1,1,4,1,6,6,6,6,4,2,5,6,6,3,3,6,6,5,7,6,5,,,,,5,3,3,,,,,,,,,5,5,3,3,4,-6,0,-3,-1,,"Organiser et animer une réunion de service 
+Instruction de dossier judiciaire
+Traitements des réclamations par téléphone et courriers 
+Référent technique du service 
+Pilotage technique (charge sinistre par compagnies)
+Pilotage opérationnel (planning mensuel du service, validation des congès et le controle des horaires)
+Vérifiation des règlements",,,1
+"4,400",194,Condition 2,Work,"Paris, Madrid",2/25/14 11:22,4/10/14 13:57,"63,515",39,APRIL,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,2,7,2,7,2,6,1,2,1,5,3,5,5,3,3,4,5,2,5,3,5,5,3,4,5,4,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,1,4,1,4,1,7,4,2,7,4,7,7,7,4,7,7,7,7,7,7,7,5,7,4,7,1,3,7,5,2,7,7,2,,7,7,7,7,7,7,4,4,6,4,5,3,3,4,1,5,3,1,1,1,1,1,1,1,1,1,1,6,6,6,6,7,1,4,5,5,5,7,6,6,6,7,3,,7,7,7,7,,,,,,,,,,,,7,7,7,7,7,4,4,3,3,,,,"Chère Fabienne,
+
+Je te remercie pour ta confiance et lautonomie que tu as su me laisser. Ces conditions de travail mont donné la motivation nécessaire pour déployer des solutions créatives permettant de répondre efficacement aux enjeux de lentreprise et pour créer les conditions de ta satisfaction. Ta vision pragmatique et ta connaissance de la vente était une aide précieuse pour reconnecter les activités marketing de la société avec le commerce. Grâce à toi, ces 2 dernières années ont été très enrichissantes et synonymes de progrès.
+Bien à toi,",1
+"4,401",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 11:25,3/27/14 15:11,"43,425",,April Marine,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,7,3,6,3,7,1,7,2,4,2,4,2,4,5,3,5,4,4,4,5,4,3,3,4,4,5,3,3,2,3,3,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,2,1,0,1,0,0,0,0,0,1,3,0,6,4,1,3,4,5,6,4,4,4,5,7,6,7,4,6,5,5,4,6,5,4,3,1,2,1,7,7,2,1,6,4,3,,3,7,6,5,6,5,2,7,3,5,5,5,5,4,3,4,3,5,1,3,1,2,1,1,1,2,1,6,6,6,6,4,3,4,6,5,6,6,3,5,5,5,3,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,1,-3,4,1,"Coucou ma Brenda, 
+
+Un petit mot pour te dire combien je suis heureuse dêtre ton amie, je sais que je peux compter sur toi dans les bons comme dans les mauvais moments, la distance nous sépare et nous ne nous voyons plus quune fois par an mais peu importe tu restes dans mon coeur et dans mes pensées. Jamais tu nas porté de jugements et cest ce que japprécie beaucoup. Je sais que cette amitié est réciproque et toi aussi tu peux compter sur moi.
+Je  tembrasse
+à bientôt",,,,1
+"4,404",195,Condition 3,Control,Europe de l’Ouest,2/25/14 11:43,4/11/14 8:35,"64,612",31,APRIL MOTO,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,1,7,2,6,4,7,2,6,4,5,5,5,5,4,5,4,5,1,5,4,5,4,5,4,3,3,4,1,0,3,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,1,4,2,1,7,1,1,6,6,6,5,5,4,5,3,5,5,5,4,5,1,1,1,1,5,7,1,1,2,1,4,,6,6,7,7,6,1,5,6,5,5,5,6,6,7,6,5,6,1,1,1,1,1,1,1,1,1,1,7,7,6,7,5,1,6,6,5,5,6,6,5,6,7,7,6,,,,,6,6,5,,,,,,,,,6,6,6,5,5.75,8,8,8,5,,"- Mettre en place un nouveau planning, de nouveaux horaires pour léquipe
+- Faire en sorte que léquipe soit à jour dans les tâches demandées
+- Réfléchir sur la nouvelle organisation qui aura lieu prochainement
+- Accueillir 2 nouveaux arrivants qui vont intégrer ma future équipe
+- Les informer sur lentreprise et les former sur nos produits
+- Former un collaborateur sur le traitement des dossiers avant lintégration dans sa future équipe
+- Aider mes collaborateurs dans leurs tâches au quotidien",,,1
+"4,405",193,Condition 1,Health,"Paris, Madrid",2/25/14 11:48,2/25/14 12:11,22,51,APRIL MOTO,N’a eu son baccalauréat,0,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,1,3,7,1,7,7,7,1,1,2,3,3,3,3,3,3,5,5,1,5,5,5,5,1,3,5,1,5,3,4,0,4,2,0,2,3,2,4,3,1,4,4,1,2,1,0,2,4,2,4,2,2,4,2,2,1,1,,,,,1,1,1,1,1,1,,,,,6,7,7,7,6,6,7,7,6,7,7,7,,2,6,2,4,3,3,3,5,4,4,,4,4,3,4,6,3,4,4,7,7,7,7,7,7,7,7,1,3,1,2,2,2,1,1,1,2,5,4,4,4,6,6,2,6,4,5,4,3,5,6,5,5,2,,,,,,,,,7,7,7,7,,,,,7,7,7,7,7,0,-1,-1,-1,,,,,0
+"4,406",194,Condition 2,Work,"Paris, Madrid",2/25/14 11:50,4/11/14 11:49,"64,798",56,APRIL MON ASSURANCE,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Homme,1,1,2,7,6,6,7,5,2,7,4,2,5,4,5,2,4,5,5,1,5,4,5,5,4,5,5,4,5,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6,6,1,2,6,6,3,3,7,6,7,7,7,7,7,7,7,5,7,7,7,5,6,2,3,4,2,1,6,6,7,2,2,,1,6,6,2,6,1,2,3,6,7,7,6,6,1,1,2,1,2,2,1,3,1,1,1,1,1,1,7,1,1,1,7,1,7,6,7,7,7,6,6,7,7,6,,5,6,4,4,,,,,,,,,,,,5,6,4,4,4.75,1,6,0,3,,,,"Cher Stéphane,
+
+Jécris ces quelques mots pour exprimer ma gratitude à ton égard alors que nos chemins professionnels vont se séparer.
+
+Lautonomie que tu mas accordé et la reconnaissance du travail que jai effectué ont contribué grandement à mon bien être professionel.
+
+Tu es à lécoute  des gens et toujours dans la recherche de la solution qui permettra de désamorcer une incompréhension voire un conflit.
+
+Je vais donc continuer ma carrière en espérant que ton remplaçant détiendra certaines de tes qualités.
+
+Bien cordialement.",1
+"4,408",195,Condition 3,Control,"Paris, Madrid",2/25/14 12:10,4/11/14 15:24,"64,994",30,April Moto,Université,2,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Femme,0,7,1,7,2,7,5,7,1,6,2,5,3,5,2,4,3,4,4,4,4,5,4,4,4,5,3,2,4,2,2,1,0,0,0,0,2,1,0,0,1,1,0,0,1,2,0,1,1,0,2,0,0,2,1,0,2,0,0,0,0,2,4,4,1,6,5,4,6,6,6,6,7,7,7,7,7,7,6,6,7,7,7,6,6,4,6,5,4,6,7,4,6,7,7,,5,4,7,7,4,1,4,5,7,6,7,7,7,7,6,6,6,1,1,1,1,1,1,1,1,1,1,7,6,7,7,7,1,7,6,5,7,6,6,6,5,5,3,7,,,,,7,7,7,,,,,,,,,7,7,7,7,7,3.24,3.5,3.95,3.82,,#NAME?,,,1
+"4,409",193,Condition 1,Health,"Paris, Madrid",2/25/14 12:11,3/25/14 11:39,"40,288",22,april moto,Université,2,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Homme,1,5,3,5,3,6,4,6,3,6,3,5,5,5,5,3,5,5,5,5,5,5,5,3,5,5,1,5,5,0,3,0,0,0,2,0,1,2,2,0,1,0,0,2,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,2,4,4,1,4,4,1,4,4,4,4,6,7,6,2,5,7,6,2,6,5,4,2,5,3,5,4,3,5,4,3,4,4,3,,6,6,7,7,5,7,6,6,6,6,6,6,6,6,3,3,2,1,1,1,1,1,1,1,1,1,1,7,7,7,7,6,1,7,5,4,5,6,5,5,3,3,2,,,,,,,,,6,6,6,6,,,,,6,6,6,6,6,0,0,0,0,,,,,0
+"4,411",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 12:31,4/11/14 15:12,"64,961",26,APRIL Marine,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,7,6,5,7,6,2,6,1,2,2,5,5,4,3,4,3,,3,3,5,4,5,4,4,4,3,4,4,4,0,2,2,1,3,2,3,2,2,1,1,3,3,2,2,0,1,1,2,1,2,1,1,1,1,1,0,0,3,1,1,3,6,5,6,5,5,6,5,5,5,5,7,7,7,7,7,,6,6,7,6,6,6,5,5,6,5,6,6,5,2,6,2,6,,4,5,5,6,3,5,4,4,6,5,6,6,5,5,3,4,4,5,5,5,4,3,4,4,3,3,5,6,6,6,6,7,1,6,5,5,6,3,5,5,5,5,5,,,,,,,,,,,,,5,6,6,5,5,6,6,5,5.5,4,3,5,3,,,,,0
+"4,414",195,Condition 3,Control,Europe de l’Ouest,2/25/14 12:39,4/7/14 6:54,"58,695",35,APRIL MOTO,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Siège social,0,Femme,0,7,2,4,1,6,4,7,2,6,4,4,5,4,1,4,2,3,5,2,5,3,4,4,1,4,4,3,2,2,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,6,7,3,3,1,4,1,2,2,6,3,2,5,4,7,2,2,3,2,2,6,2,3,,4,5,4,4,4,4,,6,3,3,3,2,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,3,7,6,5,4,6,5,6,6,7,1,6,5,6,6,3,2,,,,,5,4,7,,,,,,,,,2,5,4,7,4.5,5,5,0,0,,,,,0
+"4,417",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 13:03,4/11/14 8:10,"64,507",31,april mon assurance,N’a eu son baccalauréat,0,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,4,2,5,5,5,6,6,2,4,2,4,5,4,5,3,4,3,4,2,5,3,4,4,5,4,3,2,3,0,2,1,4,0,0,1,3,2,2,0,0,1,0,0,1,0,1,0,1,0,2,0,0,0,0,1,1,0,0,0,0,0,7,4,5,4,4,4,5,5,5,4,6,7,7,2,5,6,6,1,6,6,5,1,4,4,5,4,4,5,4,2,5,6,2,,4,4,6,7,4,5,5,5,5,5,5,5,4,2,3,3,3,5,3,4,5,4,2,3,3,5,4,5,4,2,2,5,1,5,5,6,4,5,5,6,6,5,1,,,,,,,,,,,,,5,5,4,6,5,5,4,6,5,1,-2,0,-3,"Ma chère fany,
+
+je me retrouve aujourdhui, face à moi mêê, et le seule personne qui me vient à lesprit quant on me parle de reconnaissance cest toi. cela fait des années que nous ,=nous sommes pas vu mais je sais quon fond de toi il y a lamour dune mère envers moi.
+tu as toujours été là quand jen ai eu besoin durant mon adolescance, tu a supporter mes peine et mes douleur avec lamour dune mère, dailleur tu es ma deuxième maman. cest vrai que la mienne na pas toujours été à la hauteur, mais finalement cest bien grace à elle que je técris aujourdhui.  jaimerai que lon se revoit pour que tu me raconte, toi, ta vie, tes soucis car je sais que tu en a eu.
+de mon coté on aurait pas pu immaginer un jour, que je reussisse ma vie comme je suis en train de le faire.
+plus jeune tu mas raconter ton enfance douloureuse et ce partage de sentiments, unique à nous deux, nous lirra pour léternité. jespere que tu es heureuse et que ta fille tapporte satisfaction et réconfort ce qui na pas toujours était le cas.
+
+maintenant je dois te laisser pour vacquer à mes occupations.
+
+je taime très fort.
+
+prend soin de toi",,,,1
+"4,418",193,Condition 1,Health,"Paris, Madrid",2/25/14 13:11,2/25/14 13:31,20,35,assurances,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,6,7,6,5,2,7,2,3,1,4,4,5,2,4,3,4,5,5,2,4,2,5,1,4,5,4,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4,3,4,4,4,5,5,6,5,6,7,6,6,6,7,6,6,7,7,6,4,4,5,3,3,3,3,4,5,6,4,,1,2,4,3,3,3,4,5,3,2,5,3,3,4,3,4,3,6,5,4,4,1,1,2,1,1,1,3,3,5,5,7,1,7,7,6,6,2,7,7,6,7,6,,,,,,,,,3,7,7,6,,,,,3,7,7,6,5.75,0,6,-2,-2,,,,,0
+"4,430",194,Condition 2,Work,"Paris, Madrid",2/25/14 14:13,2/25/14 14:43,30,42,APRIL MON ASSURANCE,Université,2,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Femme,0,6,2,7,2,7,4,6,1,4,1,5,5,5,5,5,3,5,5,5,4,5,5,5,5,5,3,2,4,0,0,0,4,,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,1,5,5,5,4,5,5,7,7,7,7,6,6,6,6,6,7,7,7,7,2,2,3,3,5,6,6,3,5,3,6,,7,7,7,6,4,7,1,7,6,6,6,7,7,7,7,7,7,1,3,5,1,1,1,1,1,1,5,3,5,5,5,7,1,6,7,5,5,7,6,5,6,6,6,,6,6,6,6,,,,,,,,,,,,6,6,6,6,6,6,6,1,1,,,,"Cher Martin,
+
+Je te remercie très sincèrement pour toute la confiance que tu mas témoigné dans laccomplissement de mes tâches.
+Dans ce contexte très difficile, tu es devenu la soucrce de ma plus grande motivation
+Sois assuré que je mettrai tout en oeuvre pour toujours être à  la hauteur de cette confiance.
+Bien à toi,",1
+"4,431",195,Condition 3,Control,Est,2/25/14 14:14,4/10/14 16:14,"63,480",27,APRIL Canada Inc,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,7,3,7,1,6,2,6,2,7,5,5,5,5,5,5,4,3,4,3,5,3,5,3,1,3,1,1,1,1,0,1,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,4,4,2,1,5,6,5,2,2,6,6,7,7,6,7,6,5,6,6,6,6,7,7,7,7,6,7,7,7,7,7,6,,3,5,6,4,4,1,4,4,5,5,6,7,7,6,4,4,4,2,1,3,1,1,2,2,1,1,4,6,6,6,6,6,2,5,6,6,6,7,6,6,6,7,7,6,,,,,6,6,7,,,,,,,,,6,6,6,7,6.25,7,9,6,5,,"- Coordonner les tests des 2 applicatifs entre léquipe dutilisateurs et les programmeurs
+- Réaliser des tests sur ces 2 applicatifs
+- Compiler des statistiques pour un rapport de ventes annuel
+- Prendre 3 jours de congés",,,1
+"4,434",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 14:26,4/7/14 9:25,"58,738",44,APRIL,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Homme,1,7,1,6,4,5,5,6,2,6,5,5,5,5,5,4,4,4,4,4,5,4,5,5,4,4,4,4,5,0,1,3,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,2,1,2,0,0,0,0,0,0,7,5,1,7,7,6,6,7,7,7,6,5,7,7,6,6,7,7,6,6,7,7,6,7,7,6,7,6,3,3,7,1,7,,2,7,7,7,4,7,5,7,6,3,6,6,6,6,6,5,5,1,1,1,1,1,1,1,1,1,6,5,5,6,6,6,1,6,6,6,7,7,6,7,7,7,6,,,,,,,,,,,,,5,7,7,6,5,7,7,6,6.25,8,8,6,8,"Chère Evelyne,
+tu a su détecter ma maladie et maider à prendre les meilleures décisions très rapidement pour que je sois soigné. Cela aurait pu avoir des conséquences sur notre vie comme par exemple ne pas avoir denfants. tu mas soutenu, aider à passer les moments difficiles et nous avons surmonté les difficultés dans le bonheur.
+Cela a impacté ma vie car cela ma permis de prendre conscience des priorités, de limportant à mes yeux, de limportance de ta présence. Je suis aujourdhui en pleine forme et nous avons des enfants malgré les prévisions. 
+Ma vie est heureuse et cest en partie grace à toi et je ten suis extrêmement reconnaissant. Sans doute je nexprime pas cette reconnaissance à la hauteur du bonheur que tu me procure.
+Jécris cette lettre dans le cadre dune enquête sur le bonheur et je suis ému en me remémorant ces moments. 
+Je taime",,,,1
+"4,436",193,Condition 1,Health,Arabie,2/25/14 15:04,4/15/14 7:21,"70,097",41,april mon assurance,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,2,7,2,7,1,7,1,5,1,5,5,5,5,3,5,5,5,4,5,4,5,5,5,5,5,5,5,0,1,1,0,0,0,0,1,,0,0,0,,0,0,0,,1,3,1,,1,0,0,,0,0,0,,0,0,0,,5,1,3,5,6,1,5,2,7,7,7,7,7,,7,7,7,,7,6,7,,5,4,7,4,7,7,5,4,7,1,6,,7,7,7,7,7,7,4,7,5,2,6,6,6,4,5,5,5,1,1,1,1,1,1,1,1,1,1,6,6,6,6,6,2,7,6,4,4,,7,6,7,7,7,,,,,,,,,4,4,4,5,,,,,4,4,4,5,4.25,8,9,8,8,,,,,0
+"4,437",194,Condition 2,Work,"Paris, Madrid",2/25/14 15:32,4/10/14 15:51,"63,379",50,APRIL,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,1,7,2,7,7,7,2,7,2,5,5,5,4,5,5,5,4,3,5,3,5,3,4,5,4,4,4,3,0,4,3,0,0,0,2,3,3,0,2,2,0,0,1,0,0,0,3,1,3,1,1,3,2,1,0,0,1,0,0,1,7,2,1,7,7,7,7,7,7,7,7,7,5,5,7,6,5,5,7,6,5,5,7,7,7,7,7,7,7,7,7,7,7,,2,7,7,7,7,7,5,7,6,6,6,6,6,7,5,5,5,1,1,1,1,1,1,1,1,1,6,6,6,4,4,7,1,7,7,6,6,7,6,5,7,6,5,,6,7,6,6,,,,,,,,,,,,6,7,6,6,6.25,10,10,9,9,,,,"Chère Gaëlle,
+
+Je profite de cette occasion qui mest donnée pour te remercier de ce que tu as pu mapporter dans mon travail et de ton soutien qui ma permis à la fois de progresser dans lentreprise et dêtre plus autonome.
+Grâce à toi, jai pu faire modifier lintitulé de mon poste et tu sais combien il est difficile de changer de fonction quand on est assistante de direction. Je sais combien tu as mobilisé dénergie pour que je puisse être reponsable de projets dont tu mas chargés en toute confiance. Tu as veillé à ce que jaie la formation nécessaire pour accomplir mes tâches et tes assurée que jétais à laise dans mes nouvelles responsabilités.
+Je te remercie donc une fois encore de la confiance que tu me témoignes.
+Bien cordialement.
+Christine",1
+"4,438",195,Condition 3,Control,"Paris, Madrid",2/25/14 15:53,4/11/14 14:50,"64,737",34,April Santé Prévoyance,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,5,3,7,6,6,5,6,1,5,2,4,4,5,1,4,5,3,3,4,3,3,5,5,5,4,5,4,5,0,0,2,3,0,0,1,1,4,4,0,0,1,1,0,0,0,3,1,1,0,1,3,3,3,0,3,0,0,0,1,0,1,5,5,1,1,4,1,7,6,6,,6,5,6,5,6,6,6,4,6,5,6,5,6,5,7,6,6,7,5,5,5,1,6,,2,6,7,7,7,1,5,5,5,1,6,5,5,6,5,6,5,5,1,1,1,2,1,2,1,1,1,6,6,5,6,6,1,7,5,4,5,6,5,5,6,5,5,7,,,,,6,6,5,,,,,,,,,7,6,6,5,6,0,2,-1,2,,"Jai crée une nouvelle fiche de contrôles et lai présenté à ma manager.
+Jai acheté un cadeau pour la venue de la fille dune amie.
+Jai brodé une petite bavette pour cette même petite fille.
+Jai construit la tête de Skeepy en carton en découpant plus de 44 cercles dans du carton et montré la photo à mes collègues, amis et parents.
+Je suis allée à laquagym hier et jai papotté des problèmes de famille avec mon amie Annick.
+Jsuis allée à la zumba avec mon amie Esther et jai papotté et pleuré avec elle car sa maman est très malade.
+Jai eu mon frère plusieurs fois aau téléphone et parlé de son futur mariage et des préparatifs.
+Ma grand-mère est décédée récemment et ma maman a récupéré des lettres de mon grand-père pendant la guerre, elle me les a fait lire. Elle a aussi récupéré les cahiers décole de ma mamie où jai pu lire ses rédactions.
+Jai déjeuné avec mes parents samedi et fais quelques courses avec ma mère.
+Je suis venue plusieurs fois au travail avec une collègue et je lai écouté et rassuré sur ses problèmes.
+Jai continué de fabriquer lurne du mariage de mon frère et réfléchi à un album photo surprise. Jai contacté une amie de lencadrement pour quelle me donne ses idées.
+Jai pris des nouvelles de mon petit filleul et de sa famille.
+Jai regardé Intouchables et la Belle et le Clochard, quune collègue mavait prêté.
+Jai résolu mes problèmes dorinateur et de diphone et de disque dur.",,,1
+"4,439",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 16:15,3/25/14 15:24,"40,269",31,april,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,5,3,6,2,5,3,6,2,4,3,4,3,3,3,3,4,4,4,4,5,4,4,3,5,3,3,3,4,2,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,2,3,3,3,6,5,4,5,4,6,6,6,4,5,5,5,5,5,6,6,5,3,4,4,3,3,4,3,7,1,2,,4,4,7,7,6,5,4,4,3,4,4,4,4,4,5,5,5,4,4,1,1,1,1,1,1,1,1,5,5,5,5,5,1,5,5,5,5,5,4,5,5,6,5,,,,,,,,,,,,,5,5,5,5,5,5,5,5,5,-2,1,-6,-3,,,,,0
+"4,440",193,Condition 1,Health,"Paris, Madrid",2/25/14 16:18,2/25/14 16:54,36,32,APRIL PARTENAIRES,Université,2,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Femme,0,7,5,7,7,5,2,7,1,1,1,4,5,4,5,4,1,,5,5,5,4,5,1,1,5,5,5,5,4,1,4,4,4,0,,2,3,3,0,,2,0,0,3,1,1,1,0,1,1,0,0,,0,1,0,0,0,0,1,,6,5,1,5,,1,6,1,1,,7,7,7,,7,7,7,4,,7,5,,1,1,7,1,,7,2,1,7,1,2,,,,,,,,5,5,6,6,7,7,4,1,1,1,1,4,3,7,3,,1,1,1,1,1,7,7,7,7,7,1,6,6,6,4,7,5,5,5,2,5,,,,,,,,,7,7,7,7,,,,,7,7,7,7,7,-5,0,-5,-6,,,,,0
+"4,441",194,Condition 2,Work,"Paris, Madrid",2/25/14 16:28,4/11/14 7:29,"64,260",44,APRIL MON ASSURANCE,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Homme,1,7,5,7,6,7,1,6,3,1,2,5,5,5,5,4,5,4,5,3,5,4,3,5,1,5,5,5,4,3,1,0,1,0,0,0,1,0,0,0,1,0,0,0,3,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,3,7,1,1,5,4,5,4,6,7,4,5,7,5,3,6,7,7,6,5,6,6,2,4,4,4,4,4,5,4,4,4,4,4,,2,7,7,2,3,2,4,4,6,6,7,7,7,7,6,7,7,1,1,1,3,7,1,6,1,4,5,6,5,6,6,6,1,6,5,6,5,1,5,7,3,6,1,,4,7,7,7,,,,,,,,,,,,4,7,7,7,6.25,-2,6,3,7,,,,"Papa,
+
+Je nai jamais eu de plus grande chance professionnelle que de pouvoir travailler avec toi.
+
+Tu mas permis de me dépasser professionnellement, et au delà, de me réaliser entièrement au travers de cette magnifique aventure qua été notre société.
+
+Jai eu beaucoup de mal à surmonter ton ""départ"" et jai aujourdhui vendu nos affaires.
+Je suis redevenu salarié, dans le secteur des assurances, le temps de me reconstruire et denvisager un nouveau départ.
+
+Nos petits différents des derniers temps sont maintenant dérisoires et tu me manques terriblement.
+
+Cette lettre est une magnifique occasion de te dire que JE TAIME.
+
+Merci pour tout ce que tu as fais et pour tout ce que tu fais encore.
+Repose en paix, I am in charge !
+
+Olivier.",1
+"4,442",195,Condition 3,Control,"Paris, Madrid",2/25/14 17:17,4/16/14 6:28,"71,351",55,APRIL,Université,2,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Femme,0,4,2,7,5,6,5,7,1,7,6,5,5,5,5,3,5,3,4,3,5,3,5,5,5,5,2,3,5,3,2,3,3,0,0,0,2,0,0,0,0,1,3,0,0,0,0,0,1,0,1,0,2,2,2,0,0,0,0,0,0,0,3,2,1,2,4,4,5,4,5,4,6,6,7,5,6,5,6,6,6,5,6,5,4,3,4,4,6,7,4,3,4,2,3,,2,5,7,6,5,7,5,6,5,4,5,5,5,5,5,6,4,3,1,1,1,1,1,1,1,1,1,6,4,5,3,6,1,7,5,5,5,7,5,6,4,3,3,6,,,,,6,5,5,,,,,,,,,6,6,5,5,5.5,1,3,1,-1,,"Participation a une réunion dont jétais lorganisatrice, animation de mon équipe, travail en équipe sur les améliorations à apporter à un outil informatique, aide à un service pour lécriture dun process, formation sur 2 journées ""moi et les autres"", échanges avec mes pairs sur des orientations stratégiques, mise en place dun dispositif visant à mieux vivre sa santé dans lentreprise, participation à la réunion mensuelle du comité de direction, point individuel avec chacun de mes collaborateurs sur lavancement de leurs travaux .... et personnellement un peu de cuisine et de la peinture artistique",,,1
+"4,443",200,Condition 4,Kindness,"Paris, Madrid",2/25/14 18:26,4/2/14 9:03,"51,276",34,APRIL Mon Assurance,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Homme,1,6,6,7,5,6,6,6,1,6,2,4,4,3,3,1,4,3,3,4,5,4,4,4,2,4,4,3,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2,4,5,5,6,5,5,5,5,7,7,6,6,7,6,5,6,6,7,5,3,2,3,2,4,4,5,6,6,5,2,6,3,6,6,5,6,5,5,5,6,5,6,6,5,5,3,4,3,2,1,3,2,1,2,2,1,1,3,4,5,5,5,5,2,6,5,4,3,3,5,6,6,5,2,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,4,2,4,4,"A la lecture des instructions, la personne envers laquelle je suis le plus reconnaissant est ma compagne.
+Je lui envoie donc un message maintenant, mais désolé le contenu restera confidentiel.",,,,1
+"4,444",193,Condition 1,Health,"Paris, Madrid",2/25/14 20:00,2/25/14 20:13,12,25,APRIL SANTE PREVOYANCE,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,3,0,2,2,2,4,4,4,2,0,2,2,0,1,0,0,1,3,1,3,3,2,0,0,1,0,0,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,6,5,5,3,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+"4,445",194,Condition 2,Work,"Paris, Madrid",2/25/14 21:00,4/11/14 7:55,"64,015",33,April Moto,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,2,6,2,7,5,7,1,6,2,5,4,5,4,5,4,4,4,4,4,4,4,3,1,5,3,3,3,3,1,0,0,0,0,0,3,1,0,0,0,0,0,0,1,0,0,1,0,1,2,0,0,0,0,0,1,0,0,0,0,2,1,1,1,1,1,6,4,4,5,2,7,7,6,6,6,6,6,6,7,5,4,5,5,3,7,2,6,7,7,6,7,4,4,4,5,6,4,4,6,4,4,4,7,5,7,7,7,5,6,5,5,1,1,1,1,1,1,1,1,1,4,4,5,6,4,6,4,5,5,4,6,2,5,6,5,1,3,,6,6,6,6,,,,,,,,,,,,6,6,6,6,6,5,1,6,3,,,,,0
+"4,446",195,Condition 3,Control,"Paris, Madrid",2/26/14 7:38,3/24/14 17:30,"38,031",41,april marine,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,5,7,1,7,3,7,2,1,1,5,5,5,5,5,5,4,5,5,5,5,5,5,4,5,3,4,5,2,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,5,6,1,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,7,7,6,7,7,7,6,7,7,6,7,7,6,7,2,7,3,4,6,2,6,7,6,5,6,7,7,7,5,4,4,1,1,1,1,1,1,1,1,1,6,7,6,6,6,6,1,7,7,7,7,1,7,7,7,7,7,7,,,,,7,5,6,,,,,,,,,7,7,5,6,6.25,10,9,8,3,,"réunion à paris sur le theme grossiste en assurance
+mise en place des prélèvements
+gestion urgente des appels de cotisations aux clients 
+promenade en famille avec le petit chien
+promenade sur la plage
+déjeuner en face de la mer
+réunion à tours sur les impayés
+réunion à Lyon sur mise en place logiciel comptabilité
+réunion à paris pour conseil dadministration
+retard de train
+calins avec les enfants + gros calins avec mon mari !",,,1
+"4,447",200,Condition 4,Kindness,"Paris, Madrid",2/26/14 7:46,3/18/14 19:08,"29,482",44,Pôle Agroalimentaire Loire,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Homme,1,5,2,4,5,5,6,3,2,7,2,3,3,3,4,3,3,2,4,4,3,4,5,4,1,4,3,2,2,3,0,1,0,0,0,0,3,1,1,0,1,0,1,0,0,1,0,0,2,0,3,1,1,1,1,0,0,1,0,0,0,1,2,2,2,5,4,2,3,2,2,3,4,7,6,7,4,6,7,7,4,6,6,6,4,4,5,3,2,6,3,2,4,2,4,3,7,4,7,4,5,7,5,5,5,2,5,5,5,6,5,5,6,4,2,5,2,2,1,2,2,5,1,3,2,2,2,3,4,4,5,4,4,4,5,6,6,6,3,,,,,,,,,,,,,2,2,5,5,2,2,5,5,3.5,0,3,4,1,,,,,0
+"4,448",194,Condition 2,Work,"Paris, Madrid",2/26/14 10:08,3/7/14 12:22,"13,094",27,Maison du café,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Usine,1,Femme,0,4,4,6,6,7,7,7,1,7,5,4,5,5,5,5,4,4,5,3,5,4,5,5,4,4,3,4,5,0,2,3,2,0,0,0,2,2,0,0,0,1,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,4,,,,,,,,,,,6,6,7,5,6,6,7,5,6,5,7,4,4,4,4,4,4,4,4,3,4,5,4,4,3,5,7,7,6,7,4,4,5,5,5,6,6,5,5,4,4,1,1,1,1,1,1,1,1,1,1,7,7,7,7,6,1,7,6,4,7,1,6,6,6,6,5,,6,6,5,4,,,,,,,,,,,,6,6,5,4,5.25,7,7,3,3,,,,,0
+"4,449",193,Condition 1,Health,"Paris, Madrid",2/26/14 11:41,4/16/14 13:44,"70,682",36,april Santé prévoyance,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,5,5,7,5,7,7,7,6,4,2,4,4,4,2,4,4,4,4,2,2,4,4,4,4,4,4,3,3,3,3,0,2,2,3,3,0,3,3,3,0,3,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,7,1,7,7,7,7,7,7,7,5,7,7,4,5,6,6,4,6,6,6,4,7,7,7,7,6,6,7,7,7,7,7,7,2,7,4,6,6,6,5,6,5,5,5,7,6,3,7,3,3,1,1,1,1,1,1,1,1,1,1,5,5,5,5,5,3,5,5,4,5,6,5,5,5,6,6,,,,,,,,,6,6,6,7,,,,,6,6,6,7,6.25,5,5,-3,3,,,"Cher Marc,
+La vie est tellement intense
+Ce jour, je réalise que tout ce que jai vécu à ce jour était correct. toutes ces personnes que jai croisées, touteses ces épreuves que jai vécues, toutes les erreurs que jai faites, cest ce qui me permet de réaliser ô combien je suis bénie et guidée dans ma vie.
+Moi qui pensait et qui me sentait tellement seule, pfiou que dire, je nai pas de mots.
+ça bouillonne tellement à l’intérieur !! Je sens que ma vie change, mes ailes se déploient et jai hâte  !!
+Mais ô combien jai confiance, car je sais que je serai guidée et quon accompagne pour etre le plus juste possible et retouver le divin en moi !
+et ça na pas de prix!
+
+
+Voilà je voulais partager ça avec toi, tu es une bénédiction.
+Tu as bouleversé ma vie plus que je ne pourrai te remercier.
+Merci pour toute ta bienveillance!",,1
+"4,450",193,Condition 1,Health,"Paris, Madrid",2/26/14 11:47,4/11/14 13:29,"63,461",55,April,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,7,4,7,5,7,6,7,1,6,2,5,3,5,2,3,4,5,5,2,4,4,2,4,1,4,4,4,5,1,0,1,0,1,0,0,2,1,0,0,0,1,1,0,0,0,1,0,1,0,2,0,1,0,0,0,0,0,0,0,0,2,7,3,1,7,7,1,6,1,7,7,5,6,6,4,5,5,5,4,5,6,6,4,7,7,7,7,1,7,7,7,7,7,1,7,7,7,7,7,4,7,1,7,6,6,6,6,6,3,3,3,3,2,2,2,1,1,1,1,1,1,1,4,6,5,5,5,2,5,5,4,6,6,5,6,5,6,5,,,,,,,,,7,7,6,6,,,,,7,7,6,6,6.5,7,7,6,6,,,"Ma Lolo,
+Je me souviendrai toujours, alors que jétais au fond du trou, suite à un divorce vraiment très difficile, de notre première rencontre quand je suis venue te voir pour une consultation en Fleurs de Bach, mévitant ainsi la dépendance aux antidépresseurs. Tu mas pour ainsi dire permis de sortir la tête de leau (sans jamais prendre de médicament) et de prendre conscience de qui jétais. Ensuite ma vie na été que découverte de la connaissance de soi. Je suis devenue moi-même conseillière en Fleurs de Bach, Maître Reiki, soins magnétismes, spiritisme, respiration, méditation..... Tous ces merveilleux outils me font grandir tous les jours avec sérénité sur mon chemin de vie et en toute confiance. Aujourdhui je fais totalement confiance à la vie, jai appris à recevoir et à vivre les événements avec beaucoup de recul et sans me laisser submerger par les émotions qui entravent notre quotidien.
+Jai appris à dire merci à la vie, pour tout ce qui est beau mais aussi pour les événements difficiles car nous avons quelque chose à apprendre deux. Le positif et le négatif nous font sans cesse grandir. Merci, je suis en Paix avec moi-même.",,1
+"4,451",200,Condition 4,Kindness,"Paris, Madrid",2/26/14 12:10,4/10/14 11:35,"61,885",32,APRIL MARINE,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,5,5,4,6,6,2,6,5,4,2,4,3,3,2,3,4,3,2,4,2,4,3,2,2,4,1,3,2,2,0,0,1,1,0,0,3,3,3,0,3,2,0,0,0,0,3,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,6,3,2,6,7,6,5,7,7,7,5,5,3,3,6,6,3,2,6,3,1,2,5,4,5,5,6,6,5,2,6,4,3,3,4,6,6,6,6,2,4,7,5,5,5,5,5,5,2,4,3,1,1,1,1,1,1,1,1,1,5,4,5,5,5,5,1,6,6,5,4,5,6,6,6,6,6,,,,,,,,,,,,,6,7,7,7,6,7,7,7,6.75,5,6,5,7,"Chers parents,
+Merci pour tout ce que vous avez fait pour moi.
+Merci pour toutes les choses que vous mavez apprises.
+Merci de mavoir toujours respectée et de mavoir laissé faire mes propres choix et mes erreurs.
+Vous mavez laisser grandir en morientant sans jamais me donner limpression de mimposer des choses.
+Je suis ce que je suis grâce à vous et jespere que vous êtes fiers de moi.
+Jespere réussir à élever mes enfants avec autant damour et de respect. 
+Je vous aime.
+Très affectueusement.",,,,1
+"4,452",194,Condition 2,Work,"Paris, Madrid",2/26/14 12:31,4/13/14 20:39,"66,728",44,April Marine,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Femme,0,2,1,7,6,6,7,7,2,7,4,4,3,5,4,1,2,3,3,3,4,3,4,2,1,3,4,3,3,2,0,0,3,,1,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,1,3,0,0,1,0,0,0,2,0,0,3,4,4,3,3,3,5,6,3,5,3,7,7,4,4,7,7,4,4,7,4,4,4,5,4,4,4,5,5,4,3,5,3,4,4,7,7,7,7,4,7,7,7,6,6,6,6,7,7,6,5,7,3,4,4,4,2,1,1,2,2,2,7,5,4,5,6,1,7,5,5,5,5,3,2,3,3,2,,7,6,6,7,,,,,,,,,,,,7,6,6,7,6.5,-1,-5,4,-1,,,,"Chère Amie,
+
+Je te suis reconnaissante du temps passé à me former dans mon nouvel emploi, pour améliorer mes compétences et que je puisse devenir productive.
+Le poste que joccupe actuellement me ravie, et les conseils et  que tu me donnes me pemette de mepanouir au sein de mon service.
+Je deviens de plus en plus autonom bien que jai encore beaucoup de choses à apprendre, mais jai un sentiment dévolution et de progresser car je continue a apprendre tous les jours.
+
+Je te remerci encore de ta patience,
+
+Amicalement,",1
+"4,453",195,Condition 3,Control,"Paris, Madrid",2/26/14 13:45,4/14/14 6:09,"67,223",46,demb,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Homme,1,5,6,6,6,6,5,5,5,5,5,,,,,,,,,,,,,,,,,,,1,0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,5,6,6,4,5,5,6,4,5,5,6,4,,,,,,,6,6,6,5,6,2,,,,,,,,,6,6,5,6,6,6,5,6,6,,,,,,,,,,,5,6,5,5,5,3,5,5,6,5,6,6,6,6,5,6,6,,,,,7,5,6,,,,,,,,,6,7,5,6,6,,,3,5,,,,,0
+"4,454",193,Condition 1,Health,"Paris, Madrid",2/26/14 14:03,4/14/14 11:15,"67,512",37,April Mon Assurance,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,7,7,6,5,7,1,7,1,2,1,5,1,5,1,5,2,5,5,5,5,5,3,3,1,5,1,1,1,3,3,3,0,,0,0,4,3,3,0,0,3,0,0,2,0,,0,3,0,3,0,2,2,0,0,0,0,0,0,0,0,4,4,1,4,4,1,1,4,1,4,6,7,7,7,7,7,7,7,7,7,7,1,1,1,1,1,4,2,1,1,7,1,1,1,6,7,1,4,3,5,6,5,7,7,7,6,6,6,5,1,1,5,5,5,5,5,1,1,1,2,1,1,1,1,1,1,7,1,5,5,7,6,2,2,3,2,1,,,,,,,,,7,6,4,4,,,,,7,6,4,4,5.25,-1,-9,-8,-8,,,,,0
+"4,457",200,Condition 4,Kindness,"Paris, Madrid",2/27/14 7:58,4/14/14 7:24,"66,205",36,April entreprise immobilier,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Femme,0,5,1,4,7,5,1,7,4,1,1,5,3,5,3,5,3,3,2,3,4,3,4,3,2,4,3,4,4,2,3,0,0,0,0,0,2,3,3,0,0,0,0,0,0,0,0,1,0,0,3,1,0,0,0,0,0,0,0,0,0,1,7,4,1,6,7,7,7,7,7,5,4,7,7,3,4,6,6,4,4,5,5,4,7,7,7,7,7,7,4,2,7,6,6,7,7,6,7,7,5,7,4,7,4,5,7,7,7,1,5,5,5,4,1,1,3,1,1,1,1,4,6,6,6,6,6,5,4,5,6,6,3,4,6,6,6,6,6,,,,,,,,,,,,,6,7,7,7,6,7,7,7,6.75,0,7,-5,2,"Chère maman 
+
+Tu as été d un soutien sans faille lorsque j ai déprimé après la naissance de Thomas 
+tu ne m as jamais laissé tombée, c est la le role dune maman j imagine mais je ne t ai jamais dit a quel point ton soutien m est précieux. 
+
+Si aujourd hui je suis debout c est grace a toi , avec l aide d autres personnes aussi bien sur mais toi tu es ma magicienne, tes mots tes phrases et ton soutien m ont permis de me relever et d avancer.
+
+Tout au long de ma vie tu m as appris tant et tant de choses . Je suis si fiere d etre ta fille.
+
+Amicalement.",,,,1
+"4,458",195,Condition 3,Control,"Paris, Madrid",2/27/14 8:39,3/17/14 10:26,"26,026",34,APRIL,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,6,5,5,4,7,5,5,5,4,2,4,5,4,5,3,2,2,4,2,2,3,5,4,3,4,3,4,3,2,2,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,2,0,0,0,0,0,1,1,2,2,2,1,1,1,1,2,6,6,6,5,5,5,5,6,6,5,6,5,5,5,5,4,5,4,5,3,5,1,2,3,6,6,6,4,7,6,5,6,4,5,5,4,5,2,1,1,1,3,3,4,2,1,4,5,5,3,3,6,5,4,5,5,4,4,6,5,4,2,6,6,6,6,6,5,,,,,5,6,6,,,,,,,,,5,5,6,6,5.5,2,4,0,0,,"Durant les 7 derniers jours, jai essentiellment travaillé sur des projets en cours. Des personnes de lentreprise mont sollicitée pour que je vienne en support sur ma spécialité. Jai veillé à rattraper le retard pris pendant ma semaine de vacances qui a précédé.",,,1
+"4,459",194,Condition 2,Work,"Paris, Madrid",2/27/14 8:57,4/17/14 12:17,"70,759",29,APRIL,Université,2,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Femme,0,5,2,6,6,7,3,6,2,4,5,4,3,4,5,4,4,4,4,1,2,4,3,4,2,4,3,3,2,1,3,1,2,0,0,0,1,2,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,3,1,5,5,5,6,5,5,5,4,5,6,3,5,5,6,3,5,5,6,3,4,2,5,5,5,6,2,2,5,4,4,7,5,5,7,7,7,7,5,5,5,5,5,6,6,5,5,5,5,3,2,2,2,1,1,2,2,2,3,6,7,7,6,5,3,5,5,4,4,6,5,5,6,5,5,,5,6,4,4,,,,,,,,,,,,5,6,4,4,4.75,3,3,3,3,,,,"Lucie,
+
+Tu mas beaucoup aidé à madapter à mon travail actuel.
+
+Je ne connaissais rien de lassurance et avant même mon entretien dembauche tu mas aidé en faisant des recherches sur le secteur, le juridique... Jétais donc prête pour passer un entretien. Tu mas beaucoup rassuré aussi sur la personnalité de la responsable avec laquelle jallais travaillé (son ouverture, sa gentillesse..) ce qui fait que jétais beaucoup moins stressée.
+Lorsque jai eu la réponse et quelle était positive, tu mas accompagné dans lintégration en menvoyant des photos du poste de travail, tu mas parlé en bien de mes futurs collègues. Tout ça a fait que javais limpression que ce nétait pas mon premier jour quand je suis arrivée. 
+
+Ensuite tu mas aidé dans lapprentissage du métier et tu as toujours été là pour répondre à mes questions et cest toujours le cas et maintenant je taide aussi ! Pour tout ça un grand merci et maintenant nous avons dépassé le stade de collègues mais je suis heureuse de dire que nous sommes amies.
+
+
+
+Amicalement",1
+"4,460",200,Condition 4,Kindness,"Paris, Madrid",2/27/14 10:36,4/14/14 7:46,"66,069",22,APRIL,Université,2,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,6,3,6,7,6,1,6,2,1,5,3,2,4,5,3,3,3,5,1,5,1,2,1,1,3,1,1,2,0,0,3,0,0,0,0,2,3,3,0,0,2,2,0,0,0,1,3,0,0,2,0,2,2,0,0,1,0,0,0,0,0,1,1,4,1,3,7,2,7,7,4,4,5,2,1,5,4,1,1,4,6,2,1,5,3,5,4,7,7,5,2,7,2,6,7,2,7,7,5,7,7,6,6,5,7,6,6,7,6,1,3,2,1,1,3,3,2,3,2,1,3,6,5,5,6,4,2,7,4,3,2,2,3,5,2,3,1,3,,,,,,,,,,,,,6,7,7,7,6,7,7,7,6.75,0,4,-10,-6,"Cyril,
+
+Tout dabord, je veux te rappeler à quel point mon amour pour toi est fort. Jai parfois des doutes et des appréhensions, comme toi, comme tout le monde ... Mais chaque jour mon coeur bat plus fort pour toi. Et je voulais te le dire une nouvelle fois : je taime vraiment très fort ...
+
+Jaimerais te remercier pour me supporter depuis 2 ans et demi déjà. Et pour me guider dans mon stress maladif. Je suis parfois insupportable, je men rends compte après-coup (ou même pendant mes crises). Mais mon besoin dextérioriser est trop fort. Alors merci dêtre ce soutien sans faille, que je tai redemandé dêtre dimanche soir pendant cette longue discussion.
+
+Je sais que je dois aussi faire des efforts pour contrôler mon stress et envisager la vie de façon meilleure vu la chance que jai dêtre qui je suis dans cette vie. Et je le fais, et le ferai, le plus possible par respect et par amour pour toi. Merci, merci un million de fois de maider, de me soutenir et surtout de maimer inconditionnellement ... Jai la chance merveilleuse de tavoir dans ma vie et jespère pour tout ce quelle représentera dans ce monde. Je taime mon amour ... Merci.
+
+Mélody",,,,1
+"4,461",195,Condition 3,Control,"Paris, Madrid",2/27/14 10:49,4/16/14 11:58,"69,188",36,APRIL,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,5,2,6,6,6,5,5,1,6,2,2,3,4,3,3,3,4,3,3,5,3,4,4,3,4,3,4,4,3,1,0,0,0,0,0,3,3,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,5,3,1,4,6,5,6,6,5,5,5,6,6,4,6,6,6,4,6,6,6,4,4,5,5,5,5,7,4,5,5,3,5,4,3,4,6,7,6,7,5,7,6,5,5,5,5,5,5,4,4,1,1,1,2,2,1,1,1,1,3,5,6,6,6,6,2,6,5,5,5,5,6,6,6,6,5,5,,,,,7,6,6,,,,,,,,,5,7,6,6,6,2,3,3,4,,"Au travail, 
+jai déménagé de bureau, nous avons gagné en lumière et aménagement du service. Cest mieux.
+Jai briefé lagence de communication pour un lancement produit qui aura lieu en juin. Cest le point de démarrage officiel du projet.
+Nous nous sommes présentés à notre nouveau directeur et avons eu de sa part un retour positif sur notre travail.
+
+Au niveau personnel :
+Jai soigné mon fils qui était malade (rdv médecin, traitement et calins).
+Jai assisté au mariage dun couple damis en petit comité et passer la journée et soirée avec eux.
+Javais un we de 3 jours, jai fait beaucoup de sport le we (vélo, tennis, boxe et course à pied)
+Je prépare le programme des vacances de février à Paris avec les enfants (reservation dexpo, spectacles, visite chez des amis)
+Jai réglé mon amende de 68 euros qui devait être majorée de 120 euros si je ne faisais pas le changement dadresse sur ma carte dimmatriculation. La démarche a été faite. Cest réglé.
+Jai mis mon blog culturel à jour.",,,1
+"4,462",194,Condition 2,Work,"Paris, Madrid",2/27/14 11:07,2/27/14 14:28,200,44,APRIL MON ASSURANCE,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,2,7,6,7,6,7,1,6,1,4,5,4,1,5,3,4,5,3,5,4,5,5,3,4,4,3,5,1,2,2,0,1,0,0,2,1,,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,1,5,4,1,6,6,5,6,7,6,5,7,7,7,5,7,7,7,5,7,6,7,5,4,3,5,4,5,6,3,4,7,4,3,6,3,7,5,6,6,3,6,6,6,6,7,7,6,6,6,5,5,1,1,1,1,1,1,1,1,1,1,7,7,7,7,1,1,7,5,6,6,6,5,5,5,5,2,,6,7,6,7,,,,,,,,,,,,6,7,6,7,6.5,6,2,1,1,,,,"Chère Sabrina,
+
+Je me souviens de ton grand sourire la première fois que je suis entrée dans ton agence. Les quelques mois de galère que je venais de passer en tant que demandeur demploi, ce sont volatilisés. Jai compris que jallais acquérir les connaissances quil me manquées.
+
+Jour après jour, jai découvert ta façon de travailler, ton goût de leffort et du travail bien fait. Cela a renforcé la certitude que je ne métais pas trompée dans la voie que javais choisie.
+
+Ton empathie, lécoute de lautre fait de toi une personne précieuse, avec qui je suis heureuse de travailler.
+
+Jai pu acquérir sur ces quelques semaines : lenvie de faire très bien mon travail, pour remercier les personnes qui mont fait confiance.
+
+Depuis, je suis à mon poste, je noublie ton enseignement, et je reste fidèle à mon engagement : être impliquer dans mon entreprise et surtout rester professionnelle avec les clients, avec ce petit plus de plaisir qui fait la différence.
+
+Mille mercis
+
+Isabelle,",1
+"4,463",193,Condition 1,Health,"Paris, Madrid",2/27/14 11:24,4/8/14 15:50,"57,865",41,april partenaires,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Homme,1,6,3,7,4,6,7,6,2,6,5,3,5,3,5,3,5,4,5,3,5,4,5,3,5,3,5,3,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,4,4,4,4,5,4,4,7,7,6,5,7,7,5,4,7,7,5,4,3,2,7,3,3,7,3,1,5,4,3,5,4,7,7,7,7,7,5,5,6,7,7,7,7,7,6,4,6,1,1,1,1,1,1,1,1,1,1,6,6,6,4,7,1,6,5,5,5,6,6,6,6,5,6,,,,,,,,,6,6,5,6,,,,,6,6,5,6,5.75,-10,0,4,4,,,,,0
+"4,464",194,Condition 2,Work,"Paris, Madrid",2/27/14 13:47,4/17/14 12:58,"70,511",39,april mon assurance,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Homme,1,7,2,6,1,7,4,7,1,7,2,5,4,5,3,3,3,5,2,5,4,4,5,4,2,3,2,2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,6,1,7,6,6,6,6,7,7,6,7,7,5,6,7,7,6,7,6,7,6,5,4,7,2,4,6,6,2,7,3,3,5,1,7,1,3,6,5,5,5,7,6,7,7,6,4,5,6,2,1,1,1,1,1,1,1,1,1,6,7,7,5,4,6,1,7,6,7,7,2,5,5,6,7,6,,7,6,6,7,,,,,,,,,,,,7,6,6,7,6.5,8,8,10,6,,,,"Cher jacques,
+
+Je tiens a tadresser ce courrier afin dexprimer ma gratitude et mon profond respect envers toi.
+
+Nous avons passer de nombreuses années a parler et a voyager ensemble. Tu ma ouvert lesprit et appris a être qui je suis et ce que javais envie dêtre réellement. Grace a toi, ce monde ne me fait pas peur, il mintrigue et ma soif de connaissance est sans fin.
+
+Je travaille dans un cabinet dassurance en toute autonomie. Je ne suis pas sur que jaurais pu effectuer ce type demploi sans ta rencontre. 
+
+Sincèrement,",1
+"4,465",200,Condition 4,Kindness,"Paris, Madrid",2/27/14 14:11,4/16/14 14:47,"69,155",35,april moto,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,5,7,7,7,6,6,1,3,1,5,4,4,5,4,5,5,5,5,5,5,5,5,1,5,1,5,5,4,4,4,3,4,2,3,3,4,4,1,0,4,2,0,1,2,0,3,0,3,3,0,3,4,3,3,0,0,0,0,0,1,6,1,1,4,4,5,6,5,7,6,6,7,7,6,7,7,6,5,7,6,3,3,5,3,5,5,5,5,5,4,4,5,6,4,4,6,4,,4,6,5,7,7,7,6,7,7,7,7,7,2,1,1,1,1,1,1,1,1,1,1,5,6,6,6,5,2,5,4,5,3,5,5,3,3,7,3,,,,,,,,,,,,,5,7,7,7,5,7,7,7,6.5,2,3,6,7,"Elisa,
+
+Je voulais tadresser cette lettre afin de texprimer ma reconnaissance pour tout ce que tu mapportes grâce à ton amitié.
+Tu as été présente pendant ma grossesse, puis avec mes problèmes de dos que jai pû malheureusement partager avec toi, ainsi que plein dautres tuiles qui nous tombaient dessus.
+Comme tu le sais je nai pas vraiment de confidente, mes parents étant loin, ma soeur qui ne me parle plus...Je suis donc heureuse de tavoir comme amie et de pouvoir partager des rires et des malheurs avec toi et ta famille.
+Tu mas permis de prendre du recul et de daffronter les problèmes qui se présentaient à moi.
+Pour moi ton amitié est très importante, tu es une confidente et jespère lêtre aussi pour toi, pour taider également à surmonter les mauvais coups de la vie.
+Voilà je voulais simplement te dire les choses en espérant que cette relation durera encore longtemps, e nous permettra de partager également de grosses tranches de fous rires comme on a régulièrement.
+Je te fais de gros bisous ainsi quà toute la petite famille, et te dis à bientôt.",,,,1
+"4,466",195,Condition 3,Control,"Paris, Madrid",2/27/14 15:48,4/14/14 15:40,"66,232",24,Maison du café,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Femme,0,3,1,7,7,2,7,7,1,6,3,4,5,4,5,3,5,3,4,3,5,3,5,4,2,3,2,1,5,4,1,0,0,0,3,0,3,0,0,0,0,0,1,0,0,0,0,2,3,0,3,2,0,0,0,2,0,1,0,0,0,1,4,1,1,6,6,2,1,1,4,6,5,5,6,6,5,5,6,6,5,5,6,6,,,,,,,,,,,,,3,7,6,1,7,5,5,5,3,5,6,5,5,6,1,1,1,3,5,6,3,3,1,1,1,1,1,7,7,7,7,2,6,3,5,5,5,6,5,7,5,6,5,7,,,,,7,7,7,,,,,,,,,7,7,7,7,7,-9,-5,-8,-9,,"Travailler (Beaucoup travailler) 
+Colorier
+Partir en week-end
+Manger
+Se promener 
+Faire les magasins
+Parler et Rigoler
+Regarder la télé
+Conduire (Beaucoup conduire)
+Téléphoner
+Envoyer des SMS
+Dormir
+Cuisiner
+Faire la vaisselle
+Faire la lessive
+Faire du basket",,,1
+"4,467",193,Condition 1,Health,"Paris, Madrid",2/27/14 16:16,4/16/14 11:34,"68,838",34,APRIL MOTO,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,2,2,2,7,6,5,7,1,2,2,4,2,3,3,3,1,5,5,4,5,4,5,1,1,4,5,4,5,4,0,4,0,1,0,0,2,0,0,0,0,4,0,0,0,2,0,2,0,0,0,3,0,1,1,4,0,0,0,4,0,0,4,7,1,4,4,5,5,7,4,5,7,7,4,4,6,7,4,4,7,7,4,4,2,2,2,2,2,3,4,4,4,7,1,1,7,7,1,7,5,1,6,6,7,5,6,7,7,7,4,2,2,7,3,3,2,2,1,1,1,3,1,5,7,4,4,7,1,7,4,4,4,4,3,5,5,7,1,,,,,,,,,4,4,4,1,,,,,4,4,4,1,3.25,3,2,0,5,,,,,0
+"4,468",193,Condition 1,Health,"Paris, Madrid",2/27/14 16:24,4/14/14 14:59,"66,155",29,april mon assurance,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,7,3,7,7,3,2,7,1,3,5,5,1,5,3,5,1,3,1,1,1,5,1,3,5,3,3,3,1,2,1,2,3,1,1,1,1,2,1,1,1,2,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,7,7,7,1,1,1,7,7,7,1,7,7,7,3,7,7,7,3,7,7,7,3,7,6,7,7,7,7,5,3,7,5,5,5,7,7,4,7,7,7,7,7,1,6,6,6,6,3,2,4,3,5,5,5,4,5,1,5,5,7,1,5,3,3,3,7,1,7,7,7,7,1,2,2,2,3,,,,,,,,,,7,7,7,7,,,,,7,7,7,7,7,-8,-8,-9,-9,,,,,0
+"4,469",194,Condition 2,Work,"Paris, Madrid",2/27/14 21:05,4/2/14 8:33,"48,207",27,April,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,2,6,7,4,5,7,2,4,5,3,2,3,2,3,5,2,4,1,5,3,5,3,2,3,4,2,3,3,4,3,4,0,1,1,4,3,1,0,3,3,3,0,0,0,1,0,2,2,3,0,0,2,0,0,4,0,3,0,0,0,4,2,5,3,3,5,3,5,5,4,2,7,7,4,5,6,3,5,4,7,6,4,4,3,3,3,2,3,4,2,4,4,2,3,2,6,7,4,6,5,6,5,4,4,4,5,5,4,6,5,5,4,1,1,2,1,1,3,1,1,2,6,6,6,4,4,4,5,4,5,5,3,5,3,7,6,3,,4,5,5,4,,,,,,,,,,,,4,5,5,4,4.5,-3,-3,1,4,,,,,0
+"4,472",200,Condition 4,Kindness,"Paris, Madrid",2/28/14 8:09,2/28/14 8:48,39,25,LOREAL,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Usine,1,Homme,1,6,2,4,1,4,2,7,6,6,6,4,5,3,4,3,5,4,3,4,5,3,4,3,4,4,3,4,3,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,4,4,3,6,5,5,1,3,7,5,6,7,2,5,6,6,4,2,6,5,4,3,6,5,6,7,,6,7,3,6,7,,6,3,6,7,4,7,6,6,6,5,5,4,5,,7,4,5,2,1,1,1,1,1,2,1,1,1,4,6,6,2,4,5,2,7,5,5,5,7,6,7,6,7,6,,,,,,,,,,,,,6,6,5,5,6,6,5,5,5.5,6,6,4,7,"Mon amour,
+
+La patience dont tu as fait preuve au cours de nos discussions concernant le divorce de tes parents, alors même que cela te touchait particulièrement et te faisait beaucoup de peine, ma fait un grand bien et poyur cela je te suis reconaissant. Si elle na pas changé mon avis sur le fond de la question (à savoir le principe même du divorce), elle ma beaucoup rassuré pour notre avenir et ma permis de voir à quel poibnt tu as été forte depuis ce moment dont tu as souffzert. Elle a renforcé mon idée que les enfants ne sont en rien responsables ou coupables des choix de leurs parents, et ma fait (partiellement) changé davis sur un point : aupravant, jétais persuadé quune personne qui a souffert du divorce de ses parents en sortirait particulièrement atteinte moralement et du coup lacherai beaucoup de choses qui me sont chères. Cest exactement le contraire que tu as choisi.
+Encore merci pour ta patience et pour tout ce que tu mapporte.
+
+Amicalement",,,,1
+"4,473",195,Condition 3,Control,"Paris, Madrid",2/28/14 10:10,3/12/14 13:13,"17,462",45,April mon assurance,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Homme,1,7,3,7,5,7,1,7,3,2,1,4,5,5,2,4,4,4,3,4,5,4,5,4,3,5,4,4,3,2,4,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0,,0,1,1,1,1,1,1,1,1,1,1,1,6,7,7,6,6,6,6,5,6,6,6,5,6,5,7,6,6,6,7,7,7,4,4,4,7,6,6,2,2,6,7,7,5,6,6,6,6,3,3,5,4,1,1,1,1,1,1,1,1,1,1,7,7,7,7,6,2,6,6,6,7,7,6,6,6,7,5,6,,,,,6,5,6,,,,,,,,,6,6,5,6,5.75,6,6,4,5,,"Durant la semaine passée, j ai fait beaucoup de prospection et relance client a fin de developper mon chiffre,
+la prospection a ete faire sur des vendeur de bateaux pour presenter nos produits d assurance.
+les relances ont ete faire sur des devis fait les semaines passées.
+J ai egalement participé a deux journees de formations sur des nouveaux produits.",,,1
+"4,474",194,Condition 2,Work,"Paris, Madrid",2/28/14 12:39,3/26/14 10:20,"37,301",46,Terre d Entreprises,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,6,7,7,6,6,7,6,6,2,5,3,5,2,5,2,3,3,3,4,4,3,3,2,4,2,4,4,0,0,3,1,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,1,1,2,1,0,1,0,0,0,0,0,0,0,1,7,7,1,7,7,2,5,1,7,6,5,5,5,5,6,5,5,4,5,5,5,5,5,5,7,4,4,7,7,4,7,3,3,7,3,7,7,4,6,7,4,6,4,3,5,6,5,6,2,4,4,4,2,4,3,4,1,1,1,4,1,6,7,6,6,5,2,7,5,6,7,4,6,7,6,7,6,,5,5,6,5,,,,,,,,,,,,5,5,6,5,5.25,6,9,0,1,,,,"Cher Jean Claude,
+
+Tu as su me faire confiance de façon inconditionnelle lorsque tu mas proposée de me former au métier de formatrice, je suis devenue ta première collaboratrice au sein de lUniversité APRIL, jai beaucoup appris grâce à toi. Je ne connaissais rien au métier tu mas dit ""tout sapprend à condition de travailler"" ""si tu es motivée tu peux tout faire"" tu as un potentiel incroyable tu vas y arriver ! il avait raison jai surmonté beaucoup dobstacles grâce à son regard toujours bienveillant.  A présent jai 10 ans de métier toujours dans la formation où je fais aussi de lingénierie de laccompagnement individuel je vais aussi suivre une formation pour être coach. Tu as su etre patient et me bousculer pour affronter mes peurs, merci ! 
+amicalement 
+EDL",1
+"4,475",193,Condition 1,Health,"Paris, Madrid",2/28/14 13:27,4/14/14 18:54,"65,127",44,APRIL MARINE,Université,2,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Homme,1,6,2,6,3,6,5,7,6,6,2,5,5,5,5,2,5,5,2,5,5,5,5,4,5,5,5,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,4,5,7,6,6,6,6,6,6,5,6,6,6,4,4,4,4,4,6,4,4,4,4,3,6,2,5,7,7,4,4,6,6,6,4,6,7,7,1,6,7,7,1,1,1,1,1,1,1,1,1,1,6,6,5,6,6,1,5,5,6,5,7,6,6,6,5,5,,,,,,,,,6,6,4,4,,,,,6,6,4,4,5,6,6,7,1,,,"Trés cher ami,
+Partager ce moment fort où nous avons pu, en pleine nature, randonner et apprécier les choses simples, telles que cuisiner, discuter, échanger et refaire le monde.
+Ce fut bef, mais oh combien agréable et revitalisant : les batteries sont rechargées.
+Amicalement.",,1
+"4,476",200,Condition 4,Kindness,"Paris, Madrid",2/28/14 14:14,4/16/14 7:23,"67,268",32,april,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,6,5,6,6,7,6,6,5,6,3,5,5,5,,,5,4,5,4,1,3,2,2,1,3,2,2,2,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,1,4,6,4,6,6,5,7,7,7,7,3,5,6,2,2,5,6,1,2,5,5,1,7,7,7,7,6,7,6,7,7,7,7,7,4,6,6,6,7,7,2,6,5,7,6,6,6,1,7,7,7,3,2,1,3,1,2,2,2,2,4,6,6,5,4,5,3,5,6,4,7,1,6,6,6,6,2,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,0,5,-4,-3,"Chers Parents, 
+
+Merci",,,,1
+"4,477",193,Condition 1,Health,"Paris, Madrid",2/28/14 14:40,4/14/14 6:21,"64,301",38,APRIL,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,5,2,7,5,6,6,7,1,7,6,4,4,5,4,4,3,3,4,3,4,4,3,4,4,4,4,3,2,1,1,2,1,0,2,0,1,0,0,0,0,0,2,1,2,2,0,0,2,2,2,0,0,0,1,0,4,0,0,0,0,0,6,5,2,6,7,6,5,6,7,6,7,6,7,7,7,5,6,6,7,6,7,6,6,6,7,6,6,7,5,4,7,6,4,7,6,6,4,4,6,6,5,5,5,6,5,5,5,2,3,2,1,3,1,1,1,1,3,2,1,2,5,6,3,4,4,6,6,6,6,6,5,7,6,7,6,5,6,,,,,,,,,6,6,4,6,,,,,6,6,4,6,5.5,7,7,4,8,,,"Chère Edith,
+
+Un grand merci renouvelé après ce séminaire que nous avons passé ensemble.
+Il restera un moment fort pour moi car durant ces deux jours, courte échelle de temps en soi, vous mavez permis de me poser dans une réflexion que je narrivais pas à mener depuis des années.
+Vous avez su me faire accepter des principes auxquels je pense régulièrement tels que : 
+- la loyauté envers son employeur nest pas remise en cause parce quon sautorise à réfléchir à des projets de vie à plus long terme...,
+- oser se confier sur des projets de vie structurants à des proches car ce sont des enjeux à partager,
+- sortir du rationnel pour écouter ses émotions et intuitions.
+Jespère que nous aurons loccasion den reparler et partager un autre séminaire ensemble.
+Bien amicalement",,1
+"4,478",200,Condition 4,Kindness,"Paris, Madrid",2/28/14 15:30,4/18/14 15:17,"70,547",45,april entreprise immobilier,Troisième cycle,4,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,5,7,5,5,4,7,6,7,6,5,3,5,3,4,4,4,4,3,4,4,4,5,2,4,3,4,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,6,3,6,6,7,7,6,4,7,7,7,7,7,7,6,6,7,7,7,7,7,6,5,6,5,7,6,6,4,2,4,6,6,3,6,7,6,7,6,1,6,6,5,5,5,6,6,5,5,5,4,1,1,1,1,4,3,1,1,2,7,7,7,7,6,1,7,7,6,7,7,6,6,6,6,6,,,,,,,,,,,,,7,6,6,6,7,6,6,6,6.25,4,6,7,6,,,,,0
+"4,479",194,Condition 2,Work,"Paris, Madrid",2/28/14 16:14,4/4/14 14:39,"50,305",43,APRIL,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,6,1,7,2,6,7,7,1,7,1,4,5,5,5,4,,5,5,,5,5,5,5,5,5,3,4,5,3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,6,5,1,6,7,4,5,5,7,7,7,7,6,6,7,6,6,6,7,6,6,6,7,6,7,4,4,6,7,6,7,5,3,5,7,6,7,7,6,7,2,6,7,3,5,6,6,5,7,7,7,1,1,1,1,1,1,1,1,1,4,5,6,3,6,7,1,7,6,6,6,6,7,7,7,6,6,,6,6,6,5,,,,,,,,,,,,6,6,6,5,5.75,8,8,8,9,,,,"Chère Françoise,
+Le souvenir de notre première rencontre est extrêmement présent pour moi. Cest aussi ce jour-là, quà la suite de notre entretien, tu mas accordé ta confiance pour faire partie de ton équipe. Grâce à toi, jai acquis de nouvelles connaissances et compétences dans un domaine auquel je ny connaissais absolument rien. Cest aussi toi qui ma poussé à faire de la formation, ma encouragé et qui ma ainsi fait découvrir ce métier qui est aujoudhui le mien et dans lequel je mépanouis depuis tant dannées.
+Tes paroles, ton humour, ta présence ni trop ni trop peu mont encouragé à me dépasser, à apprendre, à réussir.
+Lorsque lon se croise parfois, je pourrais te dire tout cela mais je nose pas. Voilà ce que je ressens au plus profond de toi.
+Merci Françoise.
+Amicalement",1
+"4,480",195,Condition 3,Control,"Paris, Madrid",3/2/14 13:01,3/12/14 18:43,"14,741",37,APRIL MARINE,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Homme,1,3,3,7,3,6,3,6,1,6,3,3,5,3,5,3,2,4,4,2,5,4,3,4,1,4,3,4,3,3,2,2,0,0,0,0,3,1,1,0,0,1,0,0,1,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,4,1,4,4,5,5,3,5,6,6,7,7,7,5,7,7,7,5,7,6,6,4,3,5,4,3,4,5,3,6,4,2,3,4,5,7,7,6,6,5,5,6,5,7,7,7,6,6,6,6,1,1,1,1,1,1,1,1,1,2,5,6,6,5,6,1,7,6,6,6,6,5,3,5,5,3,6,,,,,6,6,6,,,,,,,,,6,6,6,6,6,3,7,4,5,,"MISE EN PLACE DE NOUVAUX PROCESS
+VERIFICATION / CONTROLE / STATS
+POSE DUNE CUISINE
+NOMBRESUSE HEURES PASSEES AU TRAVAIL",,,1
+"4,481",195,Condition 3,Control,"Paris, Madrid",3/2/14 22:18,3/31/14 17:27,"41,468",41,APRIL,Université,2,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,7,5,7,6,6,2,7,1,5,4,5,3,5,3,4,5,4,4,4,5,4,4,3,1,4,4,2,2,1,0,4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,4,3,0,0,0,0,0,7,2,3,4,2,1,7,7,2,3,6,6,6,4,3,6,6,3,6,6,5,2,4,3,3,2,5,7,4,3,5,4,5,4,4,5,7,4,5,4,6,6,5,4,6,7,7,3,1,5,5,6,5,5,4,3,1,2,1,2,1,7,7,7,7,3,5,3,5,5,5,7,6,6,6,6,5,4,,,,,7,5,5,,,,,,,,,4,7,5,5,5.25,-2,-1,2,0,,"Situation très tendue : départ prochain dun de mes 2 chefs mais sans officialisation
+Chaque cas à traiter doit lêtre en se demandant quelles vont être les conséquences
+Mise en attente de certaines tâches pour ne pas engendrer de problème 
+Investissement dans de nouvelles tâches afin doccuper mon emploi du temps mais sans laisser planner de doutes ou de questions
+Accompagnement de certains de mes collègues (mis au courant récemment) pour les aider à envisager leur avenir
+Aide directe pour mon chef afin de lui assurer un départ le plus serein possible
+Me positionner pour lavenir, afin dobtenir de nouvelles missions épanouissantes et de faire preuve de ma volonté et de mon enthousisme",,,1
+"4,483",193,Condition 1,Health,"Paris, Madrid",3/3/14 9:14,4/2/14 14:19,"43,505",32,April,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,5,7,6,7,7,2,6,5,2,2,3,2,4,4,4,5,2,4,1,5,2,5,3,5,3,,2,3,0,0,1,4,0,0,3,4,4,3,0,0,4,3,0,0,0,0,0,3,3,4,4,0,3,0,0,0,0,0,0,0,4,5,4,4,,,4,1,1,6,2,7,7,3,2,7,5,2,2,6,6,1,2,5,4,7,4,7,6,5,4,6,3,3,7,2,7,6,4,6,,4,5,4,,,3,1,2,1,1,1,3,1,4,2,1,3,1,1,2,3,4,4,4,4,2,6,1,5,4,3,4,2,6,4,5,4,,,,,,,,,5,7,4,5,,,,,5,7,4,5,5.25,-3,-3,-2,-6,,,"Chère maman, 
+
+je maperçois aujourdhui de combien je te suis reconnaissante de mavoir inculquée de bonnes habitutes alimentaires. Lalimentation est pour moi le premier axe par lequel je prends soin de ma santé et qui maide à me sentir bien dans mon corps. 
+
+A priori, manger équilibré peut être perçu comme une contrainte, mais ca savère rapidement être une évidence, qui permet de se sentir mieux. 
+
+Toujours tu mas invitée à manger varié et équilibré, avec le souci de prendre plaisir pendant les repas. La règle : une protéine, un légume, un fruit. Pas de ""cochonneries"" : exit le nutella et les bonbons qui ne me font même plus envie. 
+
+Grâce à ce régime, je me régale, et jai trouvé un poids déquilibre dans lequel je me sens bien. 
+
+Je sais que la nutrition tas toujours tenue à coeur, et que tu as essayer de linculquer à Mamie et Tata. Je considère quavec moi, cest mission accomplie !
+
+Bisous,
+Marine",,1
+"4,485",194,Condition 2,Work,"Paris, Madrid",3/3/14 9:54,3/28/14 9:18,"35,963",35,APRIL,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Homme,1,4,1,7,1,7,7,5,1,7,6,5,3,5,5,3,5,4,5,4,5,4,5,4,5,5,2,3,5,2,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,,,,,,,,,,7,7,7,4,4,7,6,7,4,7,7,4,1,1,1,1,1,1,4,4,4,3,4,5,7,7,7,7,1,1,4,4,7,7,7,7,7,5,1,1,1,,,,,,,,,,,5,7,7,7,5,1,6,6,6,5,2,2,2,2,2,2,,7,7,7,7,,,,,,,,,,,,7,7,7,7,7,5.31,-0.84,6.93,6.41,,,,,0
+"4,486",193,Condition 1,Health,"Paris, Madrid",3/3/14 12:57,3/24/14 11:05,"30,128",31,APRIL MOTO,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,1,7,1,7,5,7,2,7,2,4,5,4,5,5,5,5,5,4,5,4,5,5,5,5,5,5,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,4,3,4,5,5,4,7,7,7,7,7,7,7,7,7,7,6,7,7,2,1,6,1,5,4,4,3,3,2,7,4,7,7,7,7,7,7,4,7,6,4,6,6,6,6,6,6,6,1,1,1,1,1,2,1,1,1,2,6,6,6,6,7,1,7,7,6,7,7,6,6,7,6,6,,,,,,,,,5,5,4,4,,,,,5,5,4,4,4.5,9,9,9,9,,,"Maman, 
+
+Toute mon enfance tu mas encouragé à manger sainement à faire du sport. Pour prendre soin de moi et garder la forme. Aujourdhui je fais attention mais comme tu le sais jaime les exces et jadore profiter de la vie. Epicurienne, je veux profiter de la vie.
+Je te promets mais tu le sais deja, de continuer à faire des efforts pour rester en forme, et prendre soin de moi.
+Bisou",,1
+"4,487",200,Condition 4,Kindness,Europe de l’Ouest,3/3/14 12:59,4/16/14 15:36,"63,517",36,APRIL MOTO,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Femme,0,6,1,7,6,5,5,5,1,3,5,2,4,3,5,2,2,3,5,2,5,3,3,3,5,4,3,3,5,4,2,3,0,4,0,4,1,1,1,0,0,0,0,0,3,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,0,0,6,6,1,5,4,3,4,5,7,5,7,5,5,5,7,5,5,5,7,5,4,5,2,2,3,3,3,4,4,4,4,4,5,4,7,7,7,7,7,1,5,5,6,7,7,5,6,5,5,4,5,5,1,1,1,1,1,1,1,1,1,3,5,6,5,7,1,6,6,4,4,7,3,3,5,6,3,,,,,,,,,,,,,6,7,7,7,6,7,7,7,6.75,5,5,7,6,"Chère société THELEM ASSURANCE,
+
+Il y a maintenant 10 ans je me faisais licencier du poste que joccupais dans un hôtel car jétais enceinte de 3 mois. Jai traversé une période extrêment difficille et je me suis retrouvée sans emploi donc sans aucune considération professionnelle avec un enfant. Sans travail je me sentais bonne à rien malgré lenfant que javais.
+Après un an de recherches infructueuses vous  mavez donné ma chance et grâce à vous jai repris confirance en mes capacités .
+
+Aujourdhui jai réussi à évoluer dans le monde des assurances, monde qui nétait pas du tout le mien au début grâce à la chance que vous mavez donné.",,,,1
+"4,496",194,Condition 2,Work,"Paris, Madrid",3/4/14 8:25,3/20/14 10:20,"23,155",33,APRIL MOTO,Lycée,1,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,7,1,,6,7,2,7,1,7,2,5,5,5,5,4,1,3,5,1,5,3,5,5,3,5,5,5,5,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,2,1,4,7,4,2,3,7,7,7,7,7,4,7,7,7,4,7,7,7,2,3,2,2,2,6,5,1,1,2,1,6,1,5,6,7,3,6,1,4,4,7,6,7,7,7,7,5,2,2,1,1,1,1,1,1,1,1,1,1,7,6,7,7,7,1,5,7,7,6,7,6,5,6,6,2,,7,7,5,6,,,,,,,,,,,,7,7,5,6,6.25,-2,1,5,3,,,,"Mon chéri,
+
+Toi mon pillier dans ma vie depuis tant dannées qui ma toujours soutenu et encouragé dans tous mes choix bon oupas. En toi jai trouvé un équilibre qui fait que jaime ma vie et que je suis bien. Nous avons reussi à constriuire notre famille pour laquelle nous n ousbaterons toujours et qui fait partie de nos valeurs. Merci detre là avec moi tous les jours.",1
+"4,498",195,Condition 3,Control,"Paris, Madrid",3/4/14 9:08,4/23/14 6:12,"71,823",55,DEMB maison du café France,N’a eu son baccalauréat,0,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Homme,1,5,5,4,4,6,2,5,1,5,2,4,5,3,4,3,3,4,4,4,4,3,4,5,4,4,5,3,2,0,0,0,0,0,0,0,1,1,1,0,4,3,2,4,1,0,2,1,2,1,2,1,2,3,3,0,0,0,0,0,0,2,1,1,1,4,4,1,4,1,,,3,5,6,4,3,5,6,5,3,5,5,5,4,3,5,1,5,7,4,3,5,2,4,3,7,7,4,7,5,7,4,4,5,5,5,5,5,5,4,4,4,1,2,1,1,1,1,1,1,1,1,5,5,6,5,4,4,4,5,5,6,4,4,6,6,4,6,5,,,,,5,5,5,,,,,,,,,5,5,5,5,5,2,3,2,3,,"Je reviens de 3 jours de Week end où tout cest bien passé,les 4 jours précédents jai fait ce quil fallait pour ne pas avoir de problème dans mon travail.
+les 8 prochaines minutes vont me permettre de prendre un café et organiser le reste de ma matiné.",,,1
+"4,499",195,Condition 3,Control,"Paris, Madrid",3/4/14 12:29,3/11/14 12:34,"10,084",25,APRIL MARINE,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Femme,0,6,2,6,5,7,2,7,2,3,4,5,4,4,4,5,2,3,2,3,4,4,2,3,2,3,2,2,2,1,2,0,0,0,1,1,3,2,2,3,0,4,2,0,0,2,0,2,3,0,2,0,0,2,2,1,2,3,0,0,0,0,1,4,1,1,1,5,5,5,3,3,5,6,6,5,5,6,5,4,6,5,5,4,7,5,7,7,5,7,7,4,7,7,3,7,4,6,5,7,7,6,6,5,5,5,5,5,6,6,5,4,5,4,1,2,2,1,1,2,1,1,4,6,6,5,4,6,2,6,5,5,6,7,4,5,4,6,3,7,,,,,7,5,5,,,,,,,,,7,7,5,5,6,3,2,2,0,,Organisation des taches et du temps travail pour ne pas être submerger,,,1
+"4,500",193,Condition 1,Health,"Paris, Madrid",3/4/14 12:46,3/24/14 10:24,"28,658",41,APRIL,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Femme,0,7,1,7,6,6,3,7,1,6,1,5,5,5,5,2,5,3,5,3,5,4,5,2,2,1,3,4,5,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,4,0,0,1,6,2,1,6,7,1,2,6,6,6,6,7,7,5,5,6,6,5,5,7,5,4,6,6,7,6,6,7,5,4,5,6,4,6,2,5,7,4,6,2,3,5,6,6,1,6,6,5,4,5,4,2,1,1,1,1,1,1,1,1,1,6,5,4,4,6,1,7,7,7,7,2,7,7,7,7,7,,,,,,,,,6,6,5,5,,,,,6,6,5,5,5.5,7,10,7,8,,,"Il mest difficile de me projeter sur une personne en particulier qui ces dernières années, ma permis daméliorer ma santé pour mener une vie plus saine. Je pense à mon époux, à ma mère, à mes amis proches qui chacun à leur manière, à différents moments de ma vie, mont incitée à  faire du sport (course à pied, natation), à manger plus équilibré, à prendre une tisane ou manger des noix pour mieux dormir, à faire des cures de magnésium, à prendre soin de moi pour ne pas être trop angoissée...
+Je suis reconnaissante à tous ceux qui me sont chers pour lattention et les conseils quils ont su me porter au cours des années passées, et je suis fière de moi davoir su les mettre à profit.",,1
+"4,502",194,Condition 2,Work,"Paris, Madrid",3/4/14 17:02,3/4/14 17:37,34,46,APRIL MON ASSURANCE,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,4,1,6,5,6,6,6,2,6,6,3,5,4,5,1,5,1,5,1,5,2,5,3,5,3,3,3,4,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,1,1,4,4,6,4,5,6,4,5,6,6,4,6,6,5,5,6,5,5,4,3,2,3,2,5,6,3,1,3,1,1,1,3,5,7,5,6,4,4,4,5,4,4,5,5,5,3,3,2,4,4,3,1,2,1,1,1,2,1,7,5,5,4,5,2,5,4,4,5,7,3,5,3,3,2,,6,5,4,5,,,,,,,,,,,,6,5,4,5,5,1,1,5,0,,,,"Bonjour Rodolphe,
+je souhaitais tadresser ce petit mot afin de te remercier pour ton soutien dans ma montée en compétence. Grace au soin apporté à tes réponses sur mes demandes davis techniques, tes recherches constantes de jurisprudence, la minutie avec laquelle tu étudie toutes les pièces, la rigueur constante dans ton travail, et ta grande capacité dorganisation, tu es un modèle qui minspire et me fait progresser, car si techniquement je mestime assez compétente, jai quand même tendance à ne pas forcément tout approndire, grâce à toi je suis plus minutieuse dans mon travail et je mefforce dêtre plus organisée, alors que ce nest pas forcément mon fort, et je me suis améliorée.
+donc merci
+
+amicalement, Nathalie",1
+"4,503",200,Condition 4,Kindness,"Paris, Madrid",3/4/14 17:06,4/22/14 12:17,"70,270",33,april partenaires,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,7,5,7,7,6,1,7,1,1,4,4,4,5,5,4,5,4,3,4,2,4,2,4,1,4,3,4,2,3,3,3,0,0,1,1,2,3,2,0,0,2,0,0,0,0,0,0,2,3,3,0,0,0,0,0,3,0,0,0,0,0,7,1,1,1,1,1,1,1,7,1,7,7,7,7,7,7,7,7,7,7,7,7,5,5,3,5,7,7,5,4,,7,7,6,7,7,7,7,7,7,1,4,7,7,7,6,6,6,6,3,3,4,5,3,2,4,1,1,1,3,1,5,6,7,7,6,2,5,5,5,5,7,6,6,6,6,2,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,8,6,10,7,,,,,0
+"4,512",193,Condition 1,Health,"Paris, Madrid",3/4/14 18:38,3/21/14 19:13,"24,514",35,MAISON DU CAFE FRANCE,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,4,1,5,5,6,6,5,2,5,2,4,3,3,4,3,1,4,3,3,4,4,3,3,2,4,4,3,3,1,1,3,2,0,0,0,3,2,0,0,1,3,1,1,3,3,1,3,3,3,3,3,3,1,1,1,0,3,3,1,3,1,7,7,1,7,7,4,7,7,6,6,6,7,5,4,7,6,4,4,7,7,4,4,4,3,4,4,3,3,5,4,4,5,4,4,2,5,3,4,5,4,6,5,5,5,5,6,6,5,5,5,6,6,5,5,4,4,1,2,1,3,1,5,5,4,6,6,2,6,5,4,4,7,2,3,4,2,2,,,,,,,,,5,6,4,5,,,,,5,6,4,5,5,-1,-2,3,0,,,"Cher Cédric,
+
+Mon Chédric,
+
+Grâce à toi, à ton regard porté sur moi, à tes paroles, actes, à ton amour et ta bienvaillance, jai pris goût à me ""remplumer"" pour moi, pour toi. Selon tes conseils, je me force à manger tout les matins maintenant avant de travailler, même quand je me lève en plein milieu de la nuit pour aller travailler. Cest grâce à toi et à ton amour. 
+
+Toutes tes petites attentions: me préparer à manger quand je rentre du travail, me préparer la table du petit déjeuner pour minciter à le prendre même seule, toutes ont été et sont pour moi une grande aide, une joie réconfortante, rassurante. Jaime ta manière de maimer, sincèrement. Je taime et jespère être à la hauteur.
+
+Amourement,
+
+Sophie",,1
+"4,536",194,Condition 2,Work,"Paris, Madrid",3/5/14 7:42,3/5/14 11:08,206,33,APRIL MOTO,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,5,5,7,5,6,4,6,3,4,4,5,5,5,5,4,3,3,2,3,4,4,4,4,4,4,4,3,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,2,5,5,3,6,4,6,6,5,6,6,6,7,6,6,7,7,7,6,7,6,5,6,4,5,6,4,5,5,4,4,4,6,6,2,6,5,5,5,5,5,5,5,5,5,5,5,5,5,1,2,1,1,1,1,1,1,1,1,5,5,5,6,6,1,6,6,4,5,3,6,6,6,6,5,,6,6,6,6,,,,,,,,,,,,6,6,6,6,6,6,4,7,6,,,,"Cher collègue,
+
+Je tenais a te remercier pour lensemble des différente étapes que tu ma appris lors de ma prise de poste.
+Pour ta patience dans les différents processus de formation et daccompagnement professionnel.
+Grace a toi, jai acquis des valeurs morales et savoir être professionnel qui mont été dune grande aide dans lensemble de ma carrière professionnelle. 
+Tu mas apporter des bases solides que jai su reproduire auprès de mes équipes et jespère leur avoir apporter un socle aussi fort que celui que jai reçu.
+Je te remercie pour cette bonne entrer dans la vie professionnelle que jai eu grace a toi.
+
+Amicalement.",1
+"4,538",195,Condition 3,Control,"Paris, Madrid",3/5/14 12:04,3/13/14 12:58,"11,573",37,APRIL,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études universitaires,4,Siège social,0,Femme,0,7,2,6,2,7,2,7,2,4,6,3,1,3,1,1,1,5,3,5,5,5,5,5,2,3,3,5,5,4,2,4,0,0,4,0,0,2,2,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,1,1,5,2,1,7,2,1,7,7,5,3,5,6,6,5,5,7,7,5,6,5,5,5,4,4,6,5,4,2,4,1,6,2,6,4,4,5,7,4,7,7,7,7,5,6,6,2,1,1,4,1,2,1,1,1,1,1,1,1,6,6,7,6,6,2,6,7,6,7,7,5,6,6,7,5,6,,,,,6,5,5,,,,,,,,,6,6,5,5,5.5,6,7,0,-5,,"jai finalisé un dossier important et procédé à son déploiement
+je me suis beaucoup impliquée pour livrer ce qui était prévu
+jai organisé le plan opérationnel du mois suivant
+je me suis occupée un peu plus de mes enfants ce week end 
+jai pris du temps pour me détendre",,,1
+"4,540",200,Condition 4,Kindness,Est,3/5/14 14:20,4/11/14 16:41,"53,421",41,Elco Assurances Inc / April Canada Inc,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Homme,1,6,1,7,4,7,4,7,2,4,1,5,1,5,5,5,2,5,4,5,5,5,5,4,5,5,5,5,5,1,0,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,1,0,1,2,0,0,1,1,0,0,0,0,0,3,6,6,1,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,4,7,7,7,7,7,6,7,6,6,4,7,7,4,4,4,4,7,7,7,7,7,7,7,7,7,7,7,4,1,1,1,1,1,1,1,1,6,7,7,7,7,7,1,7,6,6,6,4,6,4,5,6,5,,,,,,,,,,,,,7,7,7,7,7,7,7,7,7,8.87,8.03,8.74,8.16,"Chere Mere,
+
+Je tecris aujourdhui cette lettre pour te dire comment je suis reconnaissant envers toi pour tout ce que tu as fait pour moi durant les quatres dernires semaine. Ton supprot a la maison est incroyable
+
+Tendrement et Amicalement Merci
+
+Ton Garcon chéri
+
+Vernes",,,,1
+"4,917",193,Condition 1,Health,"Paris, Madrid",3/6/14 14:24,4/23/14 15:59,"69,215",30,APRIL,Université,2,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Femme,0,3,7,6,7,7,5,7,6,2,2,3,1,4,4,3,1,4,2,3,3,3,3,3,1,4,2,3,2,4,4,4,4,1,0,1,4,3,3,1,4,4,2,0,1,1,1,3,4,3,4,1,3,3,1,3,0,0,0,0,0,0,7,6,6,5,6,7,6,7,7,5,6,6,6,5,5,6,6,6,6,6,4,4,3,2,5,3,4,4,4,1,5,3,3,5,4,4,3,5,6,2,6,7,6,6,6,6,6,6,5,6,5,7,7,7,7,7,7,6,5,7,7,6,6,6,6,5,3,5,4,4,3,2,2,3,2,3,1,,,,,,,,,7,6,6,5,,,,,7,6,6,5,6,-9,-9,-9,-8,,,"Mon cher Papa, 
+Je suis reconnaissante envers toi car tu mas elevé depuis mes un an et demi alors que je ne suis pas ta fille et jamais tu ne mas laissé tomber.
+Tu as toujours été là pour moi, même après le décès de maman.
+Tu mas toujours soutenu dans mes démarches pour en savoir plus sur mon père biologique sans jamais me juger.
+Grace à toi jai mon frère et tu nous as toujours soutenu dans tout, meme quand on faisait des bétises.
+Malgré certaines erreurs de parcours tu as toujours été compréhensif et présent, et sans toi je nen serais pas là aujourdhui.
+Merci Mille fois Papa....",,1
+"5,040",195,Condition 3,Control,"Paris, Madrid",3/7/14 7:54,4/4/14 16:01,"40,807",33,APRIL Moto,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,6,2,7,5,7,3,6,1,3,3,4,5,5,5,4,2,3,4,3,5,4,4,4,4,4,2,4,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,4,5,5,4,5,4,5,5,7,6,6,6,7,6,5,6,6,5,5,6,5,4,6,5,5,6,5,4,4,5,5,4,4,4,6,5,6,2,4,4,5,3,5,5,4,4,4,4,4,4,1,1,1,1,1,1,1,1,1,7,6,6,6,6,1,6,6,5,4,6,6,6,6,6,6,6,,,,,6,6,6,,,,,,,,,6,6,6,6,6,8,7,5,5,,,,,0
+"5,044",194,Condition 2,Work,"Paris, Madrid",3/7/14 10:14,4/21/14 10:45,"64,831",41,BADOIT / DANONE,Troisième cycle,4,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Usine,1,Femme,0,7,1,6,6,5,5,7,1,5,3,5,4,5,5,3,2,3,3,3,3,3,4,3,1,4,2,3,2,3,0,2,1,2,0,2,2,3,3,3,0,2,2,1,2,2,2,0,2,0,2,1,2,0,1,1,0,0,0,0,0,0,7,6,4,6,6,6,5,4,6,6,7,2,6,7,7,6,6,5,7,5,5,5,5,3,5,5,5,7,5,2,6,5,4,4,3,7,6,2,6,6,5,5,5,5,6,5,6,6,7,6,7,4,1,1,1,1,1,1,,1,3,6,5,5,5,6,1,6,5,6,4,6,5,5,5,6,5,,7,7,7,,,,,,,,,,,,,7,7,7,,7,0,-4,-2,-6,,,,,0
+"5,045",195,Condition 3,Control,"Paris, Madrid",3/7/14 10:43,4/22/14 7:15,"66,032",22,Sociéte des Eaux de Volvic,Études supérieures,3,,,Usine,1,Femme,0,7,2,6,5,7,3,6,5,5,3,2,3,2,2,4,5,4,1,3,1,3,5,3,3,2,2,5,5,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,6,5,5,5,3,3,3,6,5,5,7,5,6,3,7,5,5,1,7,5,5,1,3,2,3,5,5,5,4,2,4,5,5,6,4,5,7,7,7,7,4,5,5,1,5,7,6,6,2,3,6,5,2,5,2,1,2,5,5,3,2,7,6,5,6,5,1,6,6,4,6,6,6,5,6,6,4,7,,,,,4,4,4,,,,,,,,,7,4,4,4,4.75,-2,5,-2,-4,,"Réalisation de mon pré-mémoire ce weekend (mise en forme, correction de lorthographe, finitions).
+
+Rencontre avec de vieux amis.
+
+Réalisation dune présentation powerpoint pour une réunion paritaire. Cette présentation a été retravaillée lors dune réunion informelle avant la paritaire incluant des personnes importantes. La présentation est entièrement modifiée.
+
+Recherche de données pour la présentation de la réunion paritaire, essentiellement avec le service formation
+
+Recherche de données pour remplir les tableaux de suivi de laccord égalité professionnelle H/F, avec le service formation. Travail sur le tableau excel 2013 de formation, extraction et croisées de données.
+
+Réunion sur le plan daction en cours sur la reconnaissance des formateurs avec le service formation. Modification 
+de la fiche métier réalisée.
+
+Déjeuner avec une nouvelle collègue de travail.
+
+Déjeuner avec des collègues de travail exerçant à la maintenance.
+
+Jogging denviron 20 minutes.
+
+Critiques et corrections du pré-mémoire par sa tutrice.",,,1
+"5,050",193,Condition 1,Health,"Paris, Madrid",3/7/14 12:23,4/22/14 14:25,"66,361",22,Société Anonyme de Eaux Minérales dEvian,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Homme,1,2,2,6,2,6,7,7,2,5,2,3,1,4,4,4,5,3,3,3,5,2,4,3,3,4,3,3,3,3,2,0,0,0,1,1,3,2,2,1,1,2,2,2,2,3,3,1,2,2,3,2,1,2,2,,1,1,1,1,1,1,3,3,3,3,3,3,3,3,3,3,5,7,6,4,6,6,5,4,6,5,5,4,5,4,6,5,5,6,5,7,5,6,6,3,5,4,7,7,4,5,5,5,4,5,5,3,3,5,5,5,5,4,1,2,3,3,1,1,1,4,2,4,5,5,5,5,2,5,4,3,4,3,2,5,5,3,2,,,,,,,,,5,4,5,3,,,,,5,4,5,3,4.25,-3,-3,-6,-3,,,,,0
+"5,052",194,Condition 2,Work,"Paris, Madrid",3/7/14 13:28,4/23/14 7:54,"67,346",49,DANONE,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Homme,1,2,5,5,5,6,6,3,5,5,3,3,3,3,4,2,2,4,3,3,4,3,5,4,2,2,2,2,3,3,2,2,2,2,0,1,2,3,3,0,1,1,0,0,3,0,3,3,1,1,3,0,0,1,0,0,0,0,0,0,0,2,2,1,3,3,3,4,4,5,5,4,4,6,6,6,6,6,6,6,4,6,6,6,4,2,5,3,4,3,3,1,5,2,4,4,4,6,6,6,6,6,3,3,6,6,5,3,3,5,5,4,4,3,2,5,5,4,2,4,3,4,3,5,5,5,3,4,4,4,4,3,4,3,2,5,2,3,2,,5,2,4,4,,,,,,,,,,,,5,2,4,4,3.75,-2,-5,-2,-2,,,,"Chère Stéphanie,
+Jai énromément apprécié la période pendant laquelle nous avons travaillé ensemble. Jai en particulier particulièrement apprécié lambiance et le niveau de complicité que tu as su créés dans léquipe. Jai auusi apprécié lautonomie et le champs que tu mas laissés dans mon travail. Je trouve que tu as su mettre en avant tes collaborateurs sans tirer la couverture à toi. Perpexle au début, jai finalement bien aimé le degré de distance que tu pouvais mettre para rapport aux évènements et aux sollicitations de la chaine hierarchique.
+Jessaie plus ou moins consciemment de cultiver quelques unes de tes habitudes et attitudes : essayer de créer de la convivialité dans mon équipe et des moments de partage, accorder de limportances aux discussions informelles, aux discussions autour de la machine à café.
+En moins bien, je pense aussi avoir pris un certains recul et un certain cynisme dans mon jugement sur lorganisation au sens général, en étant moins dupe ou moins crédule...
+En plus positif, je pense avoir grandi en assurance et en maitrise dans mon positionneemnt et ma communication",1
+"5,077",200,Condition 4,Kindness,Est,3/7/14 18:48,4/25/14 17:20,"70,471",48,April Canada,Lycée,1,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Autres,2,Femme,0,7,4,6,1,6,2,6,3,6,1,5,5,5,5,3,5,5,5,3,5,5,5,5,5,5,2,4,5,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,4,4,2,6,5,2,6,6,6,6,6,7,7,6,6,7,7,6,6,6,7,5,6,6,7,6,5,7,5,5,7,5,4,7,4,5,6,6,6,7,7,7,6,5,5,6,7,7,5,5,5,1,1,1,1,1,1,1,1,1,1,6,4,4,6,6,1,6,7,7,7,7,6,7,7,6,6,,,,,,,,,,,,,5,6,6,6,5,6,6,6,5.75,9,8,9,8,"Cher Marcel,
+
+Tu es maintenant décédé, et je nai pas eu la chance de te dire à quel point tu as été une personne importante pour moi à un moment ou jen avais vraiment besoin.  Lors de ma séparation, je me suis retrouvée seule, avec mes 3 enfants. Jai trouvé cette étape très difficile et tu a su le reconnaitre.  Tu mas beaucoup aidé, autant financièrement en mapportant des légumes de ton jardin toute les semaines, que émotionnellement en passant tout les jours me faire un petit coucou ou prendre un café.  On a beaucoup joué au carte et jasé.  Je suis sure que tu faisais ca parceque tu savais que je me sentais seule.  Le temps que jai passé en ta compagnie, a discuté, me faisait oublié pour un moment ma tristesse et mon chagrin.  Meme après avoir déménagée loin de chez toi, tu as continuer à prendre de mes nouvelles régulièrement et tu as continuer de venir me voir toutes les semaines.  Tu as été presque un père pour moi.  Cest toi qui ma montré a aider les autres, sans les jugers.  Aujourdhui, plusieurs années plus tard, je pense souvent a toi.  Je suis bien dans ma vie et je suis heureuse.  Aujourdhui jai la chance de rendre la pareille à dautre personne, et chaque fois, je pense à toi.  Quand je te disait que je ne pourrais jamais te remercier assez de ta présence et de tout ce que tu as fais pour moi, tu me disais que la facon de te remercier était de faire la même chose pour dautres personnes qui en avait besoin... ce que je tente de faire dans mon quotidien.
+
+Merci Marcel",,,,1
+"5,129",200,Condition 4,Kindness,"Paris, Madrid",3/8/14 12:34,4/26/14 11:54,"70,519",33,APRIL,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,2,1,3,7,4,6,6,6,2,5,4,2,4,4,2,4,1,2,1,4,1,5,3,3,3,3,2,5,3,2,2,3,2,3,2,3,2,2,2,3,2,3,1,2,0,1,2,2,2,4,2,2,3,1,0,1,1,1,0,0,3,4,1,5,2,3,5,5,4,7,4,5,5,5,4,6,4,5,5,5,6,5,5,4,3,5,3,3,6,4,3,4,3,3,4,2,3,6,7,2,7,4,4,2,3,4,5,3,2,3,1,2,4,4,5,5,4,6,5,5,6,4,6,6,5,5,2,2,5,3,4,3,4,2,3,2,2,2,,,,,,,,,,,,,6,5,4,4,6,5,4,4,4.75,-1,-6,2,-2,"Christelle,
+
+En reflechissant aux personnes envers qui je suis reconnaissante davoir été là pour moi, je pense à toi.
+
+En effet, lorsque jai connu récemment des moments difficiles, tu as était là pour moi.
+
+Ce qui ma agréablement suprise cest que malgré leloignement causé par la vie  notre amitié est toujours présente et tu as su être là quand javais besoin dune écoute sans jugé.
+Ce que japprécie cest que je puisse etre moi, ne mas avoir de masque et tu es là quand ca ne va pour parler même si lon ne se voit pas trés souvent.Cest ce qui fait la force dune amitié cest de pouvoir paratagé les bons comme les mauvais moments.
+je tembrasse.",,,,1
+"5,150",194,Condition 2,Work,"Paris, Madrid",3/9/14 21:15,3/24/14 23:12,"21,717",38,danone,Université,2,Lun de mes parents ou les deux ont suivi des études universitaires,4,Siège social,0,Femme,0,3,1,6,7,5,5,6,1,7,2,3,3,4,3,3,1,3,2,3,5,3,5,3,1,4,1,3,5,3,0,0,0,2,0,2,4,0,0,0,0,3,0,0,0,0,2,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,7,1,1,6,5,6,1,1,7,7,7,6,5,7,7,5,3,7,7,5,3,7,7,1,7,1,1,7,5,1,7,1,1,1,2,6,7,7,7,7,4,4,5,4,6,4,6,6,5,5,5,1,1,1,1,1,1,1,1,1,6,7,7,6,6,5,1,5,6,4,2,4,5,6,6,7,2,,7,2,4,4,,,,,,,,,,,,7,2,4,4,4.25,5,4,3,2,,,,"Mon Chéri,
+
+Voilà 10 ans, tu me demandais ""Quel est ton but dans la vie"" ? et tu ne récoltais quun silence interdit de ma part.
+Un projet-de-vie ? Une projection à long terme ? Lidée que chaque action chaque jour nous rapproche un peu plus dun but défini et superieur à tout autre ?
+Voilà bien une question qui me faisiit sécher.
+
+Aujourdhui, grâce à ta persévérence et ma capacité de remise en cause (!!), jai enfin réponse à la question.
+Dabord nous parlerons du but de notre vie, parce quon est 2, enfin 4 maintenant.
+Donc notre but dans la vie est 1. de se dire les choses pour être heureux (done)  2. vivre dans un endroit sympa (done)  3. lancer des business, gagner plein dargent pour arreter de travailler et profiter du reste de notre vie en famille (work in progress)
+
+Avec tout mon amour,
+Marine",1
+"5,152",195,Condition 3,Control,"Paris, Madrid",3/10/14 7:16,4/18/14 6:31,"56,115",23,danone,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Femme,0,6,1,6,4,6,2,6,1,4,2,3,5,4,5,3,5,4,4,1,4,2,5,4,4,2,5,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,1,1,4,5,5,5,4,6,7,7,7,6,5,7,6,6,7,7,6,6,5,4,6,5,6,6,6,3,6,5,4,6,5,5,5,6,5,3,5,6,6,5,6,5,6,5,4,4,4,1,1,1,1,1,1,1,1,1,4,5,4,5,5,7,1,7,5,5,4,6,6,6,5,6,3,6,,,,,5,5,5,,,,,,,,,6,5,5,5,5.25,7,2,1,0,,"Mise en place de la paie du mois de mars 
+Mise en place de 15 stagiaires 
+E,tretien pour les I500 - Courses - Sport",,,1
+"5,153",193,Condition 1,Health,"Paris, Madrid",3/10/14 7:22,4/23/14 14:52,"63,810",22,Danone,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Usine,1,Femme,0,5,1,6,6,7,6,7,1,6,6,5,5,5,4,5,4,5,5,3,5,4,5,3,4,4,2,2,3,4,0,1,0,0,0,0,1,1,1,0,0,2,2,1,1,0,0,2,0,0,1,0,2,1,1,0,1,2,0,0,0,0,6,4,1,6,6,3,6,7,7,6,3,7,6,3,5,5,5,1,5,7,3,1,5,5,7,5,6,7,5,4,6,7,7,7,2,5,6,3,6,6,4,4,6,6,7,6,6,6,4,6,2,2,1,1,1,1,1,1,1,1,6,7,7,5,5,4,3,5,5,5,5,6,5,5,6,6,6,,,,,,,,,6,6,4,5,,,,,6,6,4,5,5.25,4,5,3,4,,,"Cher Jean Baptise,
+Je tenais à te dire à quelle point jai été heureuse de te rencontrer. Ton appui au quotidien fait quaujourdhui jai bien plus confiance en moi quavant de te rencontrer. Tu me fais des compliments chaque jour et je sais que tu maimes sincèrement, tu supportes mes petits travers sans rien dire. Tu maimes pour ce que je suis. Ton soutien dans les moments pénibles est plus quutile, il est nécessaire et maintenant que tu es à mes côtés, je me sens plus forte et surtout je ne me sens plus seule. Merci pour tout, merci de maimer et de maider tous les jours.
+Amicalement",,1
+"5,154",200,Condition 4,Kindness,"Paris, Madrid",3/10/14 8:10,4/9/14 14:18,"43,568",54,Danone,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Homme,1,7,1,7,6,7,3,7,3,3,1,3,2,2,4,3,2,3,2,2,,3,4,3,4,4,4,3,3,4,0,3,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,3,6,5,1,,,2,6,2,6,7,7,6,6,5,6,6,6,6,6,6,6,6,6,5,7,5,5,7,7,4,7,6,5,6,6,7,7,5,7,7,2,6,4,3,4,6,6,6,6,6,6,3,1,1,1,2,1,1,1,1,1,7,7,7,7,6,2,7,5,5,5,5,5,6,5,6,3,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,4.34,4.98,4.6,5.7,,,,,0
+"5,155",195,Condition 3,Control,"Paris, Madrid",3/10/14 9:13,4/9/14 9:28,"43,214",24,Danone,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études universitaires,4,Usine,1,Femme,0,7,5,7,7,6,5,7,1,7,3,4,3,5,5,2,1,5,3,4,5,4,5,5,2,5,1,4,3,3,3,0,0,3,0,0,2,3,3,0,2,3,1,0,0,0,3,3,0,0,2,0,3,2,0,0,1,0,0,0,0,0,1,4,1,1,1,1,1,1,1,5,6,6,7,5,6,6,7,5,6,5,7,5,7,,7,7,4,7,7,7,7,5,2,6,3,5,7,2,7,7,4,5,5,4,4,5,5,4,4,4,4,6,2,1,2,2,2,1,1,2,1,4,6,6,5,7,1,6,6,6,6,7,6,6,6,7,5,6,,,,,7,6,6,,,,,,,,,6,7,6,6,6.25,5,7,8,10,,#NAME?,,,1
+"5,156",193,Condition 1,Health,"Paris, Madrid",3/10/14 10:20,4/17/14 11:25,"54,785",37,APRIL PARTENAIRES,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Autres,2,Femme,0,6,5,6,7,7,7,5,1,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,1,0,3,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,5,4,4,6,4,4,5,4,6,3,7,7,3,2,7,7,1,2,7,7,1,3,3,3,3,5,4,3,3,3,3,5,3,4,6,7,5,5,7,3,4,7,5,7,7,7,1,1,1,1,2,5,5,4,2,1,1,1,4,1,7,6,6,5,2,6,2,6,5,6,7,6,6,6,6,6,,,,,,,,,5,6,5,5,,,,,5,6,5,5,5.25,-4,3,8,8,,,"Salut,
+Grâce à toi et à ta volonté de perdre tes kilos en trop, je tai suivi sur ce chemin et ai moi-même perdu 5 kg. Depuis, je me sens mieux dans mon corps, et dans mes vêtements...
+Tu me pousses aussi souvent à faire du sport. Tu narrives pas encore à my envoyer toutes les semaines mais je sais que je devrais le faire...
+Bisous",,1
+"5,157",194,Condition 2,Work,"Paris, Madrid",3/10/14 15:15,4/10/14 6:31,"44,115",43,april moto,Université,2,Aucun de mes parents na n’a eu son baccalauréat,0,Siège social,0,Femme,0,5,1,7,7,6,7,7,2,7,6,3,5,5,5,3,5,4,5,2,5,2,5,3,4,3,2,3,4,3,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,1,1,1,1,2,1,1,3,1,6,6,6,6,6,5,5,5,6,5,5,6,2,2,3,2,3,6,3,2,4,1,3,7,7,7,7,7,7,7,4,4,6,7,4,5,5,6,3,3,3,4,1,1,1,1,1,1,1,1,1,6,7,7,7,6,2,6,3,4,3,5,5,3,5,2,2,,6,7,6,5,,,,,,,,,,,,6,7,6,5,6,6,3,6,5,,,,,0
+"5,158",193,Condition 1,Health,"Paris, Madrid",3/10/14 18:12,3/10/14 18:40,28,30,Danone,Université,2,Lun de mes parents ou les deux ont un diplôme universitaire,3,Usine,1,Femme,0,7,2,6,2,7,2,7,6,6,2,4,5,5,2,4,5,2,5,4,5,4,5,5,2,5,4,4,3,1,1,0,1,0,0,0,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,4,1,6,6,2,6,6,6,6,6,6,6,6,5,6,6,6,6,6,6,6,6,4,7,5,4,7,6,5,6,5,3,7,3,4,7,7,7,7,5,5,5,2,5,6,6,6,6,6,6,1,1,1,1,1,1,1,1,1,1,6,7,6,6,6,1,6,5,5,6,3,6,5,6,5,6,,,,,,,,,5,4,2,4,,,,,5,4,2,4,3.75,3,3,3,2,,,"Pierre, 
+je voulais te remercier pour mavoir aider à atteindre mon obectif de course  pied, 10 km ce nétait pas rien et pourtant jen suis aujourdhui à 15... Merci de mavoir motivée, aidée à passer le cap de lopération et de la réducation qui a suivi. 1 an après jai presque tout récupéré et tu y es pour quelque chose. Je me souviens encore quand tu mencourageais alors que je peinais à atteindre les 3 km... mais tu y as toujours cru, plus que moi, même!Les ""Allez, il ne reste que quelques metres, tu peux y arriver!"" et aussi les fois ou je ne pouvais plus et que tu me disais ""cest pas grave on y retourne dans la semaine et ca ira mieux!""
+On ne remercie jamais assez les gens qui nous font du bien et tu le fais sur bien dautres thèmes encore.
+Donc Merci, de trouver les mots, de me conseiller, dêtre là tout simplement!
+Aude",,1
+"5,159",200,Condition 4,Kindness,"Paris, Madrid",3/11/14 9:24,3/18/14 10:01,"10,116",50,danone,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,1,7,6,6,7,7,1,6,2,5,2,5,3,4,2,4,3,4,2,4,3,4,1,4,3,2,3,4,4,3,0,0,0,0,3,1,0,0,4,3,0,0,1,0,,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,6,4,4,6,6,,,,,,5,6,6,6,5,5,6,6,6,5,5,5,4,4,4,4,6,6,4,2,4,3,3,5,6,6,5,4,4,4,3,5,6,5,6,6,6,5,5,5,3,2,1,2,2,1,1,1,1,3,2,6,6,6,6,5,3,5,5,5,5,,5,5,5,6,3,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,3,2,3,5,,,,,0
+"5,528",194,Condition 2,Work,"Paris, Madrid",3/12/14 15:48,3/26/14 16:19,"20,191",33,April Moto,Études supérieures,3,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Homme,1,5,5,6,7,3,3,5,5,2,5,2,2,2,3,2,2,1,2,1,3,1,2,2,1,2,2,2,2,3,3,3,3,1,3,1,4,2,2,0,3,3,0,1,1,1,2,1,2,1,4,1,0,3,2,3,1,0,0,0,0,1,4,1,4,1,4,4,4,4,5,5,5,3,1,5,5,3,2,4,5,4,2,5,3,2,2,2,2,4,4,2,6,2,1,2,3,3,6,5,6,5,3,3,2,2,3,2,4,3,2,3,2,6,4,5,5,5,1,3,1,5,2,2,4,4,3,2,2,5,5,5,5,6,5,5,5,5,3,,6,4,5,4,,,,,,,,,,,,6,4,5,4,4.75,-7,-5,-7,-7,,,,"Chère Anne-Sophie,
+
+Merci pour ton aide lors de mon expérience ratée dauto entrepreneur.
+Ton soutien et ta compréhension mont beaucoup aidé à repartir.",1
+"5,749",195,Condition 3,Control,"Paris, Madrid",3/15/14 7:54,4/25/14 11:07,"59,233",30,April Partenaires,Troisième cycle,4,Lun de mes parents ou les deux ont un diplôme universitaire,3,Autres,2,Femme,0,4,2,7,6,7,6,7,2,7,4,3,2,4,4,3,4,4,4,3,5,4,5,3,2,3,4,3,2,0,0,3,0,2,3,2,3,1,0,0,3,3,2,0,0,0,0,0,2,0,3,4,1,1,1,0,0,0,0,0,0,3,2,1,1,1,1,1,1,1,1,4,7,7,5,5,7,7,7,5,7,7,7,5,3,3,6,3,3,6,5,4,5,4,4,3,2,5,6,2,2,5,4,3,6,5,6,5,4,5,2,5,4,1,1,3,1,1,1,2,1,1,1,6,3,5,6,6,2,6,5,5,5,6,3,5,6,5,3,6,,,,,5,6,5,,,,,,,,,6,5,6,5,5.5,2,1,3,0,,"Au cours des 7 derniers jours jai effectué une journée de travail type avec réceptin dappels téléphoniques, gestion de contrats, etc....",,,1
+"5,750",193,Condition 1,Health,"Paris, Madrid",3/15/14 20:33,3/23/14 11:28,"10,975",26,April partenaires,Université,2,Lun de mes parents ou les deux ont suivi des études supérieurs (post bac),2,Siège social,0,Femme,0,6,7,7,6,5,6,6,1,7,6,,,,,,,,,,,,,,,,,,,4,2,4,0,0,0,0,3,3,0,0,0,1,2,0,0,0,0,0,2,0,3,1,0,4,1,0,4,0,0,0,0,0,3,1,1,1,3,4,1,1,5,7,5,7,5,2,4,7,3,5,5,7,2,1,,,,,,,3,1,3,3,1,2,,,,,,,,,6,6,6,6,6,6,2,6,5,1,1,1,1,1,1,1,1,3,1,5,6,3,4,6,2,6,6,4,5,7,6,6,7,6,5,,,,,,,,,5,6,5,4,,,,,5,6,5,4,5,,,5,6,,,,,0
+"5,751",200,Condition 4,Kindness,"Paris, Madrid",3/16/14 16:41,3/28/14 21:10,"17,549",36,Danone,Études supérieures,3,Lun de mes parents ou les deux ont un diplôme universitaire,3,Siège social,0,Homme,1,7,6,5,4,7,1,7,1,6,2,4,5,3,5,3,5,5,5,4,5,5,5,5,3,5,4,4,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,2,7,7,6,7,7,6,7,6,7,6,5,6,7,6,3,7,7,6,3,5,3,5,3,6,3,2,2,5,2,1,2,2,5,7,6,3,6,5,5,6,3,6,6,6,2,2,6,5,2,1,1,1,1,3,1,1,1,1,6,7,6,5,6,1,7,6,5,5,7,7,6,6,6,2,,,,,,,,,,,,,7,7,7,7,7,7,7,7,7,7,8,3,7,"Chère Pascale,
+
+Si jécris cette lettre, cest pour te dire merci... Pour quoi ? Pour tout ce que tu as  fait pour moi : 
+- nos 5 enfants qui sont une source de joie permanente, qui enrichissent notre famille et nous aide à réfléchir sur nous, sur ce que nous sommes et ce que nous désirons leur transmettre.
+- ta présence dans les moments de doute professionnels : quand je ne savais pas quelle direction prendre, tu mas renvoyé limage du fait quil me fallait prendre des décisions, et agir au lieu de me morfondre dans une spirale négative... Grâce à toi, jai utilisé cette énergie pour arriver professionnellement où je suis, à un poste où jessaye au quotidien de mettre en adéquation ma foi en Dieu et mes actes : aider le plus grand nombre pour faire un bout de chemin avec eux et les accompagner vers un mieux être
+- ta présence dans les moments de peine... La perte de mes grands-pères (et en particulier de Daddy), la douleur que jai pu ressenti. Tout cela ma aidé à dépasser ces moments pour arriver à me souvenir des moments de bonheur avec eux et de tout ce quils mont apporté.
+- ta présence à mes côtés au quotidien pour mapporter bonheur et amour qui sont les ciments de notre relation, même sil a fallu du temps avant que je ne me lavoue.
+
+Je tembrasse,
+Jean-Seb",,,,1
+"5,752",194,Condition 2,Work,"Paris, Madrid",3/17/14 13:19,4/16/14 18:24,"43,504",41,danone,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Usine,1,Femme,0,2,2,7,7,6,3,5,1,4,7,5,5,3,2,4,3,3,3,1,5,4,5,3,2,3,1,3,2,3,3,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,,0,0,0,0,0,0,0,0,1,5,4,6,4,4,7,6,7,2,5,7,6,7,4,7,6,6,5,7,5,5,4,7,4,7,3,6,7,6,2,7,2,4,5,1,7,7,7,7,7,6,6,6,7,7,4,4,5,5,5,5,4,1,1,3,1,4,1,1,3,5,6,4,6,4,6,1,7,5,5,4,7,7,6,7,6,5,,7,6,7,6,,,,,,,,,,,,7,6,7,6,6.5,-3,2,-2,3,,,,"chèer Alberte,
+
+merci pour cette chance que tu mas donné pour évoluer dans mon travail.
+merci davoir été là pour me faire prendre confiance en moi, pour me faire prendre conscience des compétences que je possèdent et de mes capacités à réussir.
+Quelle femme tu es, ton soutien et tes connaissances sont un vrai bonheur pour tes collaborateurs. Tu es toujours présente lors des coups de mou, de découragements, de problèmes perso.
+
+Merci pour tout.
+
+Amicalement",1
+"5,753",195,Condition 3,Control,"Paris, Madrid",3/22/14 9:46,4/11/14 15:38,"29,151",40,APRIL PARTENAIRES,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,,6,7,5,7,6,4,2,4,2,1,2,4,3,3,3,2,3,2,3,3,1,1,1,4,1,4,4,4,2,0,3,0,3,3,3,3,2,4,1,0,1,4,0,3,0,3,3,3,0,1,1,0,0,2,1,0,0,1,0,5,1,1,1,4,1,1,4,1,1,5,4,5,2,6,4,5,1,5,5,5,3,2,1,2,1,2,7,1,1,1,1,1,5,7,6,3,7,7,2,2,7,4,,4,7,7,7,7,3,6,7,5,7,7,7,1,1,1,6,1,6,7,7,7,4,3,4,3,3,2,1,1,1,2,1,1,6,,,,,6,5,2,,,,,,,,,6,6,5,2,4.75,-9,-8,-9,-9,,"Routine de la journée........ Gestion des appels et tentatives davancer sur les dossiers en retard sur le bureau...  Information de la part de ma référente de service, qui me signale que ce sera elle qui partira la première du srevice lors de la déconsolidation de mon service. Vive émotion de ma part, car le poste quelle prend, jaurai aimé lavoir pour ma reconversion.... Autres informations de ma référente qui minforme dune nouvelle tâche que je devrais prendre, et surtout une nouvelle responsabilité lors de son absence... stress de ma part et peur de ne pas être compétente....Absence exceptionnelle pour une demie-journée pour enfant malade, mais sans pour autant avoir du repos moral... reprise du travail, toujours dans la routine.",,,1
+"6,179",195,Condition 3,Control,Est,4/7/14 12:55,4/14/14 13:00,"10,084",45,Elco Assurance,N’a eu son baccalauréat,0,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,4,7,2,6,6,7,1,6,2,5,5,5,2,4,2,4,5,3,5,4,5,5,5,5,5,3,5,2,1,3,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,3,0,0,1,0,0,1,1,2,0,0,0,2,0,0,,,,,,,,,,,7,7,7,7,7,7,7,7,7,7,7,7,3,2,3,2,4,4,4,2,6,2,2,6,7,7,5,5,4,7,6,7,7,7,7,7,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,4,7,7,7,2,5,7,7,6,6,5,6,6,6,5,6,,,,,6,6,6,,,,,,,,,6,6,6,6,6,6.6,9.45,4.85,9.06,,,,,0
+"6,180",200,Condition 4,Kindness,"Paris, Madrid",4/7/14 13:01,4/14/14 15:26,"10,225",44,APRIL ASSURANCES,Études supérieures,3,Aucun de mes parents na n’a eu son baccalauréat,0,Autres,2,Femme,0,6,1,6,5,7,5,7,1,6,1,4,4,5,2,4,3,4,4,4,3,4,4,4,2,3,4,4,3,2,2,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6,5,1,6,6,5,5,5,6,5,6,6,6,2,6,6,6,5,6,6,5,3,5,5,5,4,5,7,5,4,4,4,5,5,7,7,6,4,4,1,6,6,5,6,6,5,6,6,6,5,6,1,1,1,1,1,1,1,1,1,5,5,6,6,6,5,1,6,5,5,6,3,5,5,5,5,3,,,,,,,,,,,,,6,6,2,5,6,6,2,5,4.75,2,2,-2,1,"Chère Ingrid,
+
+Tu es ma soeur, ma confidente, mon amie.
+
+ Lors de ma séparation, cest toi qui a été le pillier pour me soutenir, pendant ses deux années douloureuses.
+
+Soutenue avec tes rires, ta compréhension, et ta présence, ce qui ma permis de reprendre confiance en moi et en lexistence.
+
+Cette période de ma vie a soudé notre relation.
+
+Je te remercie mille fois pour tous tes attentions qui me rendent importante.
+
+Bien à toi
+
+Isabelle",,,,1
+"6,574",195,Condition 3,Control,"Paris, Madrid",4/11/14 9:59,4/14/14 6:15,"4,095",26,Danone,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Usine,1,Femme,0,6,2,6,2,7,4,5,1,2,3,4,5,4,5,4,5,4,2,4,2,4,4,4,3,4,2,3,4,1,0,3,0,0,3,0,4,2,0,0,2,2,0,0,0,0,0,2,4,1,4,0,0,3,0,2,0,0,0,0,0,0,1,1,1,1,5,1,1,1,5,6,6,5,6,3,6,5,6,3,6,4,5,3,6,5,7,5,6,6,7,5,7,6,5,7,2,7,6,6,7,2,,,5,2,5,3,5,6,5,5,5,3,1,2,1,1,1,1,1,3,1,6,5,5,6,6,2,6,6,4,5,6,2,5,6,6,6,6,,,,,6,5,6,,,,,,,,,6,6,5,6,5.75,4,3,4,1,,"- cuisiner
+- recrutement : organisation et entretien
+- organisation dévènement
+- analyse de baromètre social, synthèse et présentation
+- courrier dinformation aux salariés et ébauche de fiche pratique
+- benchmarck
+- saisi de données
+- réunion, point sur activité
+- cinéma
+- courses
+- 4h de voiture
+- tâches ménagères
+-",,,1
+"6,809",194,Condition 2,Work,"Paris, Madrid",4/23/14 15:46,4/23/14 16:03,17,38,April Partenaires,Études supérieures,3,Lun de mes parents ou les deux ont ont eu leur baccalauréat,1,Siège social,0,Femme,0,5,2,6,2,7,5,6,2,6,2,4,5,4,5,4,5,4,5,4,5,4,5,3,3,4,5,3,4,3,3,1,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,5,5,1,5,5,3,4,5,5,6,7,5,5,5,7,5,5,5,7,5,5,5,7,6,7,5,5,7,5,5,7,6,6,7,3,3,6,7,7,5,6,6,5,4,5,5,5,6,5,5,5,1,1,1,1,1,1,1,1,1,1,6,5,5,4,7,1,7,6,5,6,6,6,5,6,6,5,,6,6,5,5,,,,,,,,,,,,6,6,5,5,5.5,6,5,5,3,,,,"Une pensée et une reconnaissance très sincère à la personne qui ma permis de venir travailler chez April Partenaires.
+Cest une passerelle inestimable que jai eu et qui me permet aujourdhui dêtre sereine et épanouie dans un travail qui me plait beaucoup.",1

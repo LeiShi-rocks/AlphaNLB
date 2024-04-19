@@ -1,3 +1,12 @@
+% Implementation of nonparametric bounds for Cronbach's alpha with
+% arbitrary missingness patterns
+%   - alphaLB, alphaUB: the output for lower and upper bounds
+%   - Data: the dataset to analyze, as a MATLAB matrix object
+%   - muLowerBound: a lower bound (scalar) for the mean of the items
+%   - muUpperBound: an upper bound (scalar) for the mean of the items
+%   - sbar: an upper bound (scalar) for the variance of the items
+% requirement: Global Optimization Toolbox
+
 function [alphaLB, alphaUB] = AlphaNB(Data, muLowerBound, muUpperBound, sbar)
 
 %% initial tuning
@@ -82,6 +91,7 @@ problem = createOptimProblem('fmincon', 'x0', x0, ...
     
 x = run(gs, problem);
 Fmin = AlphaLowerFun(x, mu, p, Js, Ds);
+
 
 alphaLB = K/(K-1) * (1 - 1/Fmin);
 
